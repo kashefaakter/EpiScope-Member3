@@ -1,0 +1,5508 @@
+{
+  "generated_at": "2026-09-26T12:01:25.047611Z",
+  "suppression_threshold": 5,
+  "records": [
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2021-01-04",
+      "case_count": 200,
+      "incidence_per_100k": 0.1919949959253296
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2022-01-03",
+      "case_count": 256,
+      "incidence_per_100k": 0.22935686952408726
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2023-01-02",
+      "case_count": 278,
+      "incidence_per_100k": 0.25987634012411387
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2024-01-01",
+      "case_count": 242,
+      "incidence_per_100k": 0.21669928533784721
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2024-12-30",
+      "case_count": 216,
+      "incidence_per_100k": 0.175339847836142
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "case_count": 126,
+      "incidence_per_100k": 0.1190028901844562
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 2,
+      "epi_week_start": "2021-01-11",
+      "case_count": 243,
+      "incidence_per_100k": 0.24184639803339628
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 2,
+      "epi_week_start": "2022-01-10",
+      "case_count": 230,
+      "incidence_per_100k": 0.2144120803465439
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 2,
+      "epi_week_start": "2023-01-09",
+      "case_count": 263,
+      "incidence_per_100k": 0.2333507812776642
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 2,
+      "epi_week_start": "2024-01-08",
+      "case_count": 190,
+      "incidence_per_100k": 0.1794965048370764
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 2,
+      "epi_week_start": "2025-01-06",
+      "case_count": 247,
+      "incidence_per_100k": 0.22097554557422402
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 3,
+      "epi_week_start": "2021-01-18",
+      "case_count": 226,
+      "incidence_per_100k": 0.21674227889425426
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 3,
+      "epi_week_start": "2022-01-17",
+      "case_count": 256,
+      "incidence_per_100k": 0.2394046143909608
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 3,
+      "epi_week_start": "2023-01-16",
+      "case_count": 319,
+      "incidence_per_100k": 0.2791992696912923
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 3,
+      "epi_week_start": "2024-01-15",
+      "case_count": 255,
+      "incidence_per_100k": 0.2346632484262703
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 3,
+      "epi_week_start": "2025-01-13",
+      "case_count": 238,
+      "incidence_per_100k": 0.21102310591682494
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 4,
+      "epi_week_start": "2021-01-25",
+      "case_count": 243,
+      "incidence_per_100k": 0.23650514194495947
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 4,
+      "epi_week_start": "2022-01-24",
+      "case_count": 243,
+      "incidence_per_100k": 0.23166994424787737
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 4,
+      "epi_week_start": "2023-01-23",
+      "case_count": 268,
+      "incidence_per_100k": 0.23382176193892493
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 4,
+      "epi_week_start": "2024-01-22",
+      "case_count": 261,
+      "incidence_per_100k": 0.24237479653555694
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 4,
+      "epi_week_start": "2025-01-20",
+      "case_count": 265,
+      "incidence_per_100k": 0.252703626941384
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 5,
+      "epi_week_start": "2021-02-01",
+      "case_count": 253,
+      "incidence_per_100k": 0.2209178001996883
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 5,
+      "epi_week_start": "2022-01-31",
+      "case_count": 261,
+      "incidence_per_100k": 0.23740315711843538
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 5,
+      "epi_week_start": "2023-01-30",
+      "case_count": 249,
+      "incidence_per_100k": 0.22938324066762972
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 5,
+      "epi_week_start": "2024-01-29",
+      "case_count": 257,
+      "incidence_per_100k": 0.2355509230797512
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 5,
+      "epi_week_start": "2025-01-27",
+      "case_count": 277,
+      "incidence_per_100k": 0.23847470801722676
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 6,
+      "epi_week_start": "2021-02-08",
+      "case_count": 227,
+      "incidence_per_100k": 0.2147913180412241
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 6,
+      "epi_week_start": "2022-02-07",
+      "case_count": 225,
+      "incidence_per_100k": 0.1990894837193641
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 6,
+      "epi_week_start": "2023-02-06",
+      "case_count": 249,
+      "incidence_per_100k": 0.2226925142913884
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 6,
+      "epi_week_start": "2024-02-05",
+      "case_count": 254,
+      "incidence_per_100k": 0.2423984542050035
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 6,
+      "epi_week_start": "2025-02-03",
+      "case_count": 313,
+      "incidence_per_100k": 0.2850425975656815
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 7,
+      "epi_week_start": "2021-02-15",
+      "case_count": 205,
+      "incidence_per_100k": 0.17418005502374695
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 7,
+      "epi_week_start": "2022-02-14",
+      "case_count": 231,
+      "incidence_per_100k": 0.20831926297442666
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 7,
+      "epi_week_start": "2023-02-13",
+      "case_count": 234,
+      "incidence_per_100k": 0.21352280172908852
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 7,
+      "epi_week_start": "2024-02-12",
+      "case_count": 258,
+      "incidence_per_100k": 0.24504159200007436
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 7,
+      "epi_week_start": "2025-02-10",
+      "case_count": 436,
+      "incidence_per_100k": 0.3802050917787104
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 8,
+      "epi_week_start": "2021-02-22",
+      "case_count": 204,
+      "incidence_per_100k": 0.2009806696918465
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 8,
+      "epi_week_start": "2022-02-21",
+      "case_count": 300,
+      "incidence_per_100k": 0.24882336189122212
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 8,
+      "epi_week_start": "2023-02-20",
+      "case_count": 234,
+      "incidence_per_100k": 0.21986992009082426
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 8,
+      "epi_week_start": "2024-02-19",
+      "case_count": 260,
+      "incidence_per_100k": 0.23391284408097934
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 8,
+      "epi_week_start": "2025-02-17",
+      "case_count": 465,
+      "incidence_per_100k": 0.42167091347838986
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 9,
+      "epi_week_start": "2021-03-01",
+      "case_count": 201,
+      "incidence_per_100k": 0.1736002829000387
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 9,
+      "epi_week_start": "2022-02-28",
+      "case_count": 181,
+      "incidence_per_100k": 0.15832985470702524
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 9,
+      "epi_week_start": "2023-02-27",
+      "case_count": 283,
+      "incidence_per_100k": 0.2640069982954037
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 9,
+      "epi_week_start": "2024-02-26",
+      "case_count": 225,
+      "incidence_per_100k": 0.20635494034339708
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 9,
+      "epi_week_start": "2025-02-24",
+      "case_count": 462,
+      "incidence_per_100k": 0.40683805692029257
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 10,
+      "epi_week_start": "2021-03-08",
+      "case_count": 167,
+      "incidence_per_100k": 0.1608115710442352
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 10,
+      "epi_week_start": "2022-03-07",
+      "case_count": 213,
+      "incidence_per_100k": 0.19446615237782913
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 10,
+      "epi_week_start": "2023-03-06",
+      "case_count": 213,
+      "incidence_per_100k": 0.18891198509543916
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 10,
+      "epi_week_start": "2024-03-04",
+      "case_count": 249,
+      "incidence_per_100k": 0.2443204395920966
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 10,
+      "epi_week_start": "2025-03-03",
+      "case_count": 447,
+      "incidence_per_100k": 0.39723108767647025
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 11,
+      "epi_week_start": "2021-03-15",
+      "case_count": 187,
+      "incidence_per_100k": 0.1679607471456485
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 11,
+      "epi_week_start": "2022-03-14",
+      "case_count": 189,
+      "incidence_per_100k": 0.170428267533051
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 11,
+      "epi_week_start": "2023-03-13",
+      "case_count": 204,
+      "incidence_per_100k": 0.18515443567054132
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 11,
+      "epi_week_start": "2024-03-11",
+      "case_count": 231,
+      "incidence_per_100k": 0.21067372221600342
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 11,
+      "epi_week_start": "2025-03-10",
+      "case_count": 436,
+      "incidence_per_100k": 0.39372359863622397
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 12,
+      "epi_week_start": "2021-03-22",
+      "case_count": 190,
+      "incidence_per_100k": 0.1825212388514327
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 12,
+      "epi_week_start": "2022-03-21",
+      "case_count": 213,
+      "incidence_per_100k": 0.19581549214711694
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 12,
+      "epi_week_start": "2023-03-20",
+      "case_count": 232,
+      "incidence_per_100k": 0.19476822256462095
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 12,
+      "epi_week_start": "2024-03-18",
+      "case_count": 208,
+      "incidence_per_100k": 0.20629545702019114
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 12,
+      "epi_week_start": "2025-03-17",
+      "case_count": 391,
+      "incidence_per_100k": 0.3537598133778092
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 13,
+      "epi_week_start": "2021-03-29",
+      "case_count": 208,
+      "incidence_per_100k": 0.18185288447968925
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 13,
+      "epi_week_start": "2022-03-28",
+      "case_count": 150,
+      "incidence_per_100k": 0.12204822883404251
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 13,
+      "epi_week_start": "2023-03-27",
+      "case_count": 170,
+      "incidence_per_100k": 0.15329072173229472
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 13,
+      "epi_week_start": "2024-03-25",
+      "case_count": 183,
+      "incidence_per_100k": 0.1720335956425849
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 13,
+      "epi_week_start": "2025-03-24",
+      "case_count": 339,
+      "incidence_per_100k": 0.2987030690139214
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 14,
+      "epi_week_start": "2021-04-05",
+      "case_count": 157,
+      "incidence_per_100k": 0.14275864697076787
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 14,
+      "epi_week_start": "2022-04-04",
+      "case_count": 161,
+      "incidence_per_100k": 0.13790978458214737
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 14,
+      "epi_week_start": "2023-04-03",
+      "case_count": 148,
+      "incidence_per_100k": 0.1590983432799809
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 14,
+      "epi_week_start": "2024-04-01",
+      "case_count": 220,
+      "incidence_per_100k": 0.21136525974183787
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 14,
+      "epi_week_start": "2025-03-31",
+      "case_count": 350,
+      "incidence_per_100k": 0.32936509921084656
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 15,
+      "epi_week_start": "2021-04-12",
+      "case_count": 176,
+      "incidence_per_100k": 0.1602663447564737
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 15,
+      "epi_week_start": "2022-04-11",
+      "case_count": 171,
+      "incidence_per_100k": 0.1515858725069541
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 15,
+      "epi_week_start": "2023-04-10",
+      "case_count": 207,
+      "incidence_per_100k": 0.1771791691522152
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 15,
+      "epi_week_start": "2024-04-08",
+      "case_count": 183,
+      "incidence_per_100k": 0.16038096964685783
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 15,
+      "epi_week_start": "2025-04-07",
+      "case_count": 329,
+      "incidence_per_100k": 0.28867133448228083
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 16,
+      "epi_week_start": "2021-04-19",
+      "case_count": 168,
+      "incidence_per_100k": 0.15136154924530487
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 16,
+      "epi_week_start": "2022-04-18",
+      "case_count": 170,
+      "incidence_per_100k": 0.15876259668601234
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 16,
+      "epi_week_start": "2023-04-17",
+      "case_count": 187,
+      "incidence_per_100k": 0.15575018718348524
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 16,
+      "epi_week_start": "2024-04-15",
+      "case_count": 183,
+      "incidence_per_100k": 0.16909962016775143
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 16,
+      "epi_week_start": "2025-04-14",
+      "case_count": 295,
+      "incidence_per_100k": 0.2784931616308369
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 17,
+      "epi_week_start": "2021-04-26",
+      "case_count": 165,
+      "incidence_per_100k": 0.15152554816512065
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 17,
+      "epi_week_start": "2022-04-25",
+      "case_count": 196,
+      "incidence_per_100k": 0.1709870597922203
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 17,
+      "epi_week_start": "2023-04-24",
+      "case_count": 183,
+      "incidence_per_100k": 0.16368739285624054
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 17,
+      "epi_week_start": "2024-04-22",
+      "case_count": 166,
+      "incidence_per_100k": 0.14933112010620114
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 17,
+      "epi_week_start": "2025-04-21",
+      "case_count": 192,
+      "incidence_per_100k": 0.16349944378578446
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 18,
+      "epi_week_start": "2021-05-03",
+      "case_count": 161,
+      "incidence_per_100k": 0.13981195216207012
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 18,
+      "epi_week_start": "2022-05-02",
+      "case_count": 203,
+      "incidence_per_100k": 0.19204845862491604
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 18,
+      "epi_week_start": "2023-05-01",
+      "case_count": 184,
+      "incidence_per_100k": 0.1576694866226394
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 18,
+      "epi_week_start": "2024-04-29",
+      "case_count": 166,
+      "incidence_per_100k": 0.1539449454948499
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 18,
+      "epi_week_start": "2025-04-28",
+      "case_count": 157,
+      "incidence_per_100k": 0.15108033674770505
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 19,
+      "epi_week_start": "2021-05-10",
+      "case_count": 172,
+      "incidence_per_100k": 0.15665041003442962
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 19,
+      "epi_week_start": "2022-05-09",
+      "case_count": 205,
+      "incidence_per_100k": 0.19032551535683911
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 19,
+      "epi_week_start": "2023-05-08",
+      "case_count": 193,
+      "incidence_per_100k": 0.17309899191485645
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 19,
+      "epi_week_start": "2024-05-06",
+      "case_count": 156,
+      "incidence_per_100k": 0.14650962222802208
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 19,
+      "epi_week_start": "2025-05-05",
+      "case_count": 181,
+      "incidence_per_100k": 0.15051508851697695
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 20,
+      "epi_week_start": "2021-05-17",
+      "case_count": 153,
+      "incidence_per_100k": 0.14057871160783095
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 20,
+      "epi_week_start": "2022-05-16",
+      "case_count": 165,
+      "incidence_per_100k": 0.16214276338106462
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 20,
+      "epi_week_start": "2023-05-15",
+      "case_count": 187,
+      "incidence_per_100k": 0.1684801856091381
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 20,
+      "epi_week_start": "2024-05-13",
+      "case_count": 211,
+      "incidence_per_100k": 0.2029343223802341
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 20,
+      "epi_week_start": "2025-05-12",
+      "case_count": 174,
+      "incidence_per_100k": 0.15481956080796466
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 21,
+      "epi_week_start": "2021-05-24",
+      "case_count": 189,
+      "incidence_per_100k": 0.18237836662230691
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 21,
+      "epi_week_start": "2022-05-23",
+      "case_count": 202,
+      "incidence_per_100k": 0.1981556981055721
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 21,
+      "epi_week_start": "2023-05-22",
+      "case_count": 214,
+      "incidence_per_100k": 0.19724593490100328
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 21,
+      "epi_week_start": "2024-05-20",
+      "case_count": 185,
+      "incidence_per_100k": 0.15962493015350826
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 21,
+      "epi_week_start": "2025-05-19",
+      "case_count": 182,
+      "incidence_per_100k": 0.16627270802183955
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 22,
+      "epi_week_start": "2021-05-31",
+      "case_count": 161,
+      "incidence_per_100k": 0.13961033934066308
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 22,
+      "epi_week_start": "2022-05-30",
+      "case_count": 163,
+      "incidence_per_100k": 0.15064107924446135
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 22,
+      "epi_week_start": "2023-05-29",
+      "case_count": 211,
+      "incidence_per_100k": 0.19859789307769227
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 22,
+      "epi_week_start": "2024-05-27",
+      "case_count": 204,
+      "incidence_per_100k": 0.17660872509457845
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 22,
+      "epi_week_start": "2025-05-26",
+      "case_count": 202,
+      "incidence_per_100k": 0.19302442478929716
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 23,
+      "epi_week_start": "2021-06-07",
+      "case_count": 154,
+      "incidence_per_100k": 0.14667020522070656
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 23,
+      "epi_week_start": "2022-06-06",
+      "case_count": 191,
+      "incidence_per_100k": 0.17220474778044242
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 23,
+      "epi_week_start": "2023-06-05",
+      "case_count": 188,
+      "incidence_per_100k": 0.16260201919660217
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 23,
+      "epi_week_start": "2024-06-03",
+      "case_count": 173,
+      "incidence_per_100k": 0.15608867395219533
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 23,
+      "epi_week_start": "2025-06-02",
+      "case_count": 226,
+      "incidence_per_100k": 0.20218467967425094
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 24,
+      "epi_week_start": "2021-06-14",
+      "case_count": 164,
+      "incidence_per_100k": 0.16108996160957023
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 24,
+      "epi_week_start": "2022-06-13",
+      "case_count": 170,
+      "incidence_per_100k": 0.14433918547795832
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 24,
+      "epi_week_start": "2023-06-12",
+      "case_count": 209,
+      "incidence_per_100k": 0.18429923206026824
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 24,
+      "epi_week_start": "2024-06-10",
+      "case_count": 170,
+      "incidence_per_100k": 0.1732111546458182
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 24,
+      "epi_week_start": "2025-06-09",
+      "case_count": 177,
+      "incidence_per_100k": 0.15586196862641838
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 25,
+      "epi_week_start": "2021-06-21",
+      "case_count": 146,
+      "incidence_per_100k": 0.1274879592027348
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 25,
+      "epi_week_start": "2022-06-20",
+      "case_count": 186,
+      "incidence_per_100k": 0.15952931779935745
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 25,
+      "epi_week_start": "2023-06-19",
+      "case_count": 187,
+      "incidence_per_100k": 0.16298948482692094
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 25,
+      "epi_week_start": "2024-06-17",
+      "case_count": 176,
+      "incidence_per_100k": 0.15419639840553473
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 25,
+      "epi_week_start": "2025-06-16",
+      "case_count": 174,
+      "incidence_per_100k": 0.14903782403069424
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 26,
+      "epi_week_start": "2021-06-28",
+      "case_count": 187,
+      "incidence_per_100k": 0.17141508777477885
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 26,
+      "epi_week_start": "2022-06-27",
+      "case_count": 203,
+      "incidence_per_100k": 0.17823697844314007
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 26,
+      "epi_week_start": "2023-06-26",
+      "case_count": 188,
+      "incidence_per_100k": 0.18387338817710766
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 26,
+      "epi_week_start": "2024-06-24",
+      "case_count": 168,
+      "incidence_per_100k": 0.16456224102188702
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 26,
+      "epi_week_start": "2025-06-23",
+      "case_count": 164,
+      "incidence_per_100k": 0.1442272607565309
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 27,
+      "epi_week_start": "2021-07-05",
+      "case_count": 177,
+      "incidence_per_100k": 0.16082156870835623
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 27,
+      "epi_week_start": "2022-07-04",
+      "case_count": 181,
+      "incidence_per_100k": 0.16099836487943192
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 27,
+      "epi_week_start": "2023-07-03",
+      "case_count": 188,
+      "incidence_per_100k": 0.15877565711695169
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 27,
+      "epi_week_start": "2024-07-01",
+      "case_count": 152,
+      "incidence_per_100k": 0.12963530760932554
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 27,
+      "epi_week_start": "2025-06-30",
+      "case_count": 183,
+      "incidence_per_100k": 0.17907272069771563
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 28,
+      "epi_week_start": "2021-07-12",
+      "case_count": 152,
+      "incidence_per_100k": 0.14403812688848136
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 28,
+      "epi_week_start": "2022-07-11",
+      "case_count": 188,
+      "incidence_per_100k": 0.16414021138621476
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 28,
+      "epi_week_start": "2023-07-10",
+      "case_count": 200,
+      "incidence_per_100k": 0.17059129239401477
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 28,
+      "epi_week_start": "2024-07-08",
+      "case_count": 171,
+      "incidence_per_100k": 0.15647620473283097
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 28,
+      "epi_week_start": "2025-07-07",
+      "case_count": 191,
+      "incidence_per_100k": 0.178040167658855
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 29,
+      "epi_week_start": "2021-07-19",
+      "case_count": 163,
+      "incidence_per_100k": 0.15215294426503592
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 29,
+      "epi_week_start": "2022-07-18",
+      "case_count": 174,
+      "incidence_per_100k": 0.16120984612161224
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 29,
+      "epi_week_start": "2023-07-17",
+      "case_count": 160,
+      "incidence_per_100k": 0.1370089822223598
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 29,
+      "epi_week_start": "2024-07-15",
+      "case_count": 148,
+      "incidence_per_100k": 0.12866240116615246
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 29,
+      "epi_week_start": "2025-07-14",
+      "case_count": 206,
+      "incidence_per_100k": 0.18313654872513999
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 30,
+      "epi_week_start": "2021-07-26",
+      "case_count": 226,
+      "incidence_per_100k": 0.20366785823431774
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 30,
+      "epi_week_start": "2022-07-25",
+      "case_count": 172,
+      "incidence_per_100k": 0.15394547042140938
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 30,
+      "epi_week_start": "2023-07-24",
+      "case_count": 185,
+      "incidence_per_100k": 0.16827586221785673
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 30,
+      "epi_week_start": "2024-07-22",
+      "case_count": 156,
+      "incidence_per_100k": 0.14302163488225153
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 30,
+      "epi_week_start": "2025-07-21",
+      "case_count": 178,
+      "incidence_per_100k": 0.16051245829361824
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 31,
+      "epi_week_start": "2021-08-02",
+      "case_count": 135,
+      "incidence_per_100k": 0.1105583871775428
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 31,
+      "epi_week_start": "2022-08-01",
+      "case_count": 113,
+      "incidence_per_100k": 0.09759603699851517
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 31,
+      "epi_week_start": "2023-07-31",
+      "case_count": 145,
+      "incidence_per_100k": 0.14346592282380832
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 31,
+      "epi_week_start": "2024-07-29",
+      "case_count": 166,
+      "incidence_per_100k": 0.1513949678495155
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 31,
+      "epi_week_start": "2025-07-28",
+      "case_count": 174,
+      "incidence_per_100k": 0.1546625840001034
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 32,
+      "epi_week_start": "2021-08-09",
+      "case_count": 180,
+      "incidence_per_100k": 0.1526893567363916
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 32,
+      "epi_week_start": "2022-08-08",
+      "case_count": 188,
+      "incidence_per_100k": 0.17960818813192775
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 32,
+      "epi_week_start": "2023-08-07",
+      "case_count": 147,
+      "incidence_per_100k": 0.13295758425666668
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 32,
+      "epi_week_start": "2024-08-05",
+      "case_count": 167,
+      "incidence_per_100k": 0.15265055423070562
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 32,
+      "epi_week_start": "2025-08-04",
+      "case_count": 170,
+      "incidence_per_100k": 0.16439567375148334
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 33,
+      "epi_week_start": "2021-08-16",
+      "case_count": 134,
+      "incidence_per_100k": 0.10728168590434896
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 33,
+      "epi_week_start": "2022-08-15",
+      "case_count": 157,
+      "incidence_per_100k": 0.13343714959334052
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 33,
+      "epi_week_start": "2023-08-14",
+      "case_count": 141,
+      "incidence_per_100k": 0.13632095830612584
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 33,
+      "epi_week_start": "2024-08-12",
+      "case_count": 175,
+      "incidence_per_100k": 0.15955997479779963
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 33,
+      "epi_week_start": "2025-08-11",
+      "case_count": 179,
+      "incidence_per_100k": 0.15530983935642695
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 34,
+      "epi_week_start": "2021-08-23",
+      "case_count": 145,
+      "incidence_per_100k": 0.12381340275722182
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 34,
+      "epi_week_start": "2022-08-22",
+      "case_count": 153,
+      "incidence_per_100k": 0.1283221680972495
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 34,
+      "epi_week_start": "2023-08-21",
+      "case_count": 191,
+      "incidence_per_100k": 0.17935321181906824
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 34,
+      "epi_week_start": "2024-08-19",
+      "case_count": 191,
+      "incidence_per_100k": 0.16031130791142081
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 34,
+      "epi_week_start": "2025-08-18",
+      "case_count": 230,
+      "incidence_per_100k": 0.20580852439363775
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 35,
+      "epi_week_start": "2021-08-30",
+      "case_count": 171,
+      "incidence_per_100k": 0.17669905585124027
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 35,
+      "epi_week_start": "2022-08-29",
+      "case_count": 195,
+      "incidence_per_100k": 0.1948708227984917
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 35,
+      "epi_week_start": "2023-08-28",
+      "case_count": 197,
+      "incidence_per_100k": 0.17113810587656456
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 35,
+      "epi_week_start": "2024-08-26",
+      "case_count": 143,
+      "incidence_per_100k": 0.1296533029055079
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 35,
+      "epi_week_start": "2025-08-25",
+      "case_count": 164,
+      "incidence_per_100k": 0.15660309892644975
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 36,
+      "epi_week_start": "2021-09-06",
+      "case_count": 131,
+      "incidence_per_100k": 0.11296730353622417
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 36,
+      "epi_week_start": "2022-09-05",
+      "case_count": 165,
+      "incidence_per_100k": 0.1480405867787047
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 36,
+      "epi_week_start": "2023-09-04",
+      "case_count": 188,
+      "incidence_per_100k": 0.17643915140529332
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 36,
+      "epi_week_start": "2024-09-02",
+      "case_count": 191,
+      "incidence_per_100k": 0.18847476418500494
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 36,
+      "epi_week_start": "2025-09-01",
+      "case_count": 159,
+      "incidence_per_100k": 0.14236958214027576
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 37,
+      "epi_week_start": "2021-09-13",
+      "case_count": 161,
+      "incidence_per_100k": 0.1515605356181688
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 37,
+      "epi_week_start": "2022-09-12",
+      "case_count": 117,
+      "incidence_per_100k": 0.1032526839387244
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 37,
+      "epi_week_start": "2023-09-11",
+      "case_count": 154,
+      "incidence_per_100k": 0.1380563763348685
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 37,
+      "epi_week_start": "2024-09-09",
+      "case_count": 140,
+      "incidence_per_100k": 0.12561906304643655
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 37,
+      "epi_week_start": "2025-09-08",
+      "case_count": 177,
+      "incidence_per_100k": 0.15387551910362998
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 38,
+      "epi_week_start": "2021-09-20",
+      "case_count": 166,
+      "incidence_per_100k": 0.15839146187045192
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 38,
+      "epi_week_start": "2022-09-19",
+      "case_count": 163,
+      "incidence_per_100k": 0.14915525115886225
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 38,
+      "epi_week_start": "2023-09-18",
+      "case_count": 144,
+      "incidence_per_100k": 0.13990491756518147
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 38,
+      "epi_week_start": "2024-09-16",
+      "case_count": 154,
+      "incidence_per_100k": 0.1749097659975928
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 38,
+      "epi_week_start": "2025-09-15",
+      "case_count": 196,
+      "incidence_per_100k": 0.16856019050270685
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 39,
+      "epi_week_start": "2021-09-27",
+      "case_count": 157,
+      "incidence_per_100k": 0.14296565164572533
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 39,
+      "epi_week_start": "2022-09-26",
+      "case_count": 157,
+      "incidence_per_100k": 0.13198338893930317
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 39,
+      "epi_week_start": "2023-09-25",
+      "case_count": 135,
+      "incidence_per_100k": 0.13029838549392295
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 39,
+      "epi_week_start": "2024-09-23",
+      "case_count": 195,
+      "incidence_per_100k": 0.1712271898528366
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 39,
+      "epi_week_start": "2025-09-22",
+      "case_count": 196,
+      "incidence_per_100k": 0.17573372324940234
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 40,
+      "epi_week_start": "2021-10-04",
+      "case_count": 143,
+      "incidence_per_100k": 0.12533230544837032
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 40,
+      "epi_week_start": "2022-10-03",
+      "case_count": 148,
+      "incidence_per_100k": 0.1345763020683316
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 40,
+      "epi_week_start": "2023-10-02",
+      "case_count": 180,
+      "incidence_per_100k": 0.16091214445833055
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 40,
+      "epi_week_start": "2024-09-30",
+      "case_count": 194,
+      "incidence_per_100k": 0.17786638792882947
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 40,
+      "epi_week_start": "2025-09-29",
+      "case_count": 137,
+      "incidence_per_100k": 0.11389889204558816
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 41,
+      "epi_week_start": "2021-10-11",
+      "case_count": 125,
+      "incidence_per_100k": 0.11630837734214385
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 41,
+      "epi_week_start": "2022-10-10",
+      "case_count": 162,
+      "incidence_per_100k": 0.13492849887067773
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 41,
+      "epi_week_start": "2023-10-09",
+      "case_count": 154,
+      "incidence_per_100k": 0.13985913945569142
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 41,
+      "epi_week_start": "2024-10-07",
+      "case_count": 174,
+      "incidence_per_100k": 0.15505431885265095
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 41,
+      "epi_week_start": "2025-10-06",
+      "case_count": 171,
+      "incidence_per_100k": 0.16100173491544145
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 42,
+      "epi_week_start": "2021-10-18",
+      "case_count": 145,
+      "incidence_per_100k": 0.126179701007907
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 42,
+      "epi_week_start": "2022-10-17",
+      "case_count": 194,
+      "incidence_per_100k": 0.17972884749369428
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 42,
+      "epi_week_start": "2023-10-16",
+      "case_count": 166,
+      "incidence_per_100k": 0.144982543312582
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 42,
+      "epi_week_start": "2024-10-14",
+      "case_count": 205,
+      "incidence_per_100k": 0.18896178145030448
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 42,
+      "epi_week_start": "2025-10-13",
+      "case_count": 162,
+      "incidence_per_100k": 0.1319621101521829
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 43,
+      "epi_week_start": "2021-10-25",
+      "case_count": 154,
+      "incidence_per_100k": 0.1450888169426083
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 43,
+      "epi_week_start": "2022-10-24",
+      "case_count": 146,
+      "incidence_per_100k": 0.13903858255983412
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 43,
+      "epi_week_start": "2023-10-23",
+      "case_count": 153,
+      "incidence_per_100k": 0.1404717758477592
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 43,
+      "epi_week_start": "2024-10-21",
+      "case_count": 142,
+      "incidence_per_100k": 0.12063628589311075
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 43,
+      "epi_week_start": "2025-10-20",
+      "case_count": 149,
+      "incidence_per_100k": 0.13844212475602694
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 44,
+      "epi_week_start": "2021-11-01",
+      "case_count": 171,
+      "incidence_per_100k": 0.1501119996568702
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 44,
+      "epi_week_start": "2022-10-31",
+      "case_count": 202,
+      "incidence_per_100k": 0.1911162264613239
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 44,
+      "epi_week_start": "2023-10-30",
+      "case_count": 182,
+      "incidence_per_100k": 0.1584861217199115
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 44,
+      "epi_week_start": "2024-10-28",
+      "case_count": 204,
+      "incidence_per_100k": 0.17826438801273176
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 44,
+      "epi_week_start": "2025-10-27",
+      "case_count": 158,
+      "incidence_per_100k": 0.14792259981502667
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 45,
+      "epi_week_start": "2021-11-08",
+      "case_count": 199,
+      "incidence_per_100k": 0.16458640224835064
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 45,
+      "epi_week_start": "2022-11-07",
+      "case_count": 165,
+      "incidence_per_100k": 0.14971338498812772
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 45,
+      "epi_week_start": "2023-11-06",
+      "case_count": 170,
+      "incidence_per_100k": 0.1429186998778399
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 45,
+      "epi_week_start": "2024-11-04",
+      "case_count": 191,
+      "incidence_per_100k": 0.16115875096593774
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 45,
+      "epi_week_start": "2025-11-03",
+      "case_count": 188,
+      "incidence_per_100k": 0.16327642709081508
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 46,
+      "epi_week_start": "2021-11-15",
+      "case_count": 191,
+      "incidence_per_100k": 0.18149059655230004
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 46,
+      "epi_week_start": "2022-11-14",
+      "case_count": 186,
+      "incidence_per_100k": 0.16136903511728004
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 46,
+      "epi_week_start": "2023-11-13",
+      "case_count": 188,
+      "incidence_per_100k": 0.1746182929175455
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 46,
+      "epi_week_start": "2024-11-11",
+      "case_count": 162,
+      "incidence_per_100k": 0.15409409687097744
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 46,
+      "epi_week_start": "2025-11-10",
+      "case_count": 218,
+      "incidence_per_100k": 0.20113715764720907
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 47,
+      "epi_week_start": "2021-11-22",
+      "case_count": 207,
+      "incidence_per_100k": 0.18560163241977023
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 47,
+      "epi_week_start": "2022-11-21",
+      "case_count": 191,
+      "incidence_per_100k": 0.16823370336796215
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 47,
+      "epi_week_start": "2023-11-20",
+      "case_count": 223,
+      "incidence_per_100k": 0.21012624779617123
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 47,
+      "epi_week_start": "2024-11-18",
+      "case_count": 244,
+      "incidence_per_100k": 0.21714850393019336
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 47,
+      "epi_week_start": "2025-11-17",
+      "case_count": 200,
+      "incidence_per_100k": 0.1680387320016405
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 48,
+      "epi_week_start": "2021-11-29",
+      "case_count": 172,
+      "incidence_per_100k": 0.14448127464439847
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 48,
+      "epi_week_start": "2022-11-28",
+      "case_count": 147,
+      "incidence_per_100k": 0.12618526443965333
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 48,
+      "epi_week_start": "2023-11-27",
+      "case_count": 197,
+      "incidence_per_100k": 0.1851243248088083
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 48,
+      "epi_week_start": "2024-11-25",
+      "case_count": 203,
+      "incidence_per_100k": 0.1889724255030327
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 48,
+      "epi_week_start": "2025-11-24",
+      "case_count": 217,
+      "incidence_per_100k": 0.1959464211494416
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 49,
+      "epi_week_start": "2021-12-06",
+      "case_count": 221,
+      "incidence_per_100k": 0.21490023787238594
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 49,
+      "epi_week_start": "2022-12-05",
+      "case_count": 214,
+      "incidence_per_100k": 0.188723345230991
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 49,
+      "epi_week_start": "2023-12-04",
+      "case_count": 289,
+      "incidence_per_100k": 0.23933058932999415
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 49,
+      "epi_week_start": "2024-12-02",
+      "case_count": 214,
+      "incidence_per_100k": 0.19905794117462094
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 49,
+      "epi_week_start": "2025-12-01",
+      "case_count": 224,
+      "incidence_per_100k": 0.18686066445141347
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 50,
+      "epi_week_start": "2021-12-13",
+      "case_count": 212,
+      "incidence_per_100k": 0.21852541240668805
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 50,
+      "epi_week_start": "2022-12-12",
+      "case_count": 212,
+      "incidence_per_100k": 0.19155825977581886
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 50,
+      "epi_week_start": "2023-12-11",
+      "case_count": 228,
+      "incidence_per_100k": 0.18854235896457344
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 50,
+      "epi_week_start": "2024-12-09",
+      "case_count": 226,
+      "incidence_per_100k": 0.20232678157756487
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 50,
+      "epi_week_start": "2025-12-08",
+      "case_count": 244,
+      "incidence_per_100k": 0.2208157713088867
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 51,
+      "epi_week_start": "2021-12-20",
+      "case_count": 249,
+      "incidence_per_100k": 0.22111653976952528
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 51,
+      "epi_week_start": "2022-12-19",
+      "case_count": 236,
+      "incidence_per_100k": 0.2283786147381268
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 51,
+      "epi_week_start": "2023-12-18",
+      "case_count": 208,
+      "incidence_per_100k": 0.18589740248247585
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 51,
+      "epi_week_start": "2024-12-16",
+      "case_count": 235,
+      "incidence_per_100k": 0.20685637172432234
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 51,
+      "epi_week_start": "2025-12-15",
+      "case_count": 223,
+      "incidence_per_100k": 0.20239123607050474
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 52,
+      "epi_week_start": "2021-12-27",
+      "case_count": 268,
+      "incidence_per_100k": 0.2229240493181453
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 52,
+      "epi_week_start": "2022-12-26",
+      "case_count": 211,
+      "incidence_per_100k": 0.21484389519419286
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 52,
+      "epi_week_start": "2023-12-25",
+      "case_count": 273,
+      "incidence_per_100k": 0.2658654922518423
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 52,
+      "epi_week_start": "2024-12-23",
+      "case_count": 253,
+      "incidence_per_100k": 0.2299346153124827
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 52,
+      "epi_week_start": "2025-12-22",
+      "case_count": 248,
+      "incidence_per_100k": 0.24556186024854387
+    },
+    {
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 53,
+      "epi_week_start": "2020-12-28",
+      "case_count": 129,
+      "incidence_per_100k": 0.12295448272624665
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2021-01-04",
+      "case_count": 294,
+      "incidence_per_100k": 0.2652138437681226
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2022-01-03",
+      "case_count": 315,
+      "incidence_per_100k": 0.28468307277907223
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2023-01-02",
+      "case_count": 382,
+      "incidence_per_100k": 0.3556111306740712
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2024-01-01",
+      "case_count": 344,
+      "incidence_per_100k": 0.34787912662280274
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2024-12-30",
+      "case_count": 374,
+      "incidence_per_100k": 0.3583172794504366
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "case_count": 179,
+      "incidence_per_100k": 0.1560073084320329
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 2,
+      "epi_week_start": "2021-01-11",
+      "case_count": 333,
+      "incidence_per_100k": 0.30765132835176756
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 2,
+      "epi_week_start": "2022-01-10",
+      "case_count": 364,
+      "incidence_per_100k": 0.3220192016505042
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 2,
+      "epi_week_start": "2023-01-09",
+      "case_count": 374,
+      "incidence_per_100k": 0.34938428430885543
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 2,
+      "epi_week_start": "2024-01-08",
+      "case_count": 296,
+      "incidence_per_100k": 0.27332180819031576
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 2,
+      "epi_week_start": "2025-01-06",
+      "case_count": 332,
+      "incidence_per_100k": 0.30715305528666365
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 3,
+      "epi_week_start": "2021-01-18",
+      "case_count": 348,
+      "incidence_per_100k": 0.3153326751808324
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 3,
+      "epi_week_start": "2022-01-17",
+      "case_count": 395,
+      "incidence_per_100k": 0.35165142317740034
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 3,
+      "epi_week_start": "2023-01-16",
+      "case_count": 363,
+      "incidence_per_100k": 0.3147053043711974
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 3,
+      "epi_week_start": "2024-01-15",
+      "case_count": 377,
+      "incidence_per_100k": 0.3647851937810334
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 3,
+      "epi_week_start": "2025-01-13",
+      "case_count": 387,
+      "incidence_per_100k": 0.3749030581827548
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 4,
+      "epi_week_start": "2021-01-25",
+      "case_count": 346,
+      "incidence_per_100k": 0.3281796227719044
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 4,
+      "epi_week_start": "2022-01-24",
+      "case_count": 343,
+      "incidence_per_100k": 0.3026120875592894
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 4,
+      "epi_week_start": "2023-01-23",
+      "case_count": 376,
+      "incidence_per_100k": 0.33075808813321794
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 4,
+      "epi_week_start": "2024-01-22",
+      "case_count": 387,
+      "incidence_per_100k": 0.3468939709435426
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 4,
+      "epi_week_start": "2025-01-20",
+      "case_count": 353,
+      "incidence_per_100k": 0.3109343677244982
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 5,
+      "epi_week_start": "2021-02-01",
+      "case_count": 374,
+      "incidence_per_100k": 0.3618836339582702
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 5,
+      "epi_week_start": "2022-01-31",
+      "case_count": 356,
+      "incidence_per_100k": 0.3117320812124178
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 5,
+      "epi_week_start": "2023-01-30",
+      "case_count": 346,
+      "incidence_per_100k": 0.3155941423364796
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 5,
+      "epi_week_start": "2024-01-29",
+      "case_count": 400,
+      "incidence_per_100k": 0.3779022100442622
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 5,
+      "epi_week_start": "2025-01-27",
+      "case_count": 368,
+      "incidence_per_100k": 0.33863098510170864
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 6,
+      "epi_week_start": "2021-02-08",
+      "case_count": 353,
+      "incidence_per_100k": 0.31146225199040484
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 6,
+      "epi_week_start": "2022-02-07",
+      "case_count": 329,
+      "incidence_per_100k": 0.2875720168058505
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 6,
+      "epi_week_start": "2023-02-06",
+      "case_count": 413,
+      "incidence_per_100k": 0.37447587206297783
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 6,
+      "epi_week_start": "2024-02-05",
+      "case_count": 383,
+      "incidence_per_100k": 0.3326768993107889
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 6,
+      "epi_week_start": "2025-02-03",
+      "case_count": 428,
+      "incidence_per_100k": 0.3842404214036112
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 7,
+      "epi_week_start": "2021-02-15",
+      "case_count": 369,
+      "incidence_per_100k": 0.3384547246735412
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 7,
+      "epi_week_start": "2022-02-14",
+      "case_count": 334,
+      "incidence_per_100k": 0.30831262491778083
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 7,
+      "epi_week_start": "2023-02-13",
+      "case_count": 371,
+      "incidence_per_100k": 0.34947544815911913
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 7,
+      "epi_week_start": "2024-02-12",
+      "case_count": 422,
+      "incidence_per_100k": 0.36306748450409015
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 7,
+      "epi_week_start": "2025-02-10",
+      "case_count": 638,
+      "incidence_per_100k": 0.5918359912613108
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 8,
+      "epi_week_start": "2021-02-22",
+      "case_count": 349,
+      "incidence_per_100k": 0.2996595179847822
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 8,
+      "epi_week_start": "2022-02-21",
+      "case_count": 463,
+      "incidence_per_100k": 0.41917441320683446
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 8,
+      "epi_week_start": "2023-02-20",
+      "case_count": 388,
+      "incidence_per_100k": 0.34116612783709355
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 8,
+      "epi_week_start": "2024-02-19",
+      "case_count": 374,
+      "incidence_per_100k": 0.34977565527448046
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 8,
+      "epi_week_start": "2025-02-17",
+      "case_count": 768,
+      "incidence_per_100k": 0.7021164494949732
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 9,
+      "epi_week_start": "2021-03-01",
+      "case_count": 375,
+      "incidence_per_100k": 0.3520855402406912
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 9,
+      "epi_week_start": "2022-02-28",
+      "case_count": 316,
+      "incidence_per_100k": 0.279763416890717
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 9,
+      "epi_week_start": "2023-02-27",
+      "case_count": 511,
+      "incidence_per_100k": 0.4660130659235859
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 9,
+      "epi_week_start": "2024-02-26",
+      "case_count": 393,
+      "incidence_per_100k": 0.36725143591264636
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 9,
+      "epi_week_start": "2025-02-24",
+      "case_count": 742,
+      "incidence_per_100k": 0.6712792389929267
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 10,
+      "epi_week_start": "2021-03-08",
+      "case_count": 394,
+      "incidence_per_100k": 0.37520861500946534
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 10,
+      "epi_week_start": "2022-03-07",
+      "case_count": 399,
+      "incidence_per_100k": 0.359050940809602
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 10,
+      "epi_week_start": "2023-03-06",
+      "case_count": 437,
+      "incidence_per_100k": 0.39532085757456226
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 10,
+      "epi_week_start": "2024-03-04",
+      "case_count": 463,
+      "incidence_per_100k": 0.4422946696824546
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 10,
+      "epi_week_start": "2025-03-03",
+      "case_count": 856,
+      "incidence_per_100k": 0.7930556038445082
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 11,
+      "epi_week_start": "2021-03-15",
+      "case_count": 483,
+      "incidence_per_100k": 0.42496415265393755
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 11,
+      "epi_week_start": "2022-03-14",
+      "case_count": 436,
+      "incidence_per_100k": 0.39644891046015795
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 11,
+      "epi_week_start": "2023-03-13",
+      "case_count": 457,
+      "incidence_per_100k": 0.40790447515180556
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 11,
+      "epi_week_start": "2024-03-11",
+      "case_count": 448,
+      "incidence_per_100k": 0.3797017653215689
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 11,
+      "epi_week_start": "2025-03-10",
+      "case_count": 881,
+      "incidence_per_100k": 0.82012270343421
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 12,
+      "epi_week_start": "2021-03-22",
+      "case_count": 461,
+      "incidence_per_100k": 0.43503081211215816
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 12,
+      "epi_week_start": "2022-03-21",
+      "case_count": 509,
+      "incidence_per_100k": 0.4480574498177041
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 12,
+      "epi_week_start": "2023-03-20",
+      "case_count": 462,
+      "incidence_per_100k": 0.4163982001378882
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 12,
+      "epi_week_start": "2024-03-18",
+      "case_count": 509,
+      "incidence_per_100k": 0.4734338660880664
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 12,
+      "epi_week_start": "2025-03-17",
+      "case_count": 955,
+      "incidence_per_100k": 0.8803718691476698
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 13,
+      "epi_week_start": "2021-03-29",
+      "case_count": 508,
+      "incidence_per_100k": 0.4424995679809267
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 13,
+      "epi_week_start": "2022-03-28",
+      "case_count": 423,
+      "incidence_per_100k": 0.3832511363776967
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 13,
+      "epi_week_start": "2023-03-27",
+      "case_count": 431,
+      "incidence_per_100k": 0.3697498826261622
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 13,
+      "epi_week_start": "2024-03-25",
+      "case_count": 453,
+      "incidence_per_100k": 0.41567842796634574
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 13,
+      "epi_week_start": "2025-03-24",
+      "case_count": 948,
+      "incidence_per_100k": 0.8738834142928028
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 14,
+      "epi_week_start": "2021-04-05",
+      "case_count": 396,
+      "incidence_per_100k": 0.36050149758257666
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 14,
+      "epi_week_start": "2022-04-04",
+      "case_count": 499,
+      "incidence_per_100k": 0.46021163260206127
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 14,
+      "epi_week_start": "2023-04-03",
+      "case_count": 439,
+      "incidence_per_100k": 0.3940098290647341
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 14,
+      "epi_week_start": "2024-04-01",
+      "case_count": 567,
+      "incidence_per_100k": 0.503132153921604
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 14,
+      "epi_week_start": "2025-03-31",
+      "case_count": 932,
+      "incidence_per_100k": 0.8217888345429626
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 15,
+      "epi_week_start": "2021-04-12",
+      "case_count": 480,
+      "incidence_per_100k": 0.4742842517462712
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 15,
+      "epi_week_start": "2022-04-11",
+      "case_count": 459,
+      "incidence_per_100k": 0.43511732962166333
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 15,
+      "epi_week_start": "2023-04-10",
+      "case_count": 542,
+      "incidence_per_100k": 0.49722192152867545
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 15,
+      "epi_week_start": "2024-04-08",
+      "case_count": 503,
+      "incidence_per_100k": 0.4587889270303557
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 15,
+      "epi_week_start": "2025-04-07",
+      "case_count": 912,
+      "incidence_per_100k": 0.8377315219044807
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 16,
+      "epi_week_start": "2021-04-19",
+      "case_count": 486,
+      "incidence_per_100k": 0.4477243140935132
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 16,
+      "epi_week_start": "2022-04-18",
+      "case_count": 571,
+      "incidence_per_100k": 0.5005660265137916
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 16,
+      "epi_week_start": "2023-04-17",
+      "case_count": 498,
+      "incidence_per_100k": 0.4445381714185317
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 16,
+      "epi_week_start": "2024-04-15",
+      "case_count": 503,
+      "incidence_per_100k": 0.4607376940764434
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 16,
+      "epi_week_start": "2025-04-14",
+      "case_count": 912,
+      "incidence_per_100k": 0.8139008924080001
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 17,
+      "epi_week_start": "2021-04-26",
+      "case_count": 486,
+      "incidence_per_100k": 0.4219417752960264
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 17,
+      "epi_week_start": "2022-04-25",
+      "case_count": 570,
+      "incidence_per_100k": 0.5431016860955732
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 17,
+      "epi_week_start": "2023-04-24",
+      "case_count": 562,
+      "incidence_per_100k": 0.49443499077668635
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 17,
+      "epi_week_start": "2024-04-22",
+      "case_count": 538,
+      "incidence_per_100k": 0.49909685467291043
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 17,
+      "epi_week_start": "2025-04-21",
+      "case_count": 541,
+      "incidence_per_100k": 0.5155355945951239
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 18,
+      "epi_week_start": "2021-05-03",
+      "case_count": 513,
+      "incidence_per_100k": 0.4765533839766348
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 18,
+      "epi_week_start": "2022-05-02",
+      "case_count": 614,
+      "incidence_per_100k": 0.5872794240302281
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 18,
+      "epi_week_start": "2023-05-01",
+      "case_count": 601,
+      "incidence_per_100k": 0.5596386236593547
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 18,
+      "epi_week_start": "2024-04-29",
+      "case_count": 550,
+      "incidence_per_100k": 0.5124710327559754
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 18,
+      "epi_week_start": "2025-04-28",
+      "case_count": 526,
+      "incidence_per_100k": 0.46073486605542635
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 19,
+      "epi_week_start": "2021-05-10",
+      "case_count": 523,
+      "incidence_per_100k": 0.47408062919098853
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 19,
+      "epi_week_start": "2022-05-09",
+      "case_count": 558,
+      "incidence_per_100k": 0.4989618773617532
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 19,
+      "epi_week_start": "2023-05-08",
+      "case_count": 546,
+      "incidence_per_100k": 0.46437773244953534
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 19,
+      "epi_week_start": "2024-05-06",
+      "case_count": 528,
+      "incidence_per_100k": 0.508365501463312
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 19,
+      "epi_week_start": "2025-05-05",
+      "case_count": 482,
+      "incidence_per_100k": 0.417777482738374
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 20,
+      "epi_week_start": "2021-05-17",
+      "case_count": 444,
+      "incidence_per_100k": 0.4083371763008845
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 20,
+      "epi_week_start": "2022-05-16",
+      "case_count": 546,
+      "incidence_per_100k": 0.48656509703737494
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 20,
+      "epi_week_start": "2023-05-15",
+      "case_count": 587,
+      "incidence_per_100k": 0.533067636285991
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 20,
+      "epi_week_start": "2024-05-13",
+      "case_count": 556,
+      "incidence_per_100k": 0.5174406772799823
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 20,
+      "epi_week_start": "2025-05-12",
+      "case_count": 619,
+      "incidence_per_100k": 0.5853951693595163
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 21,
+      "epi_week_start": "2021-05-24",
+      "case_count": 609,
+      "incidence_per_100k": 0.5410133274142445
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 21,
+      "epi_week_start": "2022-05-23",
+      "case_count": 627,
+      "incidence_per_100k": 0.5479066909769866
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 21,
+      "epi_week_start": "2023-05-22",
+      "case_count": 690,
+      "incidence_per_100k": 0.6440235736182817
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 21,
+      "epi_week_start": "2024-05-20",
+      "case_count": 593,
+      "incidence_per_100k": 0.5240237746331592
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 21,
+      "epi_week_start": "2025-05-19",
+      "case_count": 592,
+      "incidence_per_100k": 0.5481057710031969
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 22,
+      "epi_week_start": "2021-05-31",
+      "case_count": 491,
+      "incidence_per_100k": 0.44985014717122423
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 22,
+      "epi_week_start": "2022-05-30",
+      "case_count": 553,
+      "incidence_per_100k": 0.5302923453649352
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 22,
+      "epi_week_start": "2023-05-29",
+      "case_count": 696,
+      "incidence_per_100k": 0.6304398485243483
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 22,
+      "epi_week_start": "2024-05-27",
+      "case_count": 591,
+      "incidence_per_100k": 0.5547066641920397
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 22,
+      "epi_week_start": "2025-05-26",
+      "case_count": 635,
+      "incidence_per_100k": 0.6197220607711205
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 23,
+      "epi_week_start": "2021-06-07",
+      "case_count": 413,
+      "incidence_per_100k": 0.3674138813476249
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 23,
+      "epi_week_start": "2022-06-06",
+      "case_count": 642,
+      "incidence_per_100k": 0.5517367788681878
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 23,
+      "epi_week_start": "2023-06-05",
+      "case_count": 650,
+      "incidence_per_100k": 0.5899583267824591
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 23,
+      "epi_week_start": "2024-06-03",
+      "case_count": 595,
+      "incidence_per_100k": 0.5244775555410207
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 23,
+      "epi_week_start": "2025-06-02",
+      "case_count": 649,
+      "incidence_per_100k": 0.5893343976012434
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 24,
+      "epi_week_start": "2021-06-14",
+      "case_count": 438,
+      "incidence_per_100k": 0.41281918013415
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 24,
+      "epi_week_start": "2022-06-13",
+      "case_count": 529,
+      "incidence_per_100k": 0.46662911405268415
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 24,
+      "epi_week_start": "2023-06-12",
+      "case_count": 680,
+      "incidence_per_100k": 0.6051534236905148
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 24,
+      "epi_week_start": "2024-06-10",
+      "case_count": 606,
+      "incidence_per_100k": 0.5278596995294669
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 24,
+      "epi_week_start": "2025-06-09",
+      "case_count": 576,
+      "incidence_per_100k": 0.5104772020534432
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 25,
+      "epi_week_start": "2021-06-21",
+      "case_count": 474,
+      "incidence_per_100k": 0.4207560262873152
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 25,
+      "epi_week_start": "2022-06-20",
+      "case_count": 614,
+      "incidence_per_100k": 0.5531920305451501
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 25,
+      "epi_week_start": "2023-06-19",
+      "case_count": 586,
+      "incidence_per_100k": 0.5393855757790201
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 25,
+      "epi_week_start": "2024-06-17",
+      "case_count": 606,
+      "incidence_per_100k": 0.5480899280906998
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 25,
+      "epi_week_start": "2025-06-16",
+      "case_count": 554,
+      "incidence_per_100k": 0.5073416570784
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 26,
+      "epi_week_start": "2021-06-28",
+      "case_count": 510,
+      "incidence_per_100k": 0.49985781870160323
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 26,
+      "epi_week_start": "2022-06-27",
+      "case_count": 524,
+      "incidence_per_100k": 0.48663111857493013
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 26,
+      "epi_week_start": "2023-06-26",
+      "case_count": 566,
+      "incidence_per_100k": 0.49526144325343735
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 26,
+      "epi_week_start": "2024-06-24",
+      "case_count": 513,
+      "incidence_per_100k": 0.4817322755686994
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 26,
+      "epi_week_start": "2025-06-23",
+      "case_count": 533,
+      "incidence_per_100k": 0.4915472105348928
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 27,
+      "epi_week_start": "2021-07-05",
+      "case_count": 462,
+      "incidence_per_100k": 0.40753989491260056
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 27,
+      "epi_week_start": "2022-07-04",
+      "case_count": 493,
+      "incidence_per_100k": 0.45177830430942156
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 27,
+      "epi_week_start": "2023-07-03",
+      "case_count": 520,
+      "incidence_per_100k": 0.48482948349299093
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 27,
+      "epi_week_start": "2024-07-01",
+      "case_count": 425,
+      "incidence_per_100k": 0.393564752074052
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 27,
+      "epi_week_start": "2025-06-30",
+      "case_count": 510,
+      "incidence_per_100k": 0.44762284879005915
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 28,
+      "epi_week_start": "2021-07-12",
+      "case_count": 460,
+      "incidence_per_100k": 0.41075829098346583
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 28,
+      "epi_week_start": "2022-07-11",
+      "case_count": 482,
+      "incidence_per_100k": 0.428528491230805
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 28,
+      "epi_week_start": "2023-07-10",
+      "case_count": 514,
+      "incidence_per_100k": 0.4664338263517947
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 28,
+      "epi_week_start": "2024-07-08",
+      "case_count": 540,
+      "incidence_per_100k": 0.48825469497070306
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 28,
+      "epi_week_start": "2025-07-07",
+      "case_count": 568,
+      "incidence_per_100k": 0.5463978921054792
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 29,
+      "epi_week_start": "2021-07-19",
+      "case_count": 407,
+      "incidence_per_100k": 0.38377742878995835
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 29,
+      "epi_week_start": "2022-07-18",
+      "case_count": 399,
+      "incidence_per_100k": 0.35278149273456866
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 29,
+      "epi_week_start": "2023-07-17",
+      "case_count": 488,
+      "incidence_per_100k": 0.4212964558919749
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 29,
+      "epi_week_start": "2024-07-15",
+      "case_count": 405,
+      "incidence_per_100k": 0.3680634885149122
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 29,
+      "epi_week_start": "2025-07-14",
+      "case_count": 532,
+      "incidence_per_100k": 0.4632146346437068
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 30,
+      "epi_week_start": "2021-07-26",
+      "case_count": 497,
+      "incidence_per_100k": 0.4521080561411067
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 30,
+      "epi_week_start": "2022-07-25",
+      "case_count": 445,
+      "incidence_per_100k": 0.40680227823792586
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 30,
+      "epi_week_start": "2023-07-24",
+      "case_count": 492,
+      "incidence_per_100k": 0.45615580171796866
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 30,
+      "epi_week_start": "2024-07-22",
+      "case_count": 442,
+      "incidence_per_100k": 0.3955419163404938
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 30,
+      "epi_week_start": "2025-07-21",
+      "case_count": 475,
+      "incidence_per_100k": 0.41748051514145634
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 31,
+      "epi_week_start": "2021-08-02",
+      "case_count": 332,
+      "incidence_per_100k": 0.3042862413899273
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 31,
+      "epi_week_start": "2022-08-01",
+      "case_count": 349,
+      "incidence_per_100k": 0.3233182257106348
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 31,
+      "epi_week_start": "2023-07-31",
+      "case_count": 358,
+      "incidence_per_100k": 0.3301528921232998
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 31,
+      "epi_week_start": "2024-07-29",
+      "case_count": 414,
+      "incidence_per_100k": 0.3785486126689743
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 31,
+      "epi_week_start": "2025-07-28",
+      "case_count": 492,
+      "incidence_per_100k": 0.43068469001532256
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 32,
+      "epi_week_start": "2021-08-09",
+      "case_count": 379,
+      "incidence_per_100k": 0.3461748489498548
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 32,
+      "epi_week_start": "2022-08-08",
+      "case_count": 466,
+      "incidence_per_100k": 0.4170848111275911
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 32,
+      "epi_week_start": "2023-08-07",
+      "case_count": 309,
+      "incidence_per_100k": 0.2792142486944585
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 32,
+      "epi_week_start": "2024-08-05",
+      "case_count": 371,
+      "incidence_per_100k": 0.35520670313465424
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 32,
+      "epi_week_start": "2025-08-04",
+      "case_count": 443,
+      "incidence_per_100k": 0.38951942641636794
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 33,
+      "epi_week_start": "2021-08-16",
+      "case_count": 272,
+      "incidence_per_100k": 0.2526586188347716
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 33,
+      "epi_week_start": "2022-08-15",
+      "case_count": 327,
+      "incidence_per_100k": 0.2997417807666878
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 33,
+      "epi_week_start": "2023-08-14",
+      "case_count": 305,
+      "incidence_per_100k": 0.27276526792340827
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 33,
+      "epi_week_start": "2024-08-12",
+      "case_count": 345,
+      "incidence_per_100k": 0.3225036382695164
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 33,
+      "epi_week_start": "2025-08-11",
+      "case_count": 386,
+      "incidence_per_100k": 0.35473864490649687
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 34,
+      "epi_week_start": "2021-08-23",
+      "case_count": 306,
+      "incidence_per_100k": 0.2885263014563352
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 34,
+      "epi_week_start": "2022-08-22",
+      "case_count": 291,
+      "incidence_per_100k": 0.2519807215334371
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 34,
+      "epi_week_start": "2023-08-21",
+      "case_count": 320,
+      "incidence_per_100k": 0.28856111628520076
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 34,
+      "epi_week_start": "2024-08-19",
+      "case_count": 372,
+      "incidence_per_100k": 0.3322304997835025
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 34,
+      "epi_week_start": "2025-08-18",
+      "case_count": 409,
+      "incidence_per_100k": 0.348331310737697
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 35,
+      "epi_week_start": "2021-08-30",
+      "case_count": 317,
+      "incidence_per_100k": 0.2816651408170095
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 35,
+      "epi_week_start": "2022-08-29",
+      "case_count": 346,
+      "incidence_per_100k": 0.3327316573665564
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 35,
+      "epi_week_start": "2023-08-28",
+      "case_count": 367,
+      "incidence_per_100k": 0.3269899219551102
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 35,
+      "epi_week_start": "2024-08-26",
+      "case_count": 262,
+      "incidence_per_100k": 0.23161705842632066
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 35,
+      "epi_week_start": "2025-08-25",
+      "case_count": 324,
+      "incidence_per_100k": 0.2890463587029357
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 36,
+      "epi_week_start": "2021-09-06",
+      "case_count": 254,
+      "incidence_per_100k": 0.2483049044839933
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 36,
+      "epi_week_start": "2022-09-05",
+      "case_count": 273,
+      "incidence_per_100k": 0.24427854622770517
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 36,
+      "epi_week_start": "2023-09-04",
+      "case_count": 335,
+      "incidence_per_100k": 0.3007269112273562
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 36,
+      "epi_week_start": "2024-09-02",
+      "case_count": 304,
+      "incidence_per_100k": 0.28575306446229537
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 36,
+      "epi_week_start": "2025-09-01",
+      "case_count": 299,
+      "incidence_per_100k": 0.2625829204367218
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 37,
+      "epi_week_start": "2021-09-13",
+      "case_count": 281,
+      "incidence_per_100k": 0.2525499422418911
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 37,
+      "epi_week_start": "2022-09-12",
+      "case_count": 249,
+      "incidence_per_100k": 0.2225225368983341
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 37,
+      "epi_week_start": "2023-09-11",
+      "case_count": 263,
+      "incidence_per_100k": 0.239019446399851
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 37,
+      "epi_week_start": "2024-09-09",
+      "case_count": 241,
+      "incidence_per_100k": 0.2152166013381188
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 37,
+      "epi_week_start": "2025-09-08",
+      "case_count": 322,
+      "incidence_per_100k": 0.2862194553730983
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 38,
+      "epi_week_start": "2021-09-20",
+      "case_count": 296,
+      "incidence_per_100k": 0.2781128597927168
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 38,
+      "epi_week_start": "2022-09-19",
+      "case_count": 244,
+      "incidence_per_100k": 0.2064816325128237
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 38,
+      "epi_week_start": "2023-09-18",
+      "case_count": 250,
+      "incidence_per_100k": 0.22988821856733765
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 38,
+      "epi_week_start": "2024-09-16",
+      "case_count": 270,
+      "incidence_per_100k": 0.22165149765572442
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 38,
+      "epi_week_start": "2025-09-15",
+      "case_count": 319,
+      "incidence_per_100k": 0.3054102389005529
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 39,
+      "epi_week_start": "2021-09-27",
+      "case_count": 265,
+      "incidence_per_100k": 0.24368492567755473
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 39,
+      "epi_week_start": "2022-09-26",
+      "case_count": 256,
+      "incidence_per_100k": 0.2229039649787514
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 39,
+      "epi_week_start": "2023-09-25",
+      "case_count": 219,
+      "incidence_per_100k": 0.20690247645721774
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 39,
+      "epi_week_start": "2024-09-23",
+      "case_count": 297,
+      "incidence_per_100k": 0.28122548604913866
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 39,
+      "epi_week_start": "2025-09-22",
+      "case_count": 312,
+      "incidence_per_100k": 0.2662797703069432
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 40,
+      "epi_week_start": "2021-10-04",
+      "case_count": 281,
+      "incidence_per_100k": 0.2788401608314344
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 40,
+      "epi_week_start": "2022-10-03",
+      "case_count": 274,
+      "incidence_per_100k": 0.25613268263224154
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 40,
+      "epi_week_start": "2023-10-02",
+      "case_count": 284,
+      "incidence_per_100k": 0.2651973352286042
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 40,
+      "epi_week_start": "2024-09-30",
+      "case_count": 340,
+      "incidence_per_100k": 0.3043357133706089
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 40,
+      "epi_week_start": "2025-09-29",
+      "case_count": 228,
+      "incidence_per_100k": 0.2260149702022009
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 41,
+      "epi_week_start": "2021-10-11",
+      "case_count": 231,
+      "incidence_per_100k": 0.21021512417102017
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 41,
+      "epi_week_start": "2022-10-10",
+      "case_count": 292,
+      "incidence_per_100k": 0.2517655037013431
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 41,
+      "epi_week_start": "2023-10-09",
+      "case_count": 223,
+      "incidence_per_100k": 0.1935579534755616
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 41,
+      "epi_week_start": "2024-10-07",
+      "case_count": 303,
+      "incidence_per_100k": 0.28268466191183095
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 41,
+      "epi_week_start": "2025-10-06",
+      "case_count": 261,
+      "incidence_per_100k": 0.22098296692435457
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 42,
+      "epi_week_start": "2021-10-18",
+      "case_count": 201,
+      "incidence_per_100k": 0.19800175203444348
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 42,
+      "epi_week_start": "2022-10-17",
+      "case_count": 303,
+      "incidence_per_100k": 0.27585719539134307
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 42,
+      "epi_week_start": "2023-10-16",
+      "case_count": 292,
+      "incidence_per_100k": 0.27850663835121464
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 42,
+      "epi_week_start": "2024-10-14",
+      "case_count": 283,
+      "incidence_per_100k": 0.2678737113790386
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 42,
+      "epi_week_start": "2025-10-13",
+      "case_count": 267,
+      "incidence_per_100k": 0.24293625957107667
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 43,
+      "epi_week_start": "2021-10-25",
+      "case_count": 282,
+      "incidence_per_100k": 0.2547581552220751
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 43,
+      "epi_week_start": "2022-10-24",
+      "case_count": 238,
+      "incidence_per_100k": 0.22019189202059092
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 43,
+      "epi_week_start": "2023-10-23",
+      "case_count": 240,
+      "incidence_per_100k": 0.21516619852032212
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 43,
+      "epi_week_start": "2024-10-21",
+      "case_count": 249,
+      "incidence_per_100k": 0.23666897804410872
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 43,
+      "epi_week_start": "2025-10-20",
+      "case_count": 247,
+      "incidence_per_100k": 0.23445164027180754
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 44,
+      "epi_week_start": "2021-11-01",
+      "case_count": 253,
+      "incidence_per_100k": 0.23032867141259414
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 44,
+      "epi_week_start": "2022-10-31",
+      "case_count": 297,
+      "incidence_per_100k": 0.2637994772599071
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 44,
+      "epi_week_start": "2023-10-30",
+      "case_count": 287,
+      "incidence_per_100k": 0.2642566411734426
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 44,
+      "epi_week_start": "2024-10-28",
+      "case_count": 310,
+      "incidence_per_100k": 0.2772391903301233
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 44,
+      "epi_week_start": "2025-10-27",
+      "case_count": 231,
+      "incidence_per_100k": 0.2156254530097838
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 45,
+      "epi_week_start": "2021-11-08",
+      "case_count": 299,
+      "incidence_per_100k": 0.2774840270804976
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 45,
+      "epi_week_start": "2022-11-07",
+      "case_count": 231,
+      "incidence_per_100k": 0.23143861705436802
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 45,
+      "epi_week_start": "2023-11-06",
+      "case_count": 297,
+      "incidence_per_100k": 0.27094051211225606
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 45,
+      "epi_week_start": "2024-11-04",
+      "case_count": 271,
+      "incidence_per_100k": 0.25711395578724994
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 45,
+      "epi_week_start": "2025-11-03",
+      "case_count": 270,
+      "incidence_per_100k": 0.2520077651258113
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 46,
+      "epi_week_start": "2021-11-15",
+      "case_count": 248,
+      "incidence_per_100k": 0.22077466247007108
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 46,
+      "epi_week_start": "2022-11-14",
+      "case_count": 276,
+      "incidence_per_100k": 0.23278353861022688
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 46,
+      "epi_week_start": "2023-11-13",
+      "case_count": 257,
+      "incidence_per_100k": 0.25411742083948013
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 46,
+      "epi_week_start": "2024-11-11",
+      "case_count": 277,
+      "incidence_per_100k": 0.2569951760367976
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 46,
+      "epi_week_start": "2025-11-10",
+      "case_count": 328,
+      "incidence_per_100k": 0.2964497637034287
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 47,
+      "epi_week_start": "2021-11-22",
+      "case_count": 249,
+      "incidence_per_100k": 0.2291308619825457
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 47,
+      "epi_week_start": "2022-11-21",
+      "case_count": 270,
+      "incidence_per_100k": 0.24760101442112842
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 47,
+      "epi_week_start": "2023-11-20",
+      "case_count": 323,
+      "incidence_per_100k": 0.30782512015903285
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 47,
+      "epi_week_start": "2024-11-18",
+      "case_count": 316,
+      "incidence_per_100k": 0.2785080253257596
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 47,
+      "epi_week_start": "2025-11-17",
+      "case_count": 288,
+      "incidence_per_100k": 0.27758598833278164
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 48,
+      "epi_week_start": "2021-11-29",
+      "case_count": 264,
+      "incidence_per_100k": 0.2425192728914144
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 48,
+      "epi_week_start": "2022-11-28",
+      "case_count": 209,
+      "incidence_per_100k": 0.19744097828635854
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 48,
+      "epi_week_start": "2023-11-27",
+      "case_count": 264,
+      "incidence_per_100k": 0.2441864920700189
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 48,
+      "epi_week_start": "2024-11-25",
+      "case_count": 281,
+      "incidence_per_100k": 0.27053698997632936
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 48,
+      "epi_week_start": "2025-11-24",
+      "case_count": 279,
+      "incidence_per_100k": 0.26661974752095585
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 49,
+      "epi_week_start": "2021-12-06",
+      "case_count": 298,
+      "incidence_per_100k": 0.2671608057543853
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 49,
+      "epi_week_start": "2022-12-05",
+      "case_count": 299,
+      "incidence_per_100k": 0.27153881159783183
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 49,
+      "epi_week_start": "2023-12-04",
+      "case_count": 360,
+      "incidence_per_100k": 0.32189886122292716
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 49,
+      "epi_week_start": "2024-12-02",
+      "case_count": 335,
+      "incidence_per_100k": 0.2913882301235826
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 49,
+      "epi_week_start": "2025-12-01",
+      "case_count": 355,
+      "incidence_per_100k": 0.3210781725615297
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 50,
+      "epi_week_start": "2021-12-13",
+      "case_count": 296,
+      "incidence_per_100k": 0.25386483374390495
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 50,
+      "epi_week_start": "2022-12-12",
+      "case_count": 298,
+      "incidence_per_100k": 0.273164724158844
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 50,
+      "epi_week_start": "2023-12-11",
+      "case_count": 317,
+      "incidence_per_100k": 0.29456814958705924
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 50,
+      "epi_week_start": "2024-12-09",
+      "case_count": 285,
+      "incidence_per_100k": 0.25432594156826
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 50,
+      "epi_week_start": "2025-12-08",
+      "case_count": 336,
+      "incidence_per_100k": 0.30104187735408156
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 51,
+      "epi_week_start": "2021-12-20",
+      "case_count": 364,
+      "incidence_per_100k": 0.3429960408181218
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 51,
+      "epi_week_start": "2022-12-19",
+      "case_count": 311,
+      "incidence_per_100k": 0.2993777365728381
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 51,
+      "epi_week_start": "2023-12-18",
+      "case_count": 277,
+      "incidence_per_100k": 0.23617533714471758
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 51,
+      "epi_week_start": "2024-12-16",
+      "case_count": 339,
+      "incidence_per_100k": 0.3129189074996004
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 51,
+      "epi_week_start": "2025-12-15",
+      "case_count": 323,
+      "incidence_per_100k": 0.29498449818808803
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 52,
+      "epi_week_start": "2021-12-27",
+      "case_count": 308,
+      "incidence_per_100k": 0.2701075575827325
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 52,
+      "epi_week_start": "2022-12-26",
+      "case_count": 328,
+      "incidence_per_100k": 0.3144763773705311
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 52,
+      "epi_week_start": "2023-12-25",
+      "case_count": 383,
+      "incidence_per_100k": 0.34370174437355344
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 52,
+      "epi_week_start": "2024-12-23",
+      "case_count": 341,
+      "incidence_per_100k": 0.3100470211829031
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 52,
+      "epi_week_start": "2025-12-22",
+      "case_count": 354,
+      "incidence_per_100k": 0.299629464784887
+    },
+    {
+      "disease": "Dengue",
+      "epi_week": 53,
+      "epi_week_start": "2020-12-28",
+      "case_count": 146,
+      "incidence_per_100k": 0.1294489077614883
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2021-01-04",
+      "case_count": 301,
+      "incidence_per_100k": 0.2704946737987218
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2022-01-03",
+      "case_count": 332,
+      "incidence_per_100k": 0.29697309358452656
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2023-01-02",
+      "case_count": 347,
+      "incidence_per_100k": 0.32183228989914037
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2024-01-01",
+      "case_count": 293,
+      "incidence_per_100k": 0.27761335646277246
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2024-12-30",
+      "case_count": 355,
+      "incidence_per_100k": 0.329407675486324
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "case_count": 161,
+      "incidence_per_100k": 0.15158530906146692
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 2,
+      "epi_week_start": "2021-01-11",
+      "case_count": 331,
+      "incidence_per_100k": 0.30403087950078617
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 2,
+      "epi_week_start": "2022-01-10",
+      "case_count": 278,
+      "incidence_per_100k": 0.2611980548374564
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 2,
+      "epi_week_start": "2023-01-09",
+      "case_count": 296,
+      "incidence_per_100k": 0.26843136644381044
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 2,
+      "epi_week_start": "2024-01-08",
+      "case_count": 271,
+      "incidence_per_100k": 0.24392416795615388
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 2,
+      "epi_week_start": "2025-01-06",
+      "case_count": 289,
+      "incidence_per_100k": 0.27466965783179415
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 3,
+      "epi_week_start": "2021-01-18",
+      "case_count": 305,
+      "incidence_per_100k": 0.2547125943953657
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 3,
+      "epi_week_start": "2022-01-17",
+      "case_count": 307,
+      "incidence_per_100k": 0.27726054028964514
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 3,
+      "epi_week_start": "2023-01-16",
+      "case_count": 382,
+      "incidence_per_100k": 0.36151055478474264
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 3,
+      "epi_week_start": "2024-01-15",
+      "case_count": 313,
+      "incidence_per_100k": 0.2741639032608041
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 3,
+      "epi_week_start": "2025-01-13",
+      "case_count": 302,
+      "incidence_per_100k": 0.28870280523349834
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 4,
+      "epi_week_start": "2021-01-25",
+      "case_count": 269,
+      "incidence_per_100k": 0.24733340902386108
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 4,
+      "epi_week_start": "2022-01-24",
+      "case_count": 333,
+      "incidence_per_100k": 0.29794211823557576
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 4,
+      "epi_week_start": "2023-01-23",
+      "case_count": 338,
+      "incidence_per_100k": 0.3171030340461605
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 4,
+      "epi_week_start": "2024-01-22",
+      "case_count": 300,
+      "incidence_per_100k": 0.2784124011062175
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 4,
+      "epi_week_start": "2025-01-20",
+      "case_count": 324,
+      "incidence_per_100k": 0.30704301925986877
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 5,
+      "epi_week_start": "2021-02-01",
+      "case_count": 298,
+      "incidence_per_100k": 0.27052198037023795
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 5,
+      "epi_week_start": "2022-01-31",
+      "case_count": 247,
+      "incidence_per_100k": 0.2234121349803994
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 5,
+      "epi_week_start": "2023-01-30",
+      "case_count": 302,
+      "incidence_per_100k": 0.2966773723230657
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 5,
+      "epi_week_start": "2024-01-29",
+      "case_count": 307,
+      "incidence_per_100k": 0.2719883262343105
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 5,
+      "epi_week_start": "2025-01-27",
+      "case_count": 318,
+      "incidence_per_100k": 0.2804495790893676
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 6,
+      "epi_week_start": "2021-02-08",
+      "case_count": 278,
+      "incidence_per_100k": 0.2531753697482408
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 6,
+      "epi_week_start": "2022-02-07",
+      "case_count": 282,
+      "incidence_per_100k": 0.2560162822292954
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 6,
+      "epi_week_start": "2023-02-06",
+      "case_count": 283,
+      "incidence_per_100k": 0.25801511576938696
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 6,
+      "epi_week_start": "2024-02-05",
+      "case_count": 315,
+      "incidence_per_100k": 0.2822351191929651
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 6,
+      "epi_week_start": "2025-02-03",
+      "case_count": 359,
+      "incidence_per_100k": 0.3366815576188952
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 7,
+      "epi_week_start": "2021-02-15",
+      "case_count": 287,
+      "incidence_per_100k": 0.2690550034944449
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 7,
+      "epi_week_start": "2022-02-14",
+      "case_count": 263,
+      "incidence_per_100k": 0.24718418158803834
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 7,
+      "epi_week_start": "2023-02-13",
+      "case_count": 251,
+      "incidence_per_100k": 0.2370137855332996
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 7,
+      "epi_week_start": "2024-02-12",
+      "case_count": 311,
+      "incidence_per_100k": 0.2755238559266739
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 7,
+      "epi_week_start": "2025-02-10",
+      "case_count": 512,
+      "incidence_per_100k": 0.45735189059164494
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 8,
+      "epi_week_start": "2021-02-22",
+      "case_count": 239,
+      "incidence_per_100k": 0.22808286402691477
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 8,
+      "epi_week_start": "2022-02-21",
+      "case_count": 312,
+      "incidence_per_100k": 0.27329982267171865
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 8,
+      "epi_week_start": "2023-02-20",
+      "case_count": 284,
+      "incidence_per_100k": 0.25125899859733714
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 8,
+      "epi_week_start": "2024-02-19",
+      "case_count": 282,
+      "incidence_per_100k": 0.27057167855948083
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 8,
+      "epi_week_start": "2025-02-17",
+      "case_count": 552,
+      "incidence_per_100k": 0.5084161211157543
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 9,
+      "epi_week_start": "2021-03-01",
+      "case_count": 223,
+      "incidence_per_100k": 0.1830482169927711
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 9,
+      "epi_week_start": "2022-02-28",
+      "case_count": 212,
+      "incidence_per_100k": 0.19486390642088558
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 9,
+      "epi_week_start": "2023-02-27",
+      "case_count": 309,
+      "incidence_per_100k": 0.3073287586152664
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 9,
+      "epi_week_start": "2024-02-26",
+      "case_count": 261,
+      "incidence_per_100k": 0.24948966925245478
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 9,
+      "epi_week_start": "2025-02-24",
+      "case_count": 441,
+      "incidence_per_100k": 0.3847335895314312
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 10,
+      "epi_week_start": "2021-03-08",
+      "case_count": 215,
+      "incidence_per_100k": 0.208090701890849
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 10,
+      "epi_week_start": "2022-03-07",
+      "case_count": 208,
+      "incidence_per_100k": 0.17561718237774956
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 10,
+      "epi_week_start": "2023-03-06",
+      "case_count": 271,
+      "incidence_per_100k": 0.23501128329926005
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 10,
+      "epi_week_start": "2024-03-04",
+      "case_count": 263,
+      "incidence_per_100k": 0.2469498984976351
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 10,
+      "epi_week_start": "2025-03-03",
+      "case_count": 490,
+      "incidence_per_100k": 0.4518115481771427
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 11,
+      "epi_week_start": "2021-03-15",
+      "case_count": 243,
+      "incidence_per_100k": 0.21739563902352502
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 11,
+      "epi_week_start": "2022-03-14",
+      "case_count": 225,
+      "incidence_per_100k": 0.200118740487499
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 11,
+      "epi_week_start": "2023-03-13",
+      "case_count": 239,
+      "incidence_per_100k": 0.21632308085099525
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 11,
+      "epi_week_start": "2024-03-11",
+      "case_count": 268,
+      "incidence_per_100k": 0.24013519067032232
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 11,
+      "epi_week_start": "2025-03-10",
+      "case_count": 504,
+      "incidence_per_100k": 0.463556202506254
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 12,
+      "epi_week_start": "2021-03-22",
+      "case_count": 218,
+      "incidence_per_100k": 0.20505121706865875
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 12,
+      "epi_week_start": "2022-03-21",
+      "case_count": 237,
+      "incidence_per_100k": 0.20273668239620538
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 12,
+      "epi_week_start": "2023-03-20",
+      "case_count": 232,
+      "incidence_per_100k": 0.21762458100043283
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 12,
+      "epi_week_start": "2024-03-18",
+      "case_count": 228,
+      "incidence_per_100k": 0.20362359466999067
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 12,
+      "epi_week_start": "2025-03-17",
+      "case_count": 501,
+      "incidence_per_100k": 0.452476064005101
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 13,
+      "epi_week_start": "2021-03-29",
+      "case_count": 242,
+      "incidence_per_100k": 0.22147347535525794
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 13,
+      "epi_week_start": "2022-03-28",
+      "case_count": 226,
+      "incidence_per_100k": 0.19282573751767149
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 13,
+      "epi_week_start": "2023-03-27",
+      "case_count": 192,
+      "incidence_per_100k": 0.17091366495399424
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 13,
+      "epi_week_start": "2024-03-25",
+      "case_count": 239,
+      "incidence_per_100k": 0.2196885559811846
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 13,
+      "epi_week_start": "2025-03-24",
+      "case_count": 453,
+      "incidence_per_100k": 0.38232635807399723
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 14,
+      "epi_week_start": "2021-04-05",
+      "case_count": 200,
+      "incidence_per_100k": 0.1790073097538626
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 14,
+      "epi_week_start": "2022-04-04",
+      "case_count": 203,
+      "incidence_per_100k": 0.18570082839244523
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 14,
+      "epi_week_start": "2023-04-03",
+      "case_count": 220,
+      "incidence_per_100k": 0.18429637584459366
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 14,
+      "epi_week_start": "2024-04-01",
+      "case_count": 280,
+      "incidence_per_100k": 0.2572117413955479
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 14,
+      "epi_week_start": "2025-03-31",
+      "case_count": 427,
+      "incidence_per_100k": 0.4042187102750351
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 15,
+      "epi_week_start": "2021-04-12",
+      "case_count": 233,
+      "incidence_per_100k": 0.22860717242701883
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 15,
+      "epi_week_start": "2022-04-11",
+      "case_count": 176,
+      "incidence_per_100k": 0.16966383935418236
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 15,
+      "epi_week_start": "2023-04-10",
+      "case_count": 202,
+      "incidence_per_100k": 0.1840787082175693
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 15,
+      "epi_week_start": "2024-04-08",
+      "case_count": 229,
+      "incidence_per_100k": 0.20491155123696256
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 15,
+      "epi_week_start": "2025-04-07",
+      "case_count": 419,
+      "incidence_per_100k": 0.3766558802556226
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 16,
+      "epi_week_start": "2021-04-19",
+      "case_count": 217,
+      "incidence_per_100k": 0.21443156590658155
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 16,
+      "epi_week_start": "2022-04-18",
+      "case_count": 218,
+      "incidence_per_100k": 0.18573596745923013
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 16,
+      "epi_week_start": "2023-04-17",
+      "case_count": 213,
+      "incidence_per_100k": 0.20105763442851698
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 16,
+      "epi_week_start": "2024-04-15",
+      "case_count": 229,
+      "incidence_per_100k": 0.20654206415872506
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 16,
+      "epi_week_start": "2025-04-14",
+      "case_count": 382,
+      "incidence_per_100k": 0.33261832532321767
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 17,
+      "epi_week_start": "2021-04-26",
+      "case_count": 178,
+      "incidence_per_100k": 0.1692711131934844
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 17,
+      "epi_week_start": "2022-04-25",
+      "case_count": 221,
+      "incidence_per_100k": 0.19389243288844807
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 17,
+      "epi_week_start": "2023-04-24",
+      "case_count": 225,
+      "incidence_per_100k": 0.21333549226606702
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 17,
+      "epi_week_start": "2024-04-22",
+      "case_count": 214,
+      "incidence_per_100k": 0.19050086361098445
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 17,
+      "epi_week_start": "2025-04-21",
+      "case_count": 221,
+      "incidence_per_100k": 0.19302137514017964
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 18,
+      "epi_week_start": "2021-05-03",
+      "case_count": 213,
+      "incidence_per_100k": 0.19895715546895862
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 18,
+      "epi_week_start": "2022-05-02",
+      "case_count": 194,
+      "incidence_per_100k": 0.18034940661906063
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 18,
+      "epi_week_start": "2023-05-01",
+      "case_count": 252,
+      "incidence_per_100k": 0.22987938754293757
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 18,
+      "epi_week_start": "2024-04-29",
+      "case_count": 183,
+      "incidence_per_100k": 0.1688779108756309
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 18,
+      "epi_week_start": "2025-04-28",
+      "case_count": 191,
+      "incidence_per_100k": 0.1671982861975967
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 19,
+      "epi_week_start": "2021-05-10",
+      "case_count": 216,
+      "incidence_per_100k": 0.195929788536275
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 19,
+      "epi_week_start": "2022-05-09",
+      "case_count": 224,
+      "incidence_per_100k": 0.19715973169839127
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 19,
+      "epi_week_start": "2023-05-08",
+      "case_count": 228,
+      "incidence_per_100k": 0.20483437473968286
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 19,
+      "epi_week_start": "2024-05-06",
+      "case_count": 166,
+      "incidence_per_100k": 0.1706465002227834
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 19,
+      "epi_week_start": "2025-05-05",
+      "case_count": 178,
+      "incidence_per_100k": 0.16365813868645857
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 20,
+      "epi_week_start": "2021-05-17",
+      "case_count": 168,
+      "incidence_per_100k": 0.13918653958379945
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 20,
+      "epi_week_start": "2022-05-16",
+      "case_count": 170,
+      "incidence_per_100k": 0.16253375226949737
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 20,
+      "epi_week_start": "2023-05-15",
+      "case_count": 200,
+      "incidence_per_100k": 0.1722982273327695
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 20,
+      "epi_week_start": "2024-05-13",
+      "case_count": 217,
+      "incidence_per_100k": 0.19315208812385912
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 20,
+      "epi_week_start": "2025-05-12",
+      "case_count": 248,
+      "incidence_per_100k": 0.22009072021839632
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 21,
+      "epi_week_start": "2021-05-24",
+      "case_count": 215,
+      "incidence_per_100k": 0.1881005439773836
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 21,
+      "epi_week_start": "2022-05-23",
+      "case_count": 242,
+      "incidence_per_100k": 0.21522867218355474
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 21,
+      "epi_week_start": "2023-05-22",
+      "case_count": 246,
+      "incidence_per_100k": 0.2212533335863421
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 21,
+      "epi_week_start": "2024-05-20",
+      "case_count": 231,
+      "incidence_per_100k": 0.20189204293723392
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 21,
+      "epi_week_start": "2025-05-19",
+      "case_count": 226,
+      "incidence_per_100k": 0.1988466236252518
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 22,
+      "epi_week_start": "2021-05-31",
+      "case_count": 172,
+      "incidence_per_100k": 0.1528511382619407
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 22,
+      "epi_week_start": "2022-05-30",
+      "case_count": 204,
+      "incidence_per_100k": 0.16473370929490266
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 22,
+      "epi_week_start": "2023-05-29",
+      "case_count": 225,
+      "incidence_per_100k": 0.19489291186015612
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 22,
+      "epi_week_start": "2024-05-27",
+      "case_count": 195,
+      "incidence_per_100k": 0.1742582160277854
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 22,
+      "epi_week_start": "2025-05-26",
+      "case_count": 218,
+      "incidence_per_100k": 0.1949781877916532
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 23,
+      "epi_week_start": "2021-06-07",
+      "case_count": 182,
+      "incidence_per_100k": 0.15955871415287393
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 23,
+      "epi_week_start": "2022-06-06",
+      "case_count": 225,
+      "incidence_per_100k": 0.2085109625191416
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 23,
+      "epi_week_start": "2023-06-05",
+      "case_count": 234,
+      "incidence_per_100k": 0.21815856579782067
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 23,
+      "epi_week_start": "2024-06-03",
+      "case_count": 225,
+      "incidence_per_100k": 0.19911698724249358
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 23,
+      "epi_week_start": "2025-06-02",
+      "case_count": 270,
+      "incidence_per_100k": 0.2471232213988322
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 24,
+      "epi_week_start": "2021-06-14",
+      "case_count": 177,
+      "incidence_per_100k": 0.163948514038105
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 24,
+      "epi_week_start": "2022-06-13",
+      "case_count": 191,
+      "incidence_per_100k": 0.16324156290319702
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 24,
+      "epi_week_start": "2023-06-12",
+      "case_count": 282,
+      "incidence_per_100k": 0.24643512594227293
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 24,
+      "epi_week_start": "2024-06-10",
+      "case_count": 237,
+      "incidence_per_100k": 0.21546201302238832
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 24,
+      "epi_week_start": "2025-06-09",
+      "case_count": 188,
+      "incidence_per_100k": 0.1728742056122288
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 25,
+      "epi_week_start": "2021-06-21",
+      "case_count": 144,
+      "incidence_per_100k": 0.1202776188008284
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 25,
+      "epi_week_start": "2022-06-20",
+      "case_count": 236,
+      "incidence_per_100k": 0.2028157526360344
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 25,
+      "epi_week_start": "2023-06-19",
+      "case_count": 232,
+      "incidence_per_100k": 0.20947497030339782
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 25,
+      "epi_week_start": "2024-06-17",
+      "case_count": 217,
+      "incidence_per_100k": 0.1950337466064865
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 25,
+      "epi_week_start": "2025-06-16",
+      "case_count": 202,
+      "incidence_per_100k": 0.17897061491857089
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 26,
+      "epi_week_start": "2021-06-28",
+      "case_count": 223,
+      "incidence_per_100k": 0.18959918542350718
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 26,
+      "epi_week_start": "2022-06-27",
+      "case_count": 188,
+      "incidence_per_100k": 0.1691885264189831
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 26,
+      "epi_week_start": "2023-06-26",
+      "case_count": 200,
+      "incidence_per_100k": 0.17746242223828268
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 26,
+      "epi_week_start": "2024-06-24",
+      "case_count": 201,
+      "incidence_per_100k": 0.19114764883198967
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 26,
+      "epi_week_start": "2025-06-23",
+      "case_count": 209,
+      "incidence_per_100k": 0.19648101409968088
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 27,
+      "epi_week_start": "2021-07-05",
+      "case_count": 196,
+      "incidence_per_100k": 0.18552192192539108
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 27,
+      "epi_week_start": "2022-07-04",
+      "case_count": 208,
+      "incidence_per_100k": 0.18313273293121088
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 27,
+      "epi_week_start": "2023-07-03",
+      "case_count": 208,
+      "incidence_per_100k": 0.1992180320529267
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 27,
+      "epi_week_start": "2024-07-01",
+      "case_count": 156,
+      "incidence_per_100k": 0.15581307979071063
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 27,
+      "epi_week_start": "2025-06-30",
+      "case_count": 206,
+      "incidence_per_100k": 0.19051652460524343
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 28,
+      "epi_week_start": "2021-07-12",
+      "case_count": 192,
+      "incidence_per_100k": 0.17343011012805126
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 28,
+      "epi_week_start": "2022-07-11",
+      "case_count": 225,
+      "incidence_per_100k": 0.19247969831481626
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 28,
+      "epi_week_start": "2023-07-10",
+      "case_count": 234,
+      "incidence_per_100k": 0.22875019572334077
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 28,
+      "epi_week_start": "2024-07-08",
+      "case_count": 209,
+      "incidence_per_100k": 0.18982380953846723
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 28,
+      "epi_week_start": "2025-07-07",
+      "case_count": 244,
+      "incidence_per_100k": 0.2057297095400732
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 29,
+      "epi_week_start": "2021-07-19",
+      "case_count": 189,
+      "incidence_per_100k": 0.17774069146905144
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 29,
+      "epi_week_start": "2022-07-18",
+      "case_count": 181,
+      "incidence_per_100k": 0.1500523941248464
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 29,
+      "epi_week_start": "2023-07-17",
+      "case_count": 209,
+      "incidence_per_100k": 0.19334393970242872
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 29,
+      "epi_week_start": "2024-07-15",
+      "case_count": 176,
+      "incidence_per_100k": 0.15926476246001456
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 29,
+      "epi_week_start": "2025-07-14",
+      "case_count": 196,
+      "incidence_per_100k": 0.1986018700787538
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 30,
+      "epi_week_start": "2021-07-26",
+      "case_count": 249,
+      "incidence_per_100k": 0.21352927127258686
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 30,
+      "epi_week_start": "2022-07-25",
+      "case_count": 206,
+      "incidence_per_100k": 0.18633557968052222
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 30,
+      "epi_week_start": "2023-07-24",
+      "case_count": 237,
+      "incidence_per_100k": 0.2292489635689397
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 30,
+      "epi_week_start": "2024-07-22",
+      "case_count": 223,
+      "incidence_per_100k": 0.2080228914943608
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 30,
+      "epi_week_start": "2025-07-21",
+      "case_count": 201,
+      "incidence_per_100k": 0.18539382724321385
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 31,
+      "epi_week_start": "2021-08-02",
+      "case_count": 182,
+      "incidence_per_100k": 0.1670666180120744
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 31,
+      "epi_week_start": "2022-08-01",
+      "case_count": 180,
+      "incidence_per_100k": 0.17384759009059594
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 31,
+      "epi_week_start": "2023-07-31",
+      "case_count": 191,
+      "incidence_per_100k": 0.18186136846341244
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 31,
+      "epi_week_start": "2024-07-29",
+      "case_count": 221,
+      "incidence_per_100k": 0.19076126207374483
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 31,
+      "epi_week_start": "2025-07-28",
+      "case_count": 230,
+      "incidence_per_100k": 0.2215313699266297
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 32,
+      "epi_week_start": "2021-08-09",
+      "case_count": 202,
+      "incidence_per_100k": 0.20033563007426392
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 32,
+      "epi_week_start": "2022-08-08",
+      "case_count": 226,
+      "incidence_per_100k": 0.21177226277458958
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 32,
+      "epi_week_start": "2023-08-07",
+      "case_count": 183,
+      "incidence_per_100k": 0.15961508545943356
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 32,
+      "epi_week_start": "2024-08-05",
+      "case_count": 190,
+      "incidence_per_100k": 0.17087502894863704
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 32,
+      "epi_week_start": "2025-08-04",
+      "case_count": 219,
+      "incidence_per_100k": 0.20863131437794669
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 33,
+      "epi_week_start": "2021-08-16",
+      "case_count": 170,
+      "incidence_per_100k": 0.15707586665586978
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 33,
+      "epi_week_start": "2022-08-15",
+      "case_count": 173,
+      "incidence_per_100k": 0.14011368358355764
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 33,
+      "epi_week_start": "2023-08-14",
+      "case_count": 154,
+      "incidence_per_100k": 0.14901152447425264
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 33,
+      "epi_week_start": "2024-08-12",
+      "case_count": 188,
+      "incidence_per_100k": 0.1812068346770837
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 33,
+      "epi_week_start": "2025-08-11",
+      "case_count": 224,
+      "incidence_per_100k": 0.1909475040672711
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 34,
+      "epi_week_start": "2021-08-23",
+      "case_count": 195,
+      "incidence_per_100k": 0.18073939649500684
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 34,
+      "epi_week_start": "2022-08-22",
+      "case_count": 180,
+      "incidence_per_100k": 0.1743434820659443
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 34,
+      "epi_week_start": "2023-08-21",
+      "case_count": 229,
+      "incidence_per_100k": 0.22496083424401037
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 34,
+      "epi_week_start": "2024-08-19",
+      "case_count": 209,
+      "incidence_per_100k": 0.18979802564664047
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 34,
+      "epi_week_start": "2025-08-18",
+      "case_count": 237,
+      "incidence_per_100k": 0.21141055919896362
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 35,
+      "epi_week_start": "2021-08-30",
+      "case_count": 194,
+      "incidence_per_100k": 0.1866260478162438
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 35,
+      "epi_week_start": "2022-08-29",
+      "case_count": 208,
+      "incidence_per_100k": 0.18312067030563792
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 35,
+      "epi_week_start": "2023-08-28",
+      "case_count": 222,
+      "incidence_per_100k": 0.20940349673568243
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 35,
+      "epi_week_start": "2024-08-26",
+      "case_count": 171,
+      "incidence_per_100k": 0.15695009872030694
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 35,
+      "epi_week_start": "2025-08-25",
+      "case_count": 211,
+      "incidence_per_100k": 0.19723589624472954
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 36,
+      "epi_week_start": "2021-09-06",
+      "case_count": 179,
+      "incidence_per_100k": 0.17563885903400978
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 36,
+      "epi_week_start": "2022-09-05",
+      "case_count": 239,
+      "incidence_per_100k": 0.21133913702179796
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 36,
+      "epi_week_start": "2023-09-04",
+      "case_count": 193,
+      "incidence_per_100k": 0.17940415187853997
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 36,
+      "epi_week_start": "2024-09-02",
+      "case_count": 221,
+      "incidence_per_100k": 0.20610969468823848
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 36,
+      "epi_week_start": "2025-09-01",
+      "case_count": 198,
+      "incidence_per_100k": 0.17788649635284126
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 37,
+      "epi_week_start": "2021-09-13",
+      "case_count": 206,
+      "incidence_per_100k": 0.1893413304935331
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 37,
+      "epi_week_start": "2022-09-12",
+      "case_count": 167,
+      "incidence_per_100k": 0.1563707261467894
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 37,
+      "epi_week_start": "2023-09-11",
+      "case_count": 183,
+      "incidence_per_100k": 0.1815593428328303
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 37,
+      "epi_week_start": "2024-09-09",
+      "case_count": 167,
+      "incidence_per_100k": 0.14702173494626217
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 37,
+      "epi_week_start": "2025-09-08",
+      "case_count": 192,
+      "incidence_per_100k": 0.17180517310531282
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 38,
+      "epi_week_start": "2021-09-20",
+      "case_count": 207,
+      "incidence_per_100k": 0.1867861300887309
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 38,
+      "epi_week_start": "2022-09-19",
+      "case_count": 214,
+      "incidence_per_100k": 0.1810525724775684
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 38,
+      "epi_week_start": "2023-09-18",
+      "case_count": 198,
+      "incidence_per_100k": 0.1669667815177831
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 38,
+      "epi_week_start": "2024-09-16",
+      "case_count": 205,
+      "incidence_per_100k": 0.20438440418724646
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 38,
+      "epi_week_start": "2025-09-15",
+      "case_count": 219,
+      "incidence_per_100k": 0.1999257914019141
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 39,
+      "epi_week_start": "2021-09-27",
+      "case_count": 177,
+      "incidence_per_100k": 0.1601304798464966
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 39,
+      "epi_week_start": "2022-09-26",
+      "case_count": 203,
+      "incidence_per_100k": 0.17498765103761044
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 39,
+      "epi_week_start": "2023-09-25",
+      "case_count": 205,
+      "incidence_per_100k": 0.19101348904448784
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 39,
+      "epi_week_start": "2024-09-23",
+      "case_count": 246,
+      "incidence_per_100k": 0.22644050650548375
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 39,
+      "epi_week_start": "2025-09-22",
+      "case_count": 271,
+      "incidence_per_100k": 0.25392171497300065
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 40,
+      "epi_week_start": "2021-10-04",
+      "case_count": 200,
+      "incidence_per_100k": 0.18170282777953628
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 40,
+      "epi_week_start": "2022-10-03",
+      "case_count": 199,
+      "incidence_per_100k": 0.19212109269821792
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 40,
+      "epi_week_start": "2023-10-02",
+      "case_count": 211,
+      "incidence_per_100k": 0.19808887794035707
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 40,
+      "epi_week_start": "2024-09-30",
+      "case_count": 250,
+      "incidence_per_100k": 0.21803153246983883
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 40,
+      "epi_week_start": "2025-09-29",
+      "case_count": 198,
+      "incidence_per_100k": 0.16716259733179412
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 41,
+      "epi_week_start": "2021-10-11",
+      "case_count": 226,
+      "incidence_per_100k": 0.2010542657656918
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 41,
+      "epi_week_start": "2022-10-10",
+      "case_count": 253,
+      "incidence_per_100k": 0.2422007519711304
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 41,
+      "epi_week_start": "2023-10-09",
+      "case_count": 210,
+      "incidence_per_100k": 0.19721019797239064
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 41,
+      "epi_week_start": "2024-10-07",
+      "case_count": 267,
+      "incidence_per_100k": 0.24634969342636798
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 41,
+      "epi_week_start": "2025-10-06",
+      "case_count": 219,
+      "incidence_per_100k": 0.1884376254597048
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 42,
+      "epi_week_start": "2021-10-18",
+      "case_count": 213,
+      "incidence_per_100k": 0.18989575388189878
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 42,
+      "epi_week_start": "2022-10-17",
+      "case_count": 260,
+      "incidence_per_100k": 0.2426721604494237
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 42,
+      "epi_week_start": "2023-10-16",
+      "case_count": 258,
+      "incidence_per_100k": 0.23845369648404197
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 42,
+      "epi_week_start": "2024-10-14",
+      "case_count": 246,
+      "incidence_per_100k": 0.22162806116676223
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 42,
+      "epi_week_start": "2025-10-13",
+      "case_count": 255,
+      "incidence_per_100k": 0.23680809702201774
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 43,
+      "epi_week_start": "2021-10-25",
+      "case_count": 252,
+      "incidence_per_100k": 0.23668550399021734
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 43,
+      "epi_week_start": "2022-10-24",
+      "case_count": 211,
+      "incidence_per_100k": 0.17575188420552537
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 43,
+      "epi_week_start": "2023-10-23",
+      "case_count": 187,
+      "incidence_per_100k": 0.16591913138460687
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 43,
+      "epi_week_start": "2024-10-21",
+      "case_count": 202,
+      "incidence_per_100k": 0.1843934542204508
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 43,
+      "epi_week_start": "2025-10-20",
+      "case_count": 239,
+      "incidence_per_100k": 0.2200404941375044
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 44,
+      "epi_week_start": "2021-11-01",
+      "case_count": 215,
+      "incidence_per_100k": 0.21002786113901153
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 44,
+      "epi_week_start": "2022-10-31",
+      "case_count": 255,
+      "incidence_per_100k": 0.22994909097163732
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 44,
+      "epi_week_start": "2023-10-30",
+      "case_count": 240,
+      "incidence_per_100k": 0.23171546072207067
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 44,
+      "epi_week_start": "2024-10-28",
+      "case_count": 277,
+      "incidence_per_100k": 0.24336935529524834
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 44,
+      "epi_week_start": "2025-10-27",
+      "case_count": 246,
+      "incidence_per_100k": 0.2149018699379598
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 45,
+      "epi_week_start": "2021-11-08",
+      "case_count": 279,
+      "incidence_per_100k": 0.25081717878933174
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 45,
+      "epi_week_start": "2022-11-07",
+      "case_count": 237,
+      "incidence_per_100k": 0.21879550214461155
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 45,
+      "epi_week_start": "2023-11-06",
+      "case_count": 275,
+      "incidence_per_100k": 0.25171835499983886
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 45,
+      "epi_week_start": "2024-11-04",
+      "case_count": 282,
+      "incidence_per_100k": 0.24998984647924136
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 45,
+      "epi_week_start": "2025-11-03",
+      "case_count": 263,
+      "incidence_per_100k": 0.25335879538388667
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 46,
+      "epi_week_start": "2021-11-15",
+      "case_count": 255,
+      "incidence_per_100k": 0.2227102001349266
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 46,
+      "epi_week_start": "2022-11-14",
+      "case_count": 248,
+      "incidence_per_100k": 0.22958101590040972
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 46,
+      "epi_week_start": "2023-11-13",
+      "case_count": 245,
+      "incidence_per_100k": 0.2185933908346452
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 46,
+      "epi_week_start": "2024-11-11",
+      "case_count": 229,
+      "incidence_per_100k": 0.21125625018857724
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 46,
+      "epi_week_start": "2025-11-10",
+      "case_count": 334,
+      "incidence_per_100k": 0.3069024362893321
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 47,
+      "epi_week_start": "2021-11-22",
+      "case_count": 243,
+      "incidence_per_100k": 0.21311527789802998
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 47,
+      "epi_week_start": "2022-11-21",
+      "case_count": 276,
+      "incidence_per_100k": 0.26352084767699785
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 47,
+      "epi_week_start": "2023-11-20",
+      "case_count": 297,
+      "incidence_per_100k": 0.27037312569144434
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 47,
+      "epi_week_start": "2024-11-18",
+      "case_count": 280,
+      "incidence_per_100k": 0.25486549028597405
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 47,
+      "epi_week_start": "2025-11-17",
+      "case_count": 231,
+      "incidence_per_100k": 0.20148916150008678
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 48,
+      "epi_week_start": "2021-11-29",
+      "case_count": 278,
+      "incidence_per_100k": 0.2492154742974444
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 48,
+      "epi_week_start": "2022-11-28",
+      "case_count": 225,
+      "incidence_per_100k": 0.21407194071407548
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 48,
+      "epi_week_start": "2023-11-27",
+      "case_count": 261,
+      "incidence_per_100k": 0.22167323888821677
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 48,
+      "epi_week_start": "2024-11-25",
+      "case_count": 264,
+      "incidence_per_100k": 0.21518323512548798
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 48,
+      "epi_week_start": "2025-11-24",
+      "case_count": 264,
+      "incidence_per_100k": 0.22909053241472563
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 49,
+      "epi_week_start": "2021-12-06",
+      "case_count": 289,
+      "incidence_per_100k": 0.2658349145852456
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 49,
+      "epi_week_start": "2022-12-05",
+      "case_count": 283,
+      "incidence_per_100k": 0.25750762233093116
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 49,
+      "epi_week_start": "2023-12-04",
+      "case_count": 374,
+      "incidence_per_100k": 0.3247372572145788
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 49,
+      "epi_week_start": "2024-12-02",
+      "case_count": 287,
+      "incidence_per_100k": 0.252810299511821
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 49,
+      "epi_week_start": "2025-12-01",
+      "case_count": 302,
+      "incidence_per_100k": 0.28162607173857246
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 50,
+      "epi_week_start": "2021-12-13",
+      "case_count": 277,
+      "incidence_per_100k": 0.2675697166118457
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 50,
+      "epi_week_start": "2022-12-12",
+      "case_count": 259,
+      "incidence_per_100k": 0.25130588574117796
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 50,
+      "epi_week_start": "2023-12-11",
+      "case_count": 318,
+      "incidence_per_100k": 0.30409994318807376
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 50,
+      "epi_week_start": "2024-12-09",
+      "case_count": 318,
+      "incidence_per_100k": 0.3003279378840617
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 50,
+      "epi_week_start": "2025-12-08",
+      "case_count": 328,
+      "incidence_per_100k": 0.3081971535334039
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 51,
+      "epi_week_start": "2021-12-20",
+      "case_count": 316,
+      "incidence_per_100k": 0.2748884652768501
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 51,
+      "epi_week_start": "2022-12-19",
+      "case_count": 315,
+      "incidence_per_100k": 0.27752852901805836
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 51,
+      "epi_week_start": "2023-12-18",
+      "case_count": 272,
+      "incidence_per_100k": 0.26376658340415354
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 51,
+      "epi_week_start": "2024-12-16",
+      "case_count": 299,
+      "incidence_per_100k": 0.2804687774870245
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 51,
+      "epi_week_start": "2025-12-15",
+      "case_count": 335,
+      "incidence_per_100k": 0.30485129592399884
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 52,
+      "epi_week_start": "2021-12-27",
+      "case_count": 380,
+      "incidence_per_100k": 0.33005095036543985
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 52,
+      "epi_week_start": "2022-12-26",
+      "case_count": 314,
+      "incidence_per_100k": 0.2921955456309355
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 52,
+      "epi_week_start": "2023-12-25",
+      "case_count": 374,
+      "incidence_per_100k": 0.33733293860975894
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 52,
+      "epi_week_start": "2024-12-23",
+      "case_count": 310,
+      "incidence_per_100k": 0.27390691659349686
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 52,
+      "epi_week_start": "2025-12-22",
+      "case_count": 315,
+      "incidence_per_100k": 0.28886109380919484
+    },
+    {
+      "disease": "Influenza",
+      "epi_week": 53,
+      "epi_week_start": "2020-12-28",
+      "case_count": 143,
+      "incidence_per_100k": 0.12569824365661172
+    }
+  ]
+}

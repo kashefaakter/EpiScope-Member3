@@ -1,0 +1,39 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Generated / raw data
+data/raw/
+data/bronze/
+data/silver/
+data/gold/
+data/quarantine/
+
+# Generated outputs
+generator/output/
+pipeline/output/
+analytics/output/
+serving/output/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large local files
+*.csv
+*.parquet
+*.jsonl

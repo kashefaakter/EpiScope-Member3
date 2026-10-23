@@ -1,0 +1,1349 @@
+{
+  "generated_at": "2026-09-26T12:01:25.164413Z",
+  "records": [
+    {
+      "district_name": "Bagerhat",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Bandarban",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Barguna",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Barisal",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Bhola",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Bogra",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Brahamanbaria",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Chandpur",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Chapainababganj",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Chittagong",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Chuadanga",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Comilla",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Cox's Bazar",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Dhaka",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Dinajpur",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Faridpur",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Feni",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Gaibandha",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Gazipur",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Gopalganj",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": true
+    },
+    {
+      "district_name": "Habiganj",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Jamalpur",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Jessore",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Jhalokati",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Jhenaidah",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Joypurhat",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Khagrachhari",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": true
+    },
+    {
+      "district_name": "Khulna",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Kishoreganj",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Kurigram",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Kushtia",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Lakshmipur",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Lalmonirhat",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Madaripur",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Magura",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Manikganj",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Meherpur",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Moulvibazar",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Munshiganj",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Mymensingh",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Naogaon",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Narail",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": true
+    },
+    {
+      "district_name": "Narayanganj",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Narsingdi",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Natore",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Netrakona",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Nilphamari",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Noakhali",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Pabna",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Panchagarh",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Patuakhali",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Pirojpur",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Rajbari",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Rajshahi",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Rangamati",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Rangpur",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Satkhira",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Shariatpur",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Sherpur",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Sirajganj",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Sunamganj",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Sylhet",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Tangail",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Thakurgaon",
+      "disease": "Acute Respiratory Infection",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Bagerhat",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Bandarban",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Barguna",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Barisal",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Bhola",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Bogra",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Brahamanbaria",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Chandpur",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": true
+    },
+    {
+      "district_name": "Chapainababganj",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Chittagong",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Chuadanga",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Comilla",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Cox's Bazar",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Dhaka",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Dinajpur",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Faridpur",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Feni",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Gaibandha",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Gazipur",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Gopalganj",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Habiganj",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Jamalpur",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Jessore",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Jhalokati",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Jhenaidah",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Joypurhat",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Khagrachhari",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Khulna",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": true
+    },
+    {
+      "district_name": "Kishoreganj",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Kurigram",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Kushtia",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Lakshmipur",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Lalmonirhat",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Madaripur",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Magura",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Manikganj",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Meherpur",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Moulvibazar",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Munshiganj",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Mymensingh",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Naogaon",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Narail",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Narayanganj",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Narsingdi",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Natore",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Netrakona",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Nilphamari",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Noakhali",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Pabna",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Panchagarh",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Patuakhali",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Pirojpur",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Rajbari",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Rajshahi",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Rangamati",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Rangpur",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Satkhira",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Shariatpur",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Sherpur",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Sirajganj",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Sunamganj",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Sylhet",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Tangail",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Thakurgaon",
+      "disease": "Dengue",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Bagerhat",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Bandarban",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Barguna",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Barisal",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Bhola",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Bogra",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Brahamanbaria",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Chandpur",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Chapainababganj",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Chittagong",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Chuadanga",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Comilla",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Cox's Bazar",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Dhaka",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Dinajpur",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Faridpur",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Feni",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Gaibandha",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Gazipur",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Gopalganj",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Habiganj",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Jamalpur",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Jessore",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Jhalokati",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Jhenaidah",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Joypurhat",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Khagrachhari",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Khulna",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Kishoreganj",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Kurigram",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Kushtia",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Lakshmipur",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Lalmonirhat",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Madaripur",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Magura",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Manikganj",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Meherpur",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Moulvibazar",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Munshiganj",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Mymensingh",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Naogaon",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Narail",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Narayanganj",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Narsingdi",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Natore",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Netrakona",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Nilphamari",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Noakhali",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Pabna",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Panchagarh",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Patuakhali",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Pirojpur",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Rajbari",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Rajshahi",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Rangamati",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Rangpur",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Satkhira",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Shariatpur",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Sherpur",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Sirajganj",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Sunamganj",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Sylhet",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Tangail",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    },
+    {
+      "district_name": "Thakurgaon",
+      "disease": "Influenza",
+      "epi_week": 1,
+      "epi_week_start": "2025-12-29",
+      "alert": false
+    }
+  ]
+}

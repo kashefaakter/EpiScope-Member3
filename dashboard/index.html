@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#082f3f">
+  <link rel="icon" href="data:,">
+  <title>EpiScope | Public Health Intelligence</title>
+  <meta name="description" content="EpiScope epidemiological surveillance and response-planning dashboard.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css?v=5">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar">
+      <div class="brand">
+        <div class="brand-mark">E</div>
+        <div>
+          <div class="brand-name">EpiScope</div>
+          <div class="brand-subtitle">PUBLIC HEALTH<br>INTELLIGENCE</div>
+        </div>
+      </div>
+
+      <nav class="nav">
+        <div class="nav-label">MONITORING</div>
+        <button class="nav-item active" data-scroll="overview"><span>◈</span> Overview</button>
+        <button class="nav-item" data-scroll="surveillance"><span>⌁</span> Surveillance</button>
+        <button class="nav-item" data-scroll="forecasting"><span>◒</span> Forecasting</button>
+        <button class="nav-item" data-scroll="warning"><span>!</span> Early Warning</button>
+
+        <div class="nav-label planning-label">PLANNING</div>
+        <button class="nav-item" data-scroll="resources"><span>▣</span> Resources</button>
+        <button class="nav-item" data-scroll="preparedness"><span>◌</span> Preparedness</button>
+      </nav>
+
+      <div class="sidebar-bottom">
+        <div class="system-status">
+          <span class="status-dot" id="systemStatusDot"></span>
+          <div>
+            <strong id="systemStatus">Loading serving data</strong>
+            <small id="systemStatusDetail">Waiting for JSON validation</small>
+          </div>
+        </div>
+        <div class="sidebar-foot">EpiScope · Big Data Analytics Complex Engineering Project</div>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div class="mobile-brand">
+          <button class="icon-button" id="menuToggle" aria-label="Open navigation">☰</button>
+          <div class="brand-mark small">E</div>
+          <strong>EpiScope</strong>
+        </div>
+
+        <div class="topbar-title">
+          <span>EPIDEMIOLOGICAL SURVEILLANCE</span>
+          <strong>Public Health Intelligence</strong>
+        </div>
+
+        <div class="topbar-meta">
+          <div class="live-pill"><span></span> SERVING DATA</div>
+          <div class="updated">
+            <small>Last updated</small>
+            <strong id="lastUpdated">Loading…</strong>
+          </div>
+        </div>
+      </header>
+
+      <div class="content">
+        <section class="hero" id="overview">
+          <div class="hero-copy">
+            <span class="eyebrow">EPIDEMIOLOGICAL SURVEILLANCE PLATFORM</span>
+            <h1>Detect earlier. <em>Prepare smarter.</em></h1>
+            <p>A data-driven view of disease activity, outbreak signals, short-term forecasts and resource readiness across Bangladesh.</p>
+          </div>
+          <div class="hero-badge">
+            <div class="hero-badge-icon">+</div>
+            <div>
+              <strong>Decision Support</strong>
+              <span>Evidence-based monitoring</span>
+            </div>
+          </div>
+        </section>
+
+        <section class="control-card">
+          <div class="control-heading">
+            <div class="control-icon">⚙</div>
+            <div>
+              <strong>Dashboard Controls</strong>
+              <span>Filter the surveillance view</span>
+            </div>
+          </div>
+
+          <div class="filters">
+            <label>
+              <span>DISEASE</span>
+              <select id="diseaseSelect"><option value="__all__">All diseases</option></select>
+            </label>
+            <label>
+              <span>DIVISION</span>
+              <select id="divisionSelect"><option value="__all__">All divisions</option></select>
+            </label>
+            <label>
+              <span>DISTRICT</span>
+              <select id="districtSelect"><option value="__all__">All districts</option></select>
+            </label>
+            <label>
+              <span>EPI WEEK</span>
+              <select id="weekSelect"><option value="__latest__">Latest available</option></select>
+            </label>
+            <label>
+              <span>FROM</span>
+              <input id="startDate" type="date" aria-label="Start date">
+            </label>
+            <label>
+              <span>TO</span>
+              <input id="endDate" type="date" aria-label="End date">
+            </label>
+            <label>
+              <span>ALERT LEVEL</span>
+              <select id="alertSelect">
+                <option value="__all__">All alerts</option>
+                <option value="HIGH">High priority</option>
+                <option value="MEDIUM">Medium</option>
+                <option value="LOW">Low</option>
+              </select>
+            </label>
+            <button class="reset-btn" id="resetBtn">↻ <span>Reset</span></button>
+          </div>
+        </section>
+
+        <section class="kpi-grid" aria-label="Key indicators">
+          <article class="kpi-card">
+            <div class="kpi-top"><span>Districts monitored</span><i>◉</i></div>
+            <div class="kpi-value" id="kpiDistricts">—</div>
+            <div class="kpi-foot"><b>Coverage</b><span>Administrative level</span></div>
+          </article>
+          <article class="kpi-card">
+            <div class="kpi-top"><span>Diseases tracked</span><i>✦</i></div>
+            <div class="kpi-value" id="kpiDiseases">—</div>
+            <div class="kpi-foot"><b class="green">Active</b><span>Surveillance streams</span></div>
+          </article>
+          <article class="kpi-card">
+            <div class="kpi-top"><span>Total cases</span><i>▣</i></div>
+            <div class="kpi-value" id="kpiCases">—</div>
+            <div class="kpi-foot"><b>Observed</b><span id="casePeriod">Selected period</span></div>
+          </article>
+          <article class="kpi-card">
+            <div class="kpi-top"><span>Active alerts</span><i class="amber-icon">!</i></div>
+            <div class="kpi-value" id="kpiAlerts">—</div>
+            <div class="kpi-foot"><b class="amber">Monitor</b><span>Early-warning signals</span></div>
+          </article>
+          <article class="kpi-card">
+            <div class="kpi-top"><span>High priority</span><i class="red-icon">▲</i></div>
+            <div class="kpi-value" id="kpiHigh">—</div>
+            <div class="kpi-foot"><b class="red">Priority</b><span>Requires attention</span></div>
+          </article>
+          <article class="kpi-card">
+            <div class="kpi-top"><span>Last updated</span><i>◷</i></div>
+            <div class="kpi-value updated-kpi" id="kpiUpdated">—</div>
+            <div class="kpi-foot"><b>Serving</b><span>Latest data build</span></div>
+          </article>
+        </section>
+
+        <section class="section-block" id="surveillance">
+          <div class="section-heading">
+            <div>
+              <span class="eyebrow">SPATIAL SURVEILLANCE</span>
+              <h2>District Surveillance</h2>
+              <p>Current disease activity and early-warning signals by district.</p>
+            </div>
+            <div class="section-status" id="mapStatus">Case count</div>
+          </div>
+
+          <div class="panel map-panel">
+            <div class="panel-toolbar">
+              <span><i class="dot blue"></i> Bangladesh district view</span>
+              <span class="selection-chip" id="selectedDistrict">All districts</span>
+            </div>
+            <div class="map-wrap">
+              <svg id="districtMap" role="img" aria-label="District surveillance map"></svg>
+              <div class="empty-state hidden" id="mapEmpty">
+                <div class="empty-icon">⌖</div>
+                <strong>District geometry unavailable</strong>
+                <span>The dashboard is still usable through the ranked surveillance view.</span>
+              </div>
+              <div class="tooltip" id="mapTooltip"></div>
+            </div>
+            <div class="map-legend" aria-label="Map legend: case intensity and early-warning status">
+              <span>Cases</span>
+              <span id="mapLegendMin">0</span>
+              <div class="map-legend-ramp" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
+              <span id="mapLegendMid">—</span>
+              <span id="mapLegendMax">—</span>
+              <span class="map-legend-note">Light to dark = fewer to more cases</span>
+              <span class="map-legend-missing"><i></i> Suppressed / no data</span>
+              <span class="map-alert-label">Alert</span>
+              <span class="map-status-key high"><i></i>High</span>
+              <span class="map-status-key medium"><i></i>Medium</span>
+              <span class="map-status-key low"><i></i>Low</span>
+              <span class="map-status-key none"><i></i>None</span>
+            </div>
+            <div class="panel-note"><span>ⓘ</span> Select a district to update the analytical views.</div>
+          </div>
+        </section>
+
+        <section class="two-column" id="forecasting">
+          <article class="panel chart-panel large">
+            <div class="panel-heading">
+              <div>
+                <span class="eyebrow">SHORT-TERM FORECAST</span>
+                <h2>Observed &amp; Forecast Cases</h2>
+                <p>Weekly observations with saved one-to-four-week model projections.</p>
+              </div>
+              <span class="mini-tag">Forecast: Next 4 weeks</span>
+            </div>
+            <div class="chart-area" id="timeSeriesWrap">
+              <svg id="timeSeriesChart"></svg>
+              <div class="empty-state" id="timeSeriesEmpty">
+                <div class="empty-icon">⌁</div>
+                <strong>No time-series data available.</strong>
+                <span>Select a district or check the serving data.</span>
+              </div>
+              <div class="tooltip" id="chartTooltip"></div>
+            </div>
+            <div class="legend">
+              <span><i class="line observed"></i> Observed cases</span>
+              <span><i class="line forecast"></i> Forecast cases</span>
+              <span class="forecast-message hidden" id="observedWeekStatus" role="status"></span>
+              <span class="forecast-message hidden" id="forecastMessage" role="status"></span>
+            </div>
+          </article>
+
+          <article class="panel chart-panel">
+            <div class="panel-heading">
+              <div>
+                <span class="eyebrow">SEASONAL ANALYSIS</span>
+                <h2>Seasonal Pattern</h2>
+                <p>Disease activity across epidemiological weeks.</p>
+              </div>
+            </div>
+            <div class="chart-area heatmap-area" id="heatmapWrap">
+              <svg id="heatmapChart"></svg>
+              <div class="empty-state" id="heatmapEmpty">
+                <div class="empty-icon">▦</div>
+                <strong>No seasonal data available.</strong>
+              </div>
+              <div class="tooltip" id="heatmapTooltip"></div>
+            </div>
+            <div class="chart-caption">Darker intensity indicates higher relative activity.</div>
+          </article>
+        </section>
+
+        <section class="section-block" id="warning">
+          <div class="section-heading compact">
+            <div>
+              <span class="eyebrow">EARLY WARNING</span>
+              <h2>Priority Districts</h2>
+              <p>Districts ranked by current surveillance signals.</p>
+            </div>
+            <span class="heading-note">Consensus-based signals</span>
+          </div>
+
+          <div class="panel table-panel">
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>RANK</th><th>DISTRICT</th><th>DISEASE</th><th>EPI WEEK</th><th>LEVEL</th><th>METHOD</th><th>CASES</th><th>INCIDENCE / 100K</th>
+                  </tr>
+                </thead>
+                <tbody id="warningTable"></tbody>
+              </table>
+            </div>
+            <div class="empty-table hidden" id="warningEmpty">No early-warning records match the current filters.</div>
+          </div>
+        </section>
+
+        <section class="section-block" id="resources">
+          <div class="section-heading compact">
+            <div>
+              <span class="eyebrow">RESPONSE PLANNING</span>
+              <h2>Resource Allocation</h2>
+              <p>Demand and readiness indicators for operational response planning.</p>
+            </div>
+            <span class="optimization-badge" id="allocationSummaryBadge">AN-7 allocation</span>
+          </div>
+
+          <div class="resource-grid" id="resourceGrid">
+            <article class="resource-card"><span class="resource-icon">▣</span><div><span>Active bed capacity</span><strong id="resourceCapacity">N/A</strong><small>Active S5 facilities</small></div></article>
+            <article class="resource-card"><span class="resource-icon">+</span><div><span>Available beds</span><strong id="resourceBeds">N/A</strong><small>S6 latest snapshot</small></div></article>
+            <article class="resource-card"><span class="resource-icon">⌁</span><div><span>Four-week bed demand</span><strong id="resourceDemand">N/A</strong><small>Buffered AN-6 requirement, horizons 1–4</small></div></article>
+            <article class="resource-card"><span class="resource-icon">✓</span><div><span>Optimized beds allocated</span><strong id="resourceAllocation">N/A</strong><small>AN-7 optimizer output</small></div></article>
+          </div>
+          <div class="resource-summary" id="resourceSummary" aria-live="polite"></div>
+          <div class="panel table-panel resource-table-panel">
+            <div class="table-wrap">
+              <table>
+                <thead><tr><th>DISTRICT</th><th>FACILITIES</th><th>BED CAPACITY</th><th>AVAILABLE BEDS</th><th>S6 STATUS</th><th>FORECAST CASES</th><th>BED DEMAND</th><th>OPTIMIZED BEDS</th><th>BED UNMET</th><th>BASELINE BEDS</th><th>SALINE STOCK</th><th>SALINE DEMAND</th><th>OPTIMIZED SALINE</th><th>SALINE UNMET</th><th>BASELINE SALINE</th><th>TEST-KIT STOCK</th><th>TEST-KIT DEMAND</th><th>OPTIMIZED TEST KITS</th><th>TEST-KIT UNMET</th><th>BASELINE TEST KITS</th><th>UNMET REDUCTION</th><th>STATUS</th></tr></thead>
+                <tbody id="resourceTable"></tbody>
+              </table>
+            </div>
+            <div class="empty-table hidden" id="resourceEmpty">No resource data available for these filters.</div>
+          </div>
+          <div class="notice">Planning demand uses the AN-6 seasonal-naive estimate and documented assumptions; bed capacity and stock come from S5/S6 analytics. Optimized allocations are model outputs, not observed stock.</div>
+        </section>
+
+        <section class="section-block" id="preparedness">
+          <div class="section-heading compact">
+            <div>
+              <span class="eyebrow">SEASONAL PREPAREDNESS</span>
+              <h2>Preparedness Calendar</h2>
+              <p>Upcoming seasonal periods requiring additional operational readiness.</p>
+            </div>
+          </div>
+
+          <div class="panel calendar-panel">
+            <div class="month-grid" id="calendarGrid"></div>
+          </div>
+        </section>
+
+        <section class="method-card">
+          <div class="method-icon">◆</div>
+          <div class="method-copy">
+            <span class="eyebrow">DATA &amp; METHODOLOGY</span>
+            <h2>EpiScope analytical pipeline</h2>
+            <p>Surveillance outputs are derived from the project's Bronze → Silver → Gold data pipeline. Forecast, detection and resource-planning outputs are intended to support analytical exploration and public-health preparedness.</p>
+          </div>
+          <div class="method-tags"><span>Apache Spark</span><span>D3.js</span><span>Parquet</span><span>Gold Analytics</span></div>
+        </section>
+
+        <footer>
+          <span><strong>EpiScope</strong> · Big Data Analytics Complex Engineering Project</span>
+          <span>Premier University </span>
+        </footer>
+      </div>
+      <div id="appError" class="app-error hidden" role="status" aria-live="polite"></div>
+    </main>
+  </div>
+
+  <div class="toast" id="toast"></div>
+  <div class="dashboard-loading" id="dashboardLoading" role="status" aria-live="polite">Loading surveillance data...</div>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="js/app.js?v=5"></script>
+</body>
+</html>

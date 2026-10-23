@@ -1,0 +1,519 @@
+{
+  "generated_at": "2026-09-26T12:01:24.933424Z",
+  "latest_epi_week_start": "2025-12-29",
+  "suppression_threshold": 5,
+  "records": [
+    {
+      "district_name": "Bagerhat",
+      "epi_week_start": "2025-12-29",
+      "case_count": 6.0,
+      "incidence_per_100k": 0.1239867185427097,
+      "max_incidence_per_100k": 0.18598007781406456,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Bandarban",
+      "epi_week_start": "2025-12-29",
+      "case_count": 14.0,
+      "incidence_per_100k": 0.9699872100257877,
+      "max_incidence_per_100k": 1.4549808150386816,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Barguna",
+      "epi_week_start": "2025-12-29",
+      "case_count": 16.0,
+      "incidence_per_100k": 0.5277753313192107,
+      "max_incidence_per_100k": 0.6927051223564641,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Barisal",
+      "epi_week_start": "2025-12-29",
+      "case_count": null,
+      "incidence_per_100k": 0.03890375444572654,
+      "max_incidence_per_100k": 0.07780750889145308,
+      "data_status": "SUPPRESSED"
+    },
+    {
+      "district_name": "Bhola",
+      "epi_week_start": "2025-12-29",
+      "case_count": 8.0,
+      "incidence_per_100k": 0.13798922787092627,
+      "max_incidence_per_100k": 0.25872980225798675,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Bogra",
+      "epi_week_start": "2025-12-29",
+      "case_count": 16.0,
+      "incidence_per_100k": 0.14282027737304592,
+      "max_incidence_per_100k": 0.241009218067015,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Brahamanbaria",
+      "epi_week_start": "2025-12-29",
+      "case_count": null,
+      "incidence_per_100k": 0.02016192241510797,
+      "max_incidence_per_100k": 0.06048576724532392,
+      "data_status": "SUPPRESSED"
+    },
+    {
+      "district_name": "Chandpur",
+      "epi_week_start": "2025-12-29",
+      "case_count": null,
+      "incidence_per_100k": 0.050586525469556776,
+      "max_incidence_per_100k": 0.07587978820433516,
+      "data_status": "SUPPRESSED"
+    },
+    {
+      "district_name": "Chapainababganj",
+      "epi_week_start": "2025-12-29",
+      "case_count": 0.0,
+      "incidence_per_100k": 0.0,
+      "max_incidence_per_100k": 0.0,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Chittagong",
+      "epi_week_start": "2025-12-29",
+      "case_count": 9.0,
+      "incidence_per_100k": 0.032717285032441916,
+      "max_incidence_per_100k": 0.04362304670992256,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Chuadanga",
+      "epi_week_start": "2025-12-29",
+      "case_count": 9.0,
+      "incidence_per_100k": 0.2431011933027242,
+      "max_incidence_per_100k": 0.2431011933027242,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Comilla",
+      "epi_week_start": "2025-12-29",
+      "case_count": 12.0,
+      "incidence_per_100k": 0.14167978385332175,
+      "max_incidence_per_100k": 0.24793962174331308,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Cox's Bazar",
+      "epi_week_start": "2025-12-29",
+      "case_count": 9.0,
+      "incidence_per_100k": 0.0482919460624035,
+      "max_incidence_per_100k": 0.064389261416538,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Dhaka",
+      "epi_week_start": "2025-12-29",
+      "case_count": null,
+      "incidence_per_100k": 0.0022622334401854053,
+      "max_incidence_per_100k": 0.006786700320556216,
+      "data_status": "SUPPRESSED"
+    },
+    {
+      "district_name": "Dinajpur",
+      "epi_week_start": "2025-12-29",
+      "case_count": 8.0,
+      "incidence_per_100k": 0.08043670696947869,
+      "max_incidence_per_100k": 0.09049129534066352,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Faridpur",
+      "epi_week_start": "2025-12-29",
+      "case_count": 5.0,
+      "incidence_per_100k": 0.07705778578767776,
+      "max_incidence_per_100k": 0.0924693429452133,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Feni",
+      "epi_week_start": "2025-12-29",
+      "case_count": null,
+      "incidence_per_100k": 0.08086218496092738,
+      "max_incidence_per_100k": 0.18193991616208663,
+      "data_status": "SUPPRESSED"
+    },
+    {
+      "district_name": "Gaibandha",
+      "epi_week_start": "2025-12-29",
+      "case_count": 10.0,
+      "incidence_per_100k": 0.1300948560624008,
+      "max_incidence_per_100k": 0.2341707409123214,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Gazipur",
+      "epi_week_start": "2025-12-29",
+      "case_count": 12.0,
+      "incidence_per_100k": 0.075995782234086,
+      "max_incidence_per_100k": 0.113993673351129,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Gopalganj",
+      "epi_week_start": "2025-12-29",
+      "case_count": 17.0,
+      "incidence_per_100k": 0.4375611781308982,
+      "max_incidence_per_100k": 0.5405167494558154,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Habiganj",
+      "epi_week_start": "2025-12-29",
+      "case_count": null,
+      "incidence_per_100k": 0.04239289223811579,
+      "max_incidence_per_100k": 0.08478578447623158,
+      "data_status": "SUPPRESSED"
+    },
+    {
+      "district_name": "Jamalpur",
+      "epi_week_start": "2025-12-29",
+      "case_count": 7.0,
+      "incidence_per_100k": 0.09334311569185784,
+      "max_incidence_per_100k": 0.1600167697574706,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Jessore",
+      "epi_week_start": "2025-12-29",
+      "case_count": 5.0,
+      "incidence_per_100k": 0.05418038514018416,
+      "max_incidence_per_100k": 0.13003292433644198,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Jhalokati",
+      "epi_week_start": "2025-12-29",
+      "case_count": null,
+      "incidence_per_100k": 0.20166575917075039,
+      "max_incidence_per_100k": 0.45374795813418844,
+      "data_status": "SUPPRESSED"
+    },
+    {
+      "district_name": "Jhenaidah",
+      "epi_week_start": "2025-12-29",
+      "case_count": 6.0,
+      "incidence_per_100k": 0.09970840277608135,
+      "max_incidence_per_100k": 0.1994168055521627,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Joypurhat",
+      "epi_week_start": "2025-12-29",
+      "case_count": 6.0,
+      "incidence_per_100k": 0.07182362702852368,
+      "max_incidence_per_100k": 0.10773544054278551,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Khagrachhari",
+      "epi_week_start": "2025-12-29",
+      "case_count": null,
+      "incidence_per_100k": 0.18671024483781182,
+      "max_incidence_per_100k": 0.2800653672567177,
+      "data_status": "SUPPRESSED"
+    },
+    {
+      "district_name": "Khulna",
+      "epi_week_start": "2025-12-29",
+      "case_count": 7.0,
+      "incidence_per_100k": 0.08928394910559805,
+      "max_incidence_per_100k": 0.1530581984667395,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Kishoreganj",
+      "epi_week_start": "2025-12-29",
+      "case_count": 7.0,
+      "incidence_per_100k": 0.07140760091067133,
+      "max_incidence_per_100k": 0.15301628766572428,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Kurigram",
+      "epi_week_start": "2025-12-29",
+      "case_count": 6.0,
+      "incidence_per_100k": 0.08586786652698826,
+      "max_incidence_per_100k": 0.1288017997904824,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Kushtia",
+      "epi_week_start": "2025-12-29",
+      "case_count": 26.0,
+      "incidence_per_100k": 0.40315852999716545,
+      "max_incidence_per_100k": 0.4651829192274986,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Lakshmipur",
+      "epi_week_start": "2025-12-29",
+      "case_count": 7.0,
+      "incidence_per_100k": 0.12040226741549998,
+      "max_incidence_per_100k": 0.20640388699799997,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Lalmonirhat",
+      "epi_week_start": "2025-12-29",
+      "case_count": 13.0,
+      "incidence_per_100k": 0.30336846340139517,
+      "max_incidence_per_100k": 0.35004053469391755,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Madaripur",
+      "epi_week_start": "2025-12-29",
+      "case_count": null,
+      "incidence_per_100k": 0.10311720740041264,
+      "max_incidence_per_100k": 0.15467581110061895,
+      "data_status": "SUPPRESSED"
+    },
+    {
+      "district_name": "Magura",
+      "epi_week_start": "2025-12-29",
+      "case_count": 5.0,
+      "incidence_per_100k": 0.1613244088670348,
+      "max_incidence_per_100k": 0.29038393596066264,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Manikganj",
+      "epi_week_start": "2025-12-29",
+      "case_count": 11.0,
+      "incidence_per_100k": 0.23534068238100583,
+      "max_incidence_per_100k": 0.3851029348052823,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Meherpur",
+      "epi_week_start": "2025-12-29",
+      "case_count": 7.0,
+      "incidence_per_100k": 0.3308022237470629,
+      "max_incidence_per_100k": 0.4253171448176523,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Moulvibazar",
+      "epi_week_start": "2025-12-29",
+      "case_count": 0.0,
+      "incidence_per_100k": 0.0,
+      "max_incidence_per_100k": 0.0,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Munshiganj",
+      "epi_week_start": "2025-12-29",
+      "case_count": null,
+      "incidence_per_100k": 0.0820302822990135,
+      "max_incidence_per_100k": 0.1845681351727804,
+      "data_status": "SUPPRESSED"
+    },
+    {
+      "district_name": "Mymensingh",
+      "epi_week_start": "2025-12-29",
+      "case_count": 5.0,
+      "incidence_per_100k": 0.028253352330887438,
+      "max_incidence_per_100k": 0.03390402279706493,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Naogaon",
+      "epi_week_start": "2025-12-29",
+      "case_count": 9.0,
+      "incidence_per_100k": 0.1612970866520209,
+      "max_incidence_per_100k": 0.26882847775336816,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Narail",
+      "epi_week_start": "2025-12-29",
+      "case_count": 5.0,
+      "incidence_per_100k": 0.21132597327233618,
+      "max_incidence_per_100k": 0.38038675189020515,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Narayanganj",
+      "epi_week_start": "2025-12-29",
+      "case_count": 7.0,
+      "incidence_per_100k": 0.05968920343393692,
+      "max_incidence_per_100k": 0.0767432615579189,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Narsingdi",
+      "epi_week_start": "2025-12-29",
+      "case_count": 7.0,
+      "incidence_per_100k": 0.09028348498379284,
+      "max_incidence_per_100k": 0.19346461067955606,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Natore",
+      "epi_week_start": "2025-12-29",
+      "case_count": 8.0,
+      "incidence_per_100k": 0.1452806313315115,
+      "max_incidence_per_100k": 0.3268814204959009,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Netrakona",
+      "epi_week_start": "2025-12-29",
+      "case_count": null,
+      "incidence_per_100k": 0.028675648166428872,
+      "max_incidence_per_100k": 0.04301347224964331,
+      "data_status": "SUPPRESSED"
+    },
+    {
+      "district_name": "Nilphamari",
+      "epi_week_start": "2025-12-29",
+      "case_count": 9.0,
+      "incidence_per_100k": 0.14336451670865655,
+      "max_incidence_per_100k": 0.2867290334173131,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Noakhali",
+      "epi_week_start": "2025-12-29",
+      "case_count": null,
+      "incidence_per_100k": 0.0367771249225152,
+      "max_incidence_per_100k": 0.055165687383772796,
+      "data_status": "SUPPRESSED"
+    },
+    {
+      "district_name": "Pabna",
+      "epi_week_start": "2025-12-29",
+      "case_count": null,
+      "incidence_per_100k": 0.04582493591382713,
+      "max_incidence_per_100k": 0.06873740387074069,
+      "data_status": "SUPPRESSED"
+    },
+    {
+      "district_name": "Panchagarh",
+      "epi_week_start": "2025-12-29",
+      "case_count": 7.0,
+      "incidence_per_100k": 0.19776642598492625,
+      "max_incidence_per_100k": 0.4237851985391277,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Patuakhali",
+      "epi_week_start": "2025-12-29",
+      "case_count": 11.0,
+      "incidence_per_100k": 0.21228300334905384,
+      "max_incidence_per_100k": 0.2894768227487098,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Pirojpur",
+      "epi_week_start": "2025-12-29",
+      "case_count": 8.0,
+      "incidence_per_100k": 0.22255698502052393,
+      "max_incidence_per_100k": 0.25037660814808943,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Rajbari",
+      "epi_week_start": "2025-12-29",
+      "case_count": 5.0,
+      "incidence_per_100k": 0.14007744601835462,
+      "max_incidence_per_100k": 0.2521394028330383,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Rajshahi",
+      "epi_week_start": "2025-12-29",
+      "case_count": null,
+      "incidence_per_100k": 0.011435070469193521,
+      "max_incidence_per_100k": 0.03430521140758056,
+      "data_status": "SUPPRESSED"
+    },
+    {
+      "district_name": "Rangamati",
+      "epi_week_start": "2025-12-29",
+      "case_count": 6.0,
+      "incidence_per_100k": 0.3088392892990275,
+      "max_incidence_per_100k": 0.4632589339485412,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Rangpur",
+      "epi_week_start": "2025-12-29",
+      "case_count": 15.0,
+      "incidence_per_100k": 0.15774791504580685,
+      "max_incidence_per_100k": 0.22084708106412956,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Satkhira",
+      "epi_week_start": "2025-12-29",
+      "case_count": 7.0,
+      "incidence_per_100k": 0.10622564208089356,
+      "max_incidence_per_100k": 0.13657582553257744,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Shariatpur",
+      "epi_week_start": "2025-12-29",
+      "case_count": null,
+      "incidence_per_100k": 0.07724620373531743,
+      "max_incidence_per_100k": 0.15449240747063486,
+      "data_status": "SUPPRESSED"
+    },
+    {
+      "district_name": "Sherpur",
+      "epi_week_start": "2025-12-29",
+      "case_count": 7.0,
+      "incidence_per_100k": 0.15536362968501796,
+      "max_incidence_per_100k": 0.3329220636107528,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Sirajganj",
+      "epi_week_start": "2025-12-29",
+      "case_count": 9.0,
+      "incidence_per_100k": 0.08934671469151856,
+      "max_incidence_per_100k": 0.17869342938303712,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Sunamganj",
+      "epi_week_start": "2025-12-29",
+      "case_count": 6.0,
+      "incidence_per_100k": 0.07419784707526927,
+      "max_incidence_per_100k": 0.11129677061290391,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Sylhet",
+      "epi_week_start": "2025-12-29",
+      "case_count": 16.0,
+      "incidence_per_100k": 0.13827231678464322,
+      "max_incidence_per_100k": 0.1814824157798442,
+      "data_status": "AVAILABLE"
+    },
+    {
+      "district_name": "Tangail",
+      "epi_week_start": "2025-12-29",
+      "case_count": null,
+      "incidence_per_100k": 0.008255713118592328,
+      "max_incidence_per_100k": 0.024767139355776985,
+      "data_status": "SUPPRESSED"
+    },
+    {
+      "district_name": "Thakurgaon",
+      "epi_week_start": "2025-12-29",
+      "case_count": 7.0,
+      "incidence_per_100k": 0.15211819148855257,
+      "max_incidence_per_100k": 0.1955805319138533,
+      "data_status": "AVAILABLE"
+    }
+  ]
+}

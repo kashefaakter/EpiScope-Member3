@@ -1,0 +1,191 @@
+<mxfile host="app.diagrams.net" modified="2026-09-24T12:00:00.000Z" agent="Mozilla/5.0" version="24.7.17">
+  <diagram id="usecase01" name="Use Case Diagram">
+    <mxGraphModel dx="1200" dy="1600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- TITLE -->
+        <mxCell id="title" value="Figure 4.1: Use Case Diagram"
+          style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=26;fontStyle=0;"
+          vertex="1" parent="1">
+          <mxGeometry x="260" y="20" width="420" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- ================= ADMIN SECTION ================= -->
+
+        <mxCell id="adminBoundary" value=""
+          style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1976D2;strokeWidth=2;dashed=1;fillColor=none;"
+          vertex="1" parent="1">
+          <mxGeometry x="270" y="100" width="520" height="850" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="adminLabel" value="Admin Section"
+          style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=25;fontStyle=0;"
+          vertex="1" parent="1">
+          <mxGeometry x="390" y="115" width="280" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- ADMIN ACTOR -->
+        <mxCell id="adminActor" value="Admin"
+          style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1976D2;strokeWidth=2;fillColor=#E3F2FD;fontSize=20;"
+          vertex="1" parent="1">
+          <mxGeometry x="20" y="500" width="140" height="70" as="geometry"/>
+        </mxCell>
+
+        <!-- ADMIN USE CASES -->
+
+        <mxCell id="login" value="Log in / Log out"
+          style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontSize=19;"
+          vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="360" height="90" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="dashboard" value="View dashboard"
+          style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontSize=19;"
+          vertex="1" parent="1">
+          <mxGeometry x="345" y="325" width="365" height="90" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="addPub" value="Add publication"
+          style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontSize=19;"
+          vertex="1" parent="1">
+          <mxGeometry x="350" y="460" width="360" height="90" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="editPub" value="Edit publication"
+          style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontSize=19;"
+          vertex="1" parent="1">
+          <mxGeometry x="350" y="595" width="360" height="90" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="deletePub" value="Delete publication"
+          style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontSize=19;"
+          vertex="1" parent="1">
+          <mxGeometry x="330" y="730" width="400" height="90" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="uploadPdf" value="Upload / replace PDF"
+          style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontSize=19;"
+          vertex="1" parent="1">
+          <mxGeometry x="305" y="865" width="450" height="90" as="geometry"/>
+        </mxCell>
+
+        <!-- ADMIN CONNECTIONS -->
+
+        <mxCell id="edgeAdminLogin" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=2;endArrow=none;"
+          edge="1" parent="1" source="adminActor" target="login">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="edgeAdminDashboard" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=2;endArrow=none;"
+          edge="1" parent="1" source="adminActor" target="dashboard">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="edgeAdminAdd" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=2;endArrow=none;"
+          edge="1" parent="1" source="adminActor" target="addPub">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="edgeAdminEdit" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=2;endArrow=none;"
+          edge="1" parent="1" source="adminActor" target="editPub">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="edgeAdminDelete" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=2;endArrow=none;"
+          edge="1" parent="1" source="adminActor" target="deletePub">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="edgeAdminUpload" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=2;endArrow=none;"
+          edge="1" parent="1" source="adminActor" target="uploadPdf">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+
+        <!-- ================= PUBLIC SECTION ================= -->
+
+        <mxCell id="publicBoundary" value=""
+          style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#388E3C;strokeWidth=2;dashed=1;fillColor=none;"
+          vertex="1" parent="1">
+          <mxGeometry x="240" y="1000" width="550" height="790" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="publicLabel" value="Public Section"
+          style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=25;fontStyle=0;"
+          vertex="1" parent="1">
+          <mxGeometry x="390" y="1015" width="270" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- VISITOR ACTOR -->
+
+        <mxCell id="visitorActor" value="Visitor"
+          style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#388E3C;strokeWidth=2;fillColor=#E8F5E9;fontSize=20;"
+          vertex="1" parent="1">
+          <mxGeometry x="20" y="1350" width="140" height="70" as="geometry"/>
+        </mxCell>
+
+        <!-- PUBLIC USE CASES -->
+
+        <mxCell id="viewPubs" value="View publications"
+          style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontSize=19;"
+          vertex="1" parent="1">
+          <mxGeometry x="335" y="1090" width="370" height="90" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="search" value="Search (title, author,&#xa;journal, DOI)"
+          style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontSize=18;"
+          vertex="1" parent="1">
+          <mxGeometry x="270" y="1225" width="500" height="100" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="filterYear" value="Filter by year"
+          style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontSize=19;"
+          vertex="1" parent="1">
+          <mxGeometry x="380" y="1360" width="300" height="90" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="details" value="View publication details"
+          style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontSize=19;"
+          vertex="1" parent="1">
+          <mxGeometry x="275" y="1490" width="490" height="90" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="download" value="Download PDF"
+          style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fillColor=#FFFFFF;fontSize=19;"
+          vertex="1" parent="1">
+          <mxGeometry x="360" y="1625" width="320" height="90" as="geometry"/>
+        </mxCell>
+
+        <!-- VISITOR CONNECTIONS -->
+
+        <mxCell id="edgeVisitorView" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=2;endArrow=none;"
+          edge="1" parent="1" source="visitorActor" target="viewPubs">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="edgeVisitorSearch" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=2;endArrow=none;"
+          edge="1" parent="1" source="visitorActor" target="search">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="edgeVisitorFilter" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=2;endArrow=none;"
+          edge="1" parent="1" source="visitorActor" target="filterYear">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="edgeVisitorDetails" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=2;endArrow=none;"
+          edge="1" parent="1" source="visitorActor" target="details">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="edgeVisitorDownload" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=2;endArrow=none;"
+          edge="1" parent="1" source="visitorActor" target="download">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

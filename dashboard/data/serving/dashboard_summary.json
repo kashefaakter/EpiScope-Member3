@@ -1,0 +1,32 @@
+{
+  "project": "EpiScope",
+  "generated_at": "2026-09-26T12:01:25.233932Z",
+  "latest_epi_week_start": "2025-12-29",
+  "district_count": 64,
+  "disease_count": 3,
+  "diseases": [
+    "Acute Respiratory Infection",
+    "Dengue",
+    "Influenza"
+  ],
+  "total_aggregated_cases": 225967,
+  "disease_case_summary": {
+    "Acute Respiratory Infection": 52563,
+    "Dengue": 108476,
+    "Influenza": 64928
+  },
+  "dashboard_views": {
+    "district_choropleth": "district_choropleth.json",
+    "time_series": "time_series.json",
+    "seasonal_heatmap": "seasonal_heatmap.json",
+    "early_warning": "early_warning.json",
+    "preparedness_calendar": "preparedness_calendar.json"
+  },
+  "privacy": {
+    "line_level_data_exposed": false,
+    "direct_identifiers_exposed": false,
+    "small_cell_threshold": 5,
+    "counts_1_to_4_suppressed": true
+  },
+  "ground_truth_used": false
+}
