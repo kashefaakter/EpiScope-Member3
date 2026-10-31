@@ -1,0 +1,47 @@
+seed: 4345
+
+scale_factor: 0.01
+
+start_date: "2021-01-01"
+end_date: "2025-12-31"
+
+district_count: 64
+
+encounters:
+  base_count_sf1: 25000000
+  duplicate_rate: 0.02
+  orphan_facility_rate: 0.005
+  invalid_age_rate: 0.01
+  max_report_delay_days: 21
+
+outbreaks:
+  minimum_count: 30
+  seed: 4345
+
+reporting:
+  weekend_effect: true
+  holiday_effect: true
+  backfill_artifact: true
+  silent_facility_weeks: 3
+
+diseases:
+  - dengue
+  - diarrhoeal
+  - influenza
+  - malaria
+
+background_diseases:
+  - respiratory
+
+weather:
+  lag_days:
+    - 7
+    - 14
+    - 21
+    - 28
+
+output:
+  encounters: "data/raw/S4_encounters"
+  facilities: "data/raw/S5_facilities"
+  stock_beds: "data/raw/S6_stock_beds"
+  ground_truth: "data/raw/S4_encounters/ground_truth_outbreaks"
