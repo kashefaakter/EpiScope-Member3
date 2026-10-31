@@ -15,6 +15,8 @@ const DATA_FILES = {
   boundaries: "district_boundaries.json",
   manifest: "manifest.json"
 };
+const MAP_CLICK_DELAY_MS = 200;
+let mapClickTimer = null;
 
 const state = {
   summary: null, choropleth: [], timeSeries: [], heatmap: [], earlyWarning: [],
@@ -191,19 +193,22 @@ function setEmptyState(id, show) {
 
 function bindUI() {
   $("diseaseSelect").addEventListener("change", e => { state.disease = e.target.value; hydrateDistrictFilter(); renderAll(); });
-  $("divisionSelect").addEventListener("change", e => { state.division = e.target.value; state.district = "__all__"; hydrateDistrictFilter(); renderAll(); });
-  $("districtSelect").addEventListener("change", e => { state.district = e.target.value; renderAll(); });
+  $("divisionSelect").addEventListener("change", e => setSelection({district:"__all__", division:e.target.value}));
+  $("districtSelect").addEventListener("change", e => setSelection({district:e.target.value}));
   $("weekSelect").addEventListener("change", e => { state.week = e.target.value; renderAll(); });
   $("alertSelect").addEventListener("change", e => { state.alert = e.target.value; renderAll(); });
   $("startDate").addEventListener("change", e => { state.startDate = e.target.value; renderAll(); });
   $("endDate").addEventListener("change", e => { state.endDate = e.target.value; renderAll(); });
+  document.querySelector(".map-panel").addEventListener("pointerleave", () => hideTip("#mapTooltip"));
   $("resetBtn").addEventListener("click", () => {
-    state.disease = "__all__"; state.division = "__all__"; state.district = "__all__";
+    clearTimeout(mapClickTimer);
+    mapClickTimer = null;
+    state.disease = "__all__";
     state.week = "__latest__"; state.alert = "__all__"; state.startDate = ""; state.endDate = "";
-    $("diseaseSelect").value = state.disease; $("divisionSelect").value = state.division;
-    $("districtSelect").value = state.district; $("weekSelect").value = state.week;
+    $("diseaseSelect").value = state.disease; $("weekSelect").value = state.week;
     $("alertSelect").value = state.alert; $("startDate").value = ""; $("endDate").value = "";
-    renderAll(); showToast("Dashboard filters reset");
+    setSelection({district:"__all__", division:"__all__"});
+    showToast("Dashboard filters reset");
   });
   document.querySelectorAll(".nav-item").forEach(btn => btn.addEventListener("click", () => {
     document.querySelectorAll(".nav-item").forEach(x => x.classList.remove("active"));
@@ -248,10 +253,10 @@ function hydrateFilters() {
 function hydrateDistrictFilter() {
   const districts = unique(state.timeSeries
     .filter(row => state.division === "__all__" || normalize(divisionOf(row)) === normalize(state.division))
-    .map(districtOf).filter(Boolean)).sort();
+    .map(districtOf).filter(Boolean)
+    .concat(state.district !== "__all__" ? [state.district] : [])).sort();
   $("districtSelect").innerHTML = `<option value="__all__">All districts</option>` +
     districts.map(d => `<option value="${esc(d)}">${esc(d)}</option>`).join("");
-  if (!districts.includes(state.district)) state.district = "__all__";
   $("districtSelect").value = state.district;
 }
 
@@ -437,38 +442,140 @@ function renderMap() {
   renderMapLegend(max, color, mapWeek, mapWeekStatus);
 
   const geometryFeatures = state.boundaries;
+  const districtSelection = state.district;
+  const divisionSelection = state.division;
+  const selectedDistrictName = districtSelection !== "__all__" ? districtSelection : "";
+  const selectedDivisionName = divisionSelection !== "__all__" ? divisionSelection : "";
+  const hasSelection = Boolean(selectedDistrictName || selectedDivisionName);
+  let selectionLayer;
+  let path;
+  let lookup;
+  let fillForFeature;
   if (geometryFeatures.length) {
     const geo = {type:"FeatureCollection", features: geometryFeatures};
     const projection = d3.geoMercator().fitExtent([[18,18],[width-18,height-18]], geo);
-    const path = d3.geoPath(projection);
-    const lookup = new Map(data.map(r => [normalize(districtOf(r)), r]));
-    svg.selectAll("path").data(geometryFeatures).join("path")
+    path = d3.geoPath(projection);
+    lookup = new Map(data.map(r => [normalize(districtOf(r)), r]));
+    fillForFeature = feature => {
+      const row = lookup.get(normalize(featureName(feature)));
+      return row && row.data_status === "AVAILABLE" ? color(caseOf(row)) : "#edf4f5";
+    };
+    svg.selectAll("path.district").data(geometryFeatures).join("path")
       .attr("class",f => {
         const row = lookup.get(normalize(featureName(f)));
         return `district alert-${(row?.alert_level || "none").toLowerCase()}`;
       })
       .attr("d",path)
-      .attr("fill",f => {
-        const name = featureName(f);
-        const row = lookup.get(normalize(name));
-        return row && row.data_status === "AVAILABLE" ? color(caseOf(row)) : "#edf4f5";
-      })
+      .attr("fill",fillForFeature)
+      .attr("tabindex",0)
+      .attr("role","button")
+      .attr("aria-label",f=>`Select ${featureName(f)} district`)
       .on("mouseenter", function(event,f) {
         const row = lookup.get(normalize(featureName(f)));
         showMapTip(event, row || {district_name:featureName(f), case_count:null, data_status:"N/A"});
-        d3.select(this).raise();
       })
       .on("mousemove", event => moveTip(event, "#mapTooltip"))
       .on("mouseleave", () => hideTip("#mapTooltip"))
       .on("click", (event,f) => {
         const name = featureName(f);
-        if (name) selectDistrict(name);
+        if (!name || event.detail === 0) return;
+        if (event.detail === 2) {
+          clearTimeout(mapClickTimer);
+          mapClickTimer = null;
+          const division = state.divisionByDistrict.get(normalize(name)) || featureDivision(f);
+          setSelection({district:"__all__", division:division || "__all__"});
+          return;
+        }
+        clearTimeout(mapClickTimer);
+        mapClickTimer = window.setTimeout(() => {
+          mapClickTimer = null;
+          selectDistrict(name);
+        }, MAP_CLICK_DELAY_MS);
+      })
+      .on("keydown", (event,f) => {
+        if (event.key !== "Enter" && event.key !== " ") return;
+        event.preventDefault();
+        clearTimeout(mapClickTimer);
+        mapClickTimer = null;
+        selectDistrict(featureName(f));
       });
     $("mapEmpty").classList.add("hidden");
   } else {
     renderDistrictGrid(svg, data, width, height, color);
   }
-  $("selectedDistrict").textContent = state.district || "All districts";
+  selectionLayer = svg.append("g").attr("class","selection-layer").attr("pointer-events","none");
+  if (geometryFeatures.length) {
+    const districtFeature = selectedDistrictName
+      ? geometryFeatures.find(feature => normalize(featureName(feature)) === normalize(selectedDistrictName))
+      : null;
+    const divisionFeatures = selectedDivisionName
+      ? geometryFeatures.filter(feature =>
+        normalize(state.divisionByDistrict.get(normalize(featureName(feature))) || "") === normalize(selectedDivisionName))
+      : [];
+
+    if (selectedDistrictName && !districtFeature) {
+      console.warn(`Selected district "${selectedDistrictName}" does not match a map feature.`);
+    }
+    if (selectedDivisionName && !divisionFeatures.length) {
+      console.warn(`Selected division "${selectedDivisionName}" does not match a map feature.`);
+    }
+
+    if (divisionFeatures.length) {
+      const divisionWidth = districtFeature ? 2.5 : 3;
+      const divisionLayer = selectionLayer.append("g").attr("class","division-selection");
+      divisionLayer.selectAll(".division-halo").data(divisionFeatures).join("path")
+        .attr("class","selection-halo division-halo")
+        .attr("d",path).attr("stroke-width",12);
+      divisionLayer.selectAll(".division-outline").data(divisionFeatures).join("path")
+        .attr("class","selection-outline division-outline")
+        .attr("d",path).attr("stroke-width",divisionWidth * 2);
+      divisionLayer.selectAll(".division-cover").data(divisionFeatures).join("path")
+        .attr("class","division-cover")
+        .attr("d",path).attr("fill",fillForFeature)
+        .attr("stroke","#f8fbfc").attr("stroke-width",1.1);
+    }
+
+    if (districtFeature) {
+      const districtLayer = selectionLayer.append("g").attr("class","district-selection");
+      districtLayer.append("path").datum(districtFeature)
+        .attr("class","selection-halo").attr("d",path).attr("stroke-width",6);
+      districtLayer.append("path").datum(districtFeature)
+        .attr("class","selection-outline").attr("d",path).attr("stroke-width",3.5);
+    }
+
+    const labelFeatures = districtFeature ? [districtFeature] : divisionFeatures;
+    if (labelFeatures.length) {
+      let centroidFeature = labelFeatures.length === 1 ? labelFeatures[0] : {
+        type:"FeatureCollection", features:labelFeatures
+      };
+      if (districtFeature?.geometry?.type === "MultiPolygon") {
+        const largestPolygon = districtFeature.geometry.coordinates
+          .map(coordinates => ({type:"Polygon", coordinates}))
+          .sort((a,b) => path.area(b) - path.area(a))[0];
+        centroidFeature = {type:"Feature", properties:{}, geometry:largestPolygon};
+      }
+      const [x,y] = path.centroid(centroidFeature);
+      if (Number.isFinite(x) && Number.isFinite(y)) {
+        selectionLayer.append("text").attr("class","map-label selection-label")
+          .attr("x",x).attr("y",y).attr("dy","0.35em")
+          .text(selectedDistrictName || selectedDivisionName);
+      }
+    }
+  } else if (hasSelection) {
+    if (selectedDistrictName) {
+      console.warn(`Selected district "${selectedDistrictName}" does not match a map feature.`);
+    }
+    if (selectedDivisionName) {
+      console.warn(`Selected division "${selectedDivisionName}" does not match a map feature.`);
+    }
+  }
+  const accessibleSelection = selectedDistrictName || selectedDivisionName;
+  svg.attr("aria-label", accessibleSelection
+    ? `Selected: ${accessibleSelection}`
+    : "District surveillance map");
+  $("selectedDistrict").textContent = state.district && state.district !== "__all__"
+    ? state.district
+    : state.division !== "__all__" ? state.division : "All districts";
 }
 
 function renderMapLegend(maxCases, color, week, weekStatus) {
@@ -476,9 +583,19 @@ function renderMapLegend(maxCases, color, week, weekStatus) {
   const provisional = weekStatus === "PROVISIONAL" ? " · provisional" : "";
   $("mapStatus").textContent = `District case intensity${state.disease === "__all__" ? " (all diseases)" : ` (${state.disease})`}${period}${provisional}`;
   $("mapLegendMin").textContent = "0";
-  $("mapLegendMid").textContent = fmt(Math.round(maxCases / 2));
-  $("mapLegendMax").textContent = fmt(Math.round(maxCases));
+  const midLabel = fmt(Math.round(maxCases / 2));
+  const maxLabel = fmt(Math.round(maxCases));
+  $("mapLegendMid").textContent = midLabel;
+  $("mapLegendMid").classList.toggle("hidden", midLabel === $("mapLegendMin").textContent || midLabel === maxLabel);
+  $("mapLegendMax").textContent = maxLabel;
   d3.selectAll(".map-legend-ramp i").style("background-color", (_, index) => color(maxCases * index / 4));
+  d3.select(".map-legend").selectAll(".map-selection-key")
+    .data(state.district !== "__all__" || state.division !== "__all__" ? [null] : [])
+    .join(
+      enter => enter.append("span").attr("class","map-selection-key").html("<i></i> Selected"),
+      update => update,
+      exit => exit.remove()
+    );
 }
 
 function renderDistrictGrid(svg, data, width, height, color) {
@@ -783,12 +900,29 @@ function renderCalendar() {
 }
 
 function selectDistrict(name) {
+  if (!name) return;
   const selected=state.timeSeries.find(row=>normalize(districtOf(row))===normalize(name));
-  state.district=selected?districtOf(selected):"__all__";
-  $("districtSelect").value=state.district;
-  $("selectedDistrict").textContent=state.district==="__all__"?"All districts":state.district;
-  renderAll();
+  const district=selected?districtOf(selected):name;
+  const division=state.divisionByDistrict.get(normalize(name)) ||
+    state.divisionByDistrict.get(normalize(district)) || "__all__";
+  setSelection({district, division});
   showToast(state.district!=="__all__" ? `${state.district} selected` : "All districts selected");
+}
+
+function setSelection({district=state.district, division=state.division}={}) {
+  if (district !== "__all__") {
+    state.district = district;
+    state.division = state.divisionByDistrict.get(normalize(district)) || division || "__all__";
+  } else {
+    state.district = "__all__";
+    state.division = division || "__all__";
+  }
+  $("divisionSelect").value = state.division;
+  hydrateDistrictFilter();
+  $("selectedDistrict").textContent = state.district !== "__all__"
+    ? state.district
+    : state.division !== "__all__" ? state.division : "All districts";
+  renderAll();
 }
 
 function showMapTip(event,r) {
