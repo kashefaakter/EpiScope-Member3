@@ -11,7 +11,10 @@ from pyspark.sql.types import DoubleType
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(PROJECT_ROOT))
-from district_names import canonical_district_name_column
+from district_names import (
+    DISTRICT_NAME_ALIASES,
+    canonical_district_name_column,
+)
 
 
 # ============================================================
@@ -366,13 +369,13 @@ def main():
     )
 
     print(
-        "Chapainababganj weather rows after normalization:"
+        "Nawabganj weather rows after normalization:"
     )
 
     (
         weekly_weather
         .filter(
-            F.col("district_name") == "Chapainababganj"
+            F.col("district_name") == "Nawabganj"
         )
         .agg(
             F.count("*").alias("weekly_rows"),
@@ -383,13 +386,13 @@ def main():
     )
 
     print(
-        "Moulvibazar weather rows after normalization:"
+        "Maulvibazar weather rows after normalization:"
     )
 
     (
         weekly_weather
         .filter(
-            F.col("district_name") == "Moulvibazar"
+            F.col("district_name") == "Maulvibazar"
         )
         .agg(
             F.count("*").alias("weekly_rows"),
@@ -970,11 +973,7 @@ def main():
         "disease_mapping":
             DISEASE_MAPPING,
 
-        "weather_district_normalization": {
-            "Cox's_Bazar": "Cox's Bazar",
-            "Nawabganj": "Chapainababganj",
-            "Maulvibazar": "Moulvibazar",
-        },
+        "weather_district_normalization": dict(DISTRICT_NAME_ALIASES),
 
         "generated_at":
             datetime.now(

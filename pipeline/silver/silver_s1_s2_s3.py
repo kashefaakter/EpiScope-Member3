@@ -19,6 +19,8 @@ from shapely.ops import unary_union
 # ============================================================
 
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+sys.path.insert(0, BASE_DIR)
+from district_names import canonical_district_name
 
 RAW_DIR = os.path.join(BASE_DIR, "data", "raw")
 SILVER_DIR = os.path.join(BASE_DIR, "data", "silver")
@@ -458,20 +460,6 @@ def process_s2():
         }
     )
 
-    # Preserve the original BBS spelling.
-    # Canonical names are only for joining with S1/S4/S5.
-    canonical_mapping = {
-   	 "Barishal": "Barisal",
-    	 "Chattogram": "Chittagong",
-    	 "Brahmanbaria": "Brahamanbaria",
-    	 "Bogura": "Bogra",
-    	 "Jashore": "Jessore",
-   	 "Cumilla": "Comilla",
-         "Cox's Bazar": "Cox's Bazar",
-    	 "Nawabganj": "Chapainababganj",
-    	 "Maulvibazar": "Moulvibazar",
-     }
-
     silver_df["district_name"] = (
         silver_df["district_name_source"]
         .astype(str)
@@ -480,8 +468,7 @@ def process_s2():
 
     silver_df["district_name_canonical"] = (
         silver_df["district_name"]
-        .map(canonical_mapping)
-        .fillna(silver_df["district_name"])
+        .map(canonical_district_name)
     )
 
     # Numeric conversion.

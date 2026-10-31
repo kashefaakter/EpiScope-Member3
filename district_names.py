@@ -1,4 +1,4 @@
-"""Explicit source-name aliases for the project's S2 canonical districts."""
+"""Explicit source-name aliases for the S1 administrative districts."""
 
 from __future__ import annotations
 
@@ -9,15 +9,16 @@ def _key(value: str) -> str:
 
 
 DISTRICT_NAME_ALIASES = {
-    _key("Barisal"): "Barishal",
-    _key("Bogra"): "Bogura",
-    _key("Chittagong"): "Chattogram",
-    _key("Comilla"): "Cumilla",
+    _key("Barishal"): "Barisal",
+    _key("Bogura"): "Bogra",
+    _key("Brahmanbaria"): "Brahamanbaria",
+    _key("Chattogram"): "Chittagong",
+    _key("Cumilla"): "Comilla",
     _key("Cox's_Bazar"): "Cox's Bazar",
-    _key("Jessore"): "Jashore",
-    _key("Maulvibazar"): "Moulvibazar",
-    _key("Nawabganj"): "Chapainababganj",
-    _key("Chapainawabganj"): "Chapainababganj",
+    _key("Jashore"): "Jessore",
+    _key("Moulvibazar"): "Maulvibazar",
+    _key("Chapainababganj"): "Nawabganj",
+    _key("Chapainawabganj"): "Nawabganj",
 }
 
 

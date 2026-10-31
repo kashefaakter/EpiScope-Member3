@@ -12,8 +12,20 @@ __pycache__/
 data/raw/
 data/bronze/
 data/silver/
-data/gold/
+data/gold/*
 data/quarantine/
+
+# Keep only dashboard-safe Gold serving JSON files versionable.
+!data/gold/serving/
+data/gold/serving/*
+!data/gold/serving/*.json
+
+# Spark state and local metastore
+.spark-warehouse/
+metastore_db/
+**/checkpoint/
+**/checkpoints/
+**/checkpoint*/
 
 # Generated outputs
 generator/output/
@@ -37,3 +49,9 @@ Thumbs.db
 *.csv
 *.parquet
 *.jsonl
+
+# Python caches and environments (including nested copies)
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/

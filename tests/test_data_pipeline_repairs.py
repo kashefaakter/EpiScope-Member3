@@ -1,3 +1,4 @@
+import json
 import pandas as pd
 import unittest
 from pathlib import Path
@@ -26,16 +27,108 @@ from serving.build_dashboard_data import (
 
 
 class PipelineRepairTests(unittest.TestCase):
-    def test_district_aliases_resolve_to_s2_names(self):
+    def test_unmapped_district_names_are_preserved_after_stripping(self):
         self.assertEqual(
-            canonical_district_name("Nawabganj"), "Chapainababganj"
+            canonical_district_name("  Example District  "),
+            "Example District",
+        )
+
+    def test_source_district_names_map_to_s1_administrative_names(self):
+        raw_dir = Path(__file__).resolve().parents[1] / "data" / "raw"
+        s1_files = list((raw_dir / "S1_boundaries").glob("*.geojson"))
+        self.assertEqual(len(s1_files), 1, "expected one S1 boundaries file")
+        with s1_files[0].open(encoding="utf-8") as source:
+            boundaries = json.load(source)
+        s1_names = {
+            str(feature["attributes"]["adm2_en"]).strip()
+            for feature in boundaries["features"]
+            if feature.get("attributes", {}).get("adm2_en")
+        }
+        self.assertEqual(len(s1_names), 64)
+        self.assertEqual(
+            {canonical_district_name(name) for name in s1_names},
+            s1_names,
+        )
+
+        source_names = set()
+        s2_files = list((raw_dir / "S2_population").glob("*.xlsx"))
+        self.assertEqual(len(s2_files), 1, "expected one S2 workbook")
+        s2 = pd.read_excel(
+            s2_files[0],
+            sheet_name="Merged_All_Table",
+            usecols=["District"],
+        )
+        source_names.update(
+            s2["District"].dropna().astype(str).str.strip()
+        )
+
+        s4_files = list((raw_dir / "S4_encounters").glob("*.parquet"))
+        self.assertTrue(s4_files, "expected raw S4 encounter Parquet files")
+        for path in s4_files:
+            s4 = pd.read_parquet(path, columns=["district_name"])
+            source_names.update(
+                s4["district_name"].dropna().astype(str).str.strip()
+            )
+
+        s5_files = list((raw_dir / "S5_facilities").glob("*.csv"))
+        self.assertTrue(s5_files, "expected raw S5 facility CSV files")
+        for path in s5_files:
+            for chunk in pd.read_csv(
+                path, usecols=["district_name"], chunksize=250_000
+            ):
+                source_names.update(
+                    chunk["district_name"]
+                    .dropna()
+                    .astype(str)
+                    .str.strip()
+                )
+
+        s6_files = list((raw_dir / "S6_stock_beds").glob("*.csv"))
+        self.assertTrue(s6_files, "expected raw S6 stock CSV files")
+        for path in s6_files:
+            for chunk in pd.read_csv(
+                path, usecols=["district_name"], chunksize=250_000
+            ):
+                source_names.update(
+                    chunk["district_name"]
+                    .dropna()
+                    .astype(str)
+                    .str.strip()
+                )
+
+        s3_files = list((raw_dir / "S3_weather").glob("*.json"))
+        self.assertTrue(s3_files, "expected raw S3 weather JSON files")
+        source_names.update(path.stem for path in s3_files)
+
+        unmatched = sorted(
+            (name, canonical_district_name(name))
+            for name in source_names
+            if canonical_district_name(name) not in s1_names
         )
         self.assertEqual(
-            canonical_district_name("Maulvibazar"), "Moulvibazar"
+            unmatched,
+            [],
+            f"district spellings mapping outside S1 adm2_en names: {unmatched}",
         )
-        self.assertEqual(
-            canonical_district_name("Cox's_Bazar"), "Cox's Bazar"
-        )
+
+    def test_district_aliases_resolve_to_s1_names(self):
+        aliases = {
+            "Barishal": "Barisal",
+            "Bogura": "Bogra",
+            "Brahmanbaria": "Brahamanbaria",
+            "Chattogram": "Chittagong",
+            "Cumilla": "Comilla",
+            "Cox's_Bazar": "Cox's Bazar",
+            "Jashore": "Jessore",
+            "Moulvibazar": "Maulvibazar",
+            "Chapainababganj": "Nawabganj",
+            "Chapainawabganj": "Nawabganj",
+        }
+        for source, expected in aliases.items():
+            with self.subTest(source=source):
+                self.assertEqual(
+                    canonical_district_name(source), expected
+                )
 
     def test_small_cell_suppression_preserves_zero_and_suppresses_one_through_four(self):
         self.assertEqual(

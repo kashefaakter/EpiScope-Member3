@@ -24,7 +24,7 @@ import pandas as pd
 # PATHS
 # ============================================================
 
-PROJECT_ROOT = Path(r"E:\EpiScope")
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
 SURVEILLANCE_PATH = (
     PROJECT_ROOT
@@ -1013,4 +1013,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

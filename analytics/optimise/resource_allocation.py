@@ -41,7 +41,7 @@ import pulp
 # PROJECT PATHS
 # ============================================================
 
-PROJECT_ROOT = Path(r"E:\EpiScope")
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
 DEMAND_PATH = (
     PROJECT_ROOT

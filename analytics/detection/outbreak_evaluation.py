@@ -30,6 +30,7 @@ IMPORTANT:
 from __future__ import annotations
 
 import json
+import sys
 from pathlib import Path
 
 import pandas as pd
@@ -40,6 +41,8 @@ import pandas as pd
 # ============================================================
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
+sys.path.insert(0, str(PROJECT_ROOT))
+from district_names import canonical_district_name
 
 DETECTION_PATH = (
     PROJECT_ROOT
@@ -100,28 +103,6 @@ def safe_divide(numerator, denominator):
         return 0.0
 
     return float(numerator) / float(denominator)
-
-
-def normalize_district_name(value):
-    """
-    Normalize known cross-source district naming differences.
-    """
-
-    value = str(value).strip()
-
-    mapping = {
-        "Cox's_Bazar": "Cox's Bazar",
-        "Cox's Bazar": "Cox's Bazar",
-
-        "Nawabganj": "Chapainababganj",
-
-        "Maulvibazar": "Moulvibazar",
-    }
-
-    return mapping.get(
-        value,
-        value,
-    )
 
 
 def normalize_disease_name(value):
@@ -242,7 +223,7 @@ def load_detection_output():
 
     df["district_name"] = (
         df["district_name"]
-        .map(normalize_district_name)
+        .map(canonical_district_name)
     )
 
     df["disease"] = (
@@ -352,7 +333,7 @@ def load_ground_truth():
 
     df["district_name"] = (
         df["district_name"]
-        .map(normalize_district_name)
+        .map(canonical_district_name)
     )
 
     df["disease"] = (

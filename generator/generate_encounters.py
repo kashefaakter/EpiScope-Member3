@@ -4,6 +4,7 @@ import argparse
 import json
 import math
 import random
+import sys
 from datetime import timedelta
 from pathlib import Path
 
@@ -44,6 +45,8 @@ import yaml
 # ------------------------------------------------------------
 
 BASE_DIR = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(BASE_DIR))
+from district_names import canonical_district_name
 
 CONFIG_FILE = BASE_DIR / "config" / "generator.yaml"
 
@@ -70,17 +73,6 @@ GROUND_TRUTH_FILE = (
 )
 
 WEATHER_DIR = BASE_DIR / "data" / "raw" / "S3_weather"
-
-WEATHER_TO_FACILITY_DISTRICT = {
-    "Barishal": "Barisal",
-    "Bogura": "Bogra",
-    "Chattogram": "Chittagong",
-    "Chapainababganj": "Nawabganj",
-    "Cox's_Bazar": "Cox's Bazar",
-    "Cumilla": "Comilla",
-    "Jashore": "Jessore",
-    "Moulvibazar": "Maulvibazar",
-}
 
 
 # ------------------------------------------------------------
@@ -355,7 +347,7 @@ def load_weather_drivers(weather_dates, district_names):
     weather_by_district = {}
 
     for path in sorted(WEATHER_DIR.glob("*.json")):
-        district = WEATHER_TO_FACILITY_DISTRICT.get(path.stem, path.stem)
+        district = canonical_district_name(path.stem) or path.stem
         if district not in district_names:
             continue
         if district in weather_by_district:
