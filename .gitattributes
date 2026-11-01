@@ -1,0 +1,1 @@
+data/raw/S6_stock_beds/*.csv filter=lfs diff=lfs merge=lfs -text

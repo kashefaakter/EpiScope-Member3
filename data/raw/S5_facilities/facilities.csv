@@ -1,0 +1,1421 @@
+facility_id,district_name,facility_type,bed_capacity,active
+FAC00001,Bagerhat,Community Clinic,6,True
+FAC00002,Bagerhat,Upazila Health Complex,100,True
+FAC00003,Bagerhat,General Hospital,182,True
+FAC00004,Bagerhat,Medical College Hospital,370,True
+FAC00005,Bagerhat,Community Clinic,17,False
+FAC00006,Bagerhat,Upazila Health Complex,117,True
+FAC00007,Bagerhat,Upazila Health Complex,107,True
+FAC00008,Bagerhat,Community Clinic,5,True
+FAC00009,Bagerhat,Community Clinic,5,True
+FAC00010,Bagerhat,Community Clinic,24,True
+FAC00011,Bagerhat,Upazila Health Complex,109,True
+FAC00012,Bagerhat,Medical College Hospital,504,True
+FAC00013,Bagerhat,General Hospital,244,True
+FAC00014,Bagerhat,Upazila Health Complex,113,False
+FAC00015,Bagerhat,Community Clinic,23,True
+FAC00016,Bagerhat,General Hospital,94,True
+FAC00017,Bagerhat,Community Clinic,24,True
+FAC00018,Bagerhat,General Hospital,229,True
+FAC00019,Bagerhat,Medical College Hospital,522,False
+FAC00020,Bagerhat,General Hospital,138,True
+FAC00021,Bagerhat,District Hospital,327,True
+FAC00022,Bagerhat,District Hospital,264,False
+FAC00023,Bagerhat,Community Clinic,14,True
+FAC00024,Bandarban,Medical College Hospital,631,True
+FAC00025,Bandarban,General Hospital,242,True
+FAC00026,Bandarban,General Hospital,133,True
+FAC00027,Bandarban,Upazila Health Complex,119,True
+FAC00028,Bandarban,Upazila Health Complex,55,True
+FAC00029,Bandarban,Upazila Health Complex,67,True
+FAC00030,Bandarban,Upazila Health Complex,67,True
+FAC00031,Bandarban,General Hospital,240,True
+FAC00032,Bandarban,Community Clinic,11,True
+FAC00033,Bandarban,Medical College Hospital,272,True
+FAC00034,Bandarban,General Hospital,243,True
+FAC00035,Bandarban,District Hospital,342,True
+FAC00036,Bandarban,Medical College Hospital,640,True
+FAC00037,Bandarban,General Hospital,161,True
+FAC00038,Bandarban,Medical College Hospital,517,True
+FAC00039,Bandarban,Community Clinic,23,True
+FAC00040,Bandarban,General Hospital,237,True
+FAC00041,Bandarban,General Hospital,149,True
+FAC00042,Bandarban,District Hospital,320,True
+FAC00043,Bandarban,Community Clinic,17,True
+FAC00044,Bandarban,Medical College Hospital,564,True
+FAC00045,Bandarban,General Hospital,205,True
+FAC00046,Bandarban,Community Clinic,21,True
+FAC00047,Barguna,Community Clinic,20,True
+FAC00048,Barguna,Upazila Health Complex,110,True
+FAC00049,Barguna,Medical College Hospital,275,False
+FAC00050,Barguna,Community Clinic,12,True
+FAC00051,Barguna,Upazila Health Complex,70,True
+FAC00052,Barguna,Medical College Hospital,386,True
+FAC00053,Barguna,District Hospital,150,True
+FAC00054,Barguna,District Hospital,375,False
+FAC00055,Barguna,General Hospital,200,True
+FAC00056,Barguna,Medical College Hospital,296,True
+FAC00057,Barguna,Medical College Hospital,509,True
+FAC00058,Barguna,General Hospital,119,True
+FAC00059,Barguna,District Hospital,384,True
+FAC00060,Barguna,Medical College Hospital,741,True
+FAC00061,Barguna,General Hospital,206,True
+FAC00062,Barguna,Medical College Hospital,622,True
+FAC00063,Barguna,Medical College Hospital,475,True
+FAC00064,Barguna,Upazila Health Complex,43,True
+FAC00065,Barguna,Upazila Health Complex,103,True
+FAC00066,Barguna,District Hospital,274,True
+FAC00067,Barguna,Medical College Hospital,585,True
+FAC00068,Barguna,General Hospital,98,True
+FAC00069,Barguna,Medical College Hospital,332,True
+FAC00070,Barguna,District Hospital,133,True
+FAC00071,Barguna,Community Clinic,18,True
+FAC00072,Barisal,Medical College Hospital,384,True
+FAC00073,Barisal,General Hospital,112,False
+FAC00074,Barisal,Community Clinic,13,True
+FAC00075,Barisal,Upazila Health Complex,72,False
+FAC00076,Barisal,Upazila Health Complex,57,True
+FAC00077,Barisal,Upazila Health Complex,43,True
+FAC00078,Barisal,Community Clinic,5,True
+FAC00079,Barisal,District Hospital,352,True
+FAC00080,Barisal,Community Clinic,16,True
+FAC00081,Barisal,District Hospital,400,True
+FAC00082,Barisal,Medical College Hospital,252,True
+FAC00083,Barisal,Medical College Hospital,761,True
+FAC00084,Barisal,Upazila Health Complex,37,True
+FAC00085,Barisal,Community Clinic,19,True
+FAC00086,Barisal,Community Clinic,19,True
+FAC00087,Barisal,Upazila Health Complex,114,True
+FAC00088,Barisal,Medical College Hospital,323,True
+FAC00089,Barisal,General Hospital,97,True
+FAC00090,Barisal,Community Clinic,29,True
+FAC00091,Barisal,Community Clinic,22,True
+FAC00092,Barisal,Medical College Hospital,460,True
+FAC00093,Barisal,General Hospital,249,True
+FAC00094,Barisal,Community Clinic,6,True
+FAC00095,Barisal,General Hospital,96,True
+FAC00096,Barisal,Medical College Hospital,324,True
+FAC00097,Bhola,General Hospital,125,True
+FAC00098,Bhola,Community Clinic,25,True
+FAC00099,Bhola,Upazila Health Complex,46,True
+FAC00100,Bhola,District Hospital,353,True
+FAC00101,Bhola,Upazila Health Complex,64,True
+FAC00102,Bhola,District Hospital,164,True
+FAC00103,Bhola,Medical College Hospital,742,True
+FAC00104,Bhola,District Hospital,252,True
+FAC00105,Bhola,Medical College Hospital,675,True
+FAC00106,Bhola,General Hospital,250,True
+FAC00107,Bhola,Community Clinic,5,True
+FAC00108,Bhola,Upazila Health Complex,36,True
+FAC00109,Bhola,General Hospital,226,True
+FAC00110,Bhola,General Hospital,107,True
+FAC00111,Bhola,Upazila Health Complex,108,True
+FAC00112,Bhola,Upazila Health Complex,53,True
+FAC00113,Bhola,Upazila Health Complex,54,True
+FAC00114,Bhola,District Hospital,309,True
+FAC00115,Bhola,Upazila Health Complex,109,True
+FAC00116,Bhola,District Hospital,238,True
+FAC00117,Bhola,Community Clinic,20,True
+FAC00118,Bhola,Community Clinic,24,True
+FAC00119,Bhola,Community Clinic,19,True
+FAC00120,Bhola,Upazila Health Complex,80,True
+FAC00121,Bhola,Community Clinic,17,True
+FAC00122,Bhola,Upazila Health Complex,82,True
+FAC00123,Bhola,District Hospital,246,True
+FAC00124,Bhola,Community Clinic,5,True
+FAC00125,Bogra,General Hospital,107,True
+FAC00126,Bogra,District Hospital,168,True
+FAC00127,Bogra,Medical College Hospital,617,True
+FAC00128,Bogra,General Hospital,178,True
+FAC00129,Bogra,Medical College Hospital,719,True
+FAC00130,Bogra,Upazila Health Complex,83,True
+FAC00131,Bogra,Upazila Health Complex,95,True
+FAC00132,Bogra,Upazila Health Complex,55,True
+FAC00133,Bogra,General Hospital,121,True
+FAC00134,Bogra,Upazila Health Complex,73,True
+FAC00135,Bogra,Medical College Hospital,693,True
+FAC00136,Bogra,Community Clinic,19,True
+FAC00137,Bogra,Community Clinic,25,True
+FAC00138,Bogra,General Hospital,178,True
+FAC00139,Bogra,District Hospital,337,True
+FAC00140,Bogra,Community Clinic,15,True
+FAC00141,Bogra,Medical College Hospital,680,True
+FAC00142,Bogra,District Hospital,148,True
+FAC00143,Bogra,District Hospital,216,True
+FAC00144,Bogra,Medical College Hospital,495,True
+FAC00145,Bogra,Upazila Health Complex,61,True
+FAC00146,Bogra,General Hospital,107,True
+FAC00147,Bogra,General Hospital,156,True
+FAC00148,Bogra,Upazila Health Complex,102,True
+FAC00149,Bogra,General Hospital,154,True
+FAC00150,Bogra,General Hospital,137,True
+FAC00151,Bogra,Community Clinic,20,True
+FAC00152,Bogra,Upazila Health Complex,98,True
+FAC00153,Brahamanbaria,District Hospital,399,True
+FAC00154,Brahamanbaria,General Hospital,201,True
+FAC00155,Brahamanbaria,District Hospital,355,True
+FAC00156,Brahamanbaria,Community Clinic,21,True
+FAC00157,Brahamanbaria,Upazila Health Complex,80,True
+FAC00158,Brahamanbaria,General Hospital,97,True
+FAC00159,Brahamanbaria,Upazila Health Complex,33,True
+FAC00160,Brahamanbaria,Community Clinic,21,True
+FAC00161,Brahamanbaria,Upazila Health Complex,61,True
+FAC00162,Brahamanbaria,District Hospital,279,True
+FAC00163,Brahamanbaria,District Hospital,137,True
+FAC00164,Brahamanbaria,Medical College Hospital,455,True
+FAC00165,Brahamanbaria,Upazila Health Complex,59,True
+FAC00166,Brahamanbaria,Community Clinic,9,True
+FAC00167,Brahamanbaria,Community Clinic,16,True
+FAC00168,Brahamanbaria,District Hospital,389,True
+FAC00169,Brahamanbaria,General Hospital,101,True
+FAC00170,Brahamanbaria,Upazila Health Complex,113,True
+FAC00171,Brahamanbaria,Upazila Health Complex,74,True
+FAC00172,Brahamanbaria,Upazila Health Complex,88,True
+FAC00173,Chandpur,Community Clinic,10,True
+FAC00174,Chandpur,General Hospital,159,True
+FAC00175,Chandpur,Upazila Health Complex,74,True
+FAC00176,Chandpur,Community Clinic,21,True
+FAC00177,Chandpur,Community Clinic,15,True
+FAC00178,Chandpur,Upazila Health Complex,36,True
+FAC00179,Chandpur,Upazila Health Complex,79,True
+FAC00180,Chandpur,District Hospital,152,True
+FAC00181,Chandpur,Medical College Hospital,288,True
+FAC00182,Chandpur,Medical College Hospital,573,True
+FAC00183,Chandpur,Medical College Hospital,453,True
+FAC00184,Chandpur,Community Clinic,24,True
+FAC00185,Chandpur,Upazila Health Complex,83,True
+FAC00186,Chandpur,Upazila Health Complex,33,True
+FAC00187,Chandpur,Upazila Health Complex,99,True
+FAC00188,Chandpur,Community Clinic,15,False
+FAC00189,Chandpur,Upazila Health Complex,42,True
+FAC00190,Chandpur,Upazila Health Complex,30,True
+FAC00191,Chandpur,Community Clinic,21,True
+FAC00192,Chittagong,General Hospital,224,True
+FAC00193,Chittagong,Upazila Health Complex,88,True
+FAC00194,Chittagong,General Hospital,206,True
+FAC00195,Chittagong,General Hospital,177,True
+FAC00196,Chittagong,Medical College Hospital,287,True
+FAC00197,Chittagong,Medical College Hospital,330,True
+FAC00198,Chittagong,Community Clinic,7,True
+FAC00199,Chittagong,General Hospital,159,True
+FAC00200,Chittagong,Medical College Hospital,429,True
+FAC00201,Chittagong,General Hospital,244,False
+FAC00202,Chittagong,General Hospital,161,True
+FAC00203,Chittagong,General Hospital,236,True
+FAC00204,Chittagong,Upazila Health Complex,115,True
+FAC00205,Chittagong,Upazila Health Complex,94,False
+FAC00206,Chittagong,General Hospital,219,True
+FAC00207,Chittagong,Community Clinic,9,True
+FAC00208,Chittagong,General Hospital,128,True
+FAC00209,Chittagong,Medical College Hospital,635,True
+FAC00210,Chittagong,District Hospital,162,True
+FAC00211,Chittagong,Medical College Hospital,724,True
+FAC00212,Chittagong,Community Clinic,25,True
+FAC00213,Chittagong,Community Clinic,28,True
+FAC00214,Chittagong,General Hospital,142,True
+FAC00215,Chittagong,District Hospital,356,True
+FAC00216,Chittagong,District Hospital,353,True
+FAC00217,Chittagong,Community Clinic,9,True
+FAC00218,Chittagong,Medical College Hospital,303,True
+FAC00219,Chuadanga,Upazila Health Complex,57,True
+FAC00220,Chuadanga,Community Clinic,20,True
+FAC00221,Chuadanga,Community Clinic,13,True
+FAC00222,Chuadanga,General Hospital,120,True
+FAC00223,Chuadanga,General Hospital,227,True
+FAC00224,Chuadanga,Medical College Hospital,374,True
+FAC00225,Chuadanga,District Hospital,141,True
+FAC00226,Chuadanga,Community Clinic,12,True
+FAC00227,Chuadanga,General Hospital,174,True
+FAC00228,Chuadanga,District Hospital,255,True
+FAC00229,Chuadanga,Upazila Health Complex,77,True
+FAC00230,Chuadanga,Medical College Hospital,343,True
+FAC00231,Chuadanga,District Hospital,243,True
+FAC00232,Chuadanga,Upazila Health Complex,116,True
+FAC00233,Chuadanga,District Hospital,183,True
+FAC00234,Chuadanga,District Hospital,307,True
+FAC00235,Chuadanga,General Hospital,136,True
+FAC00236,Chuadanga,District Hospital,298,False
+FAC00237,Chuadanga,Community Clinic,9,True
+FAC00238,Chuadanga,District Hospital,393,True
+FAC00239,Chuadanga,District Hospital,119,True
+FAC00240,Chuadanga,Medical College Hospital,273,True
+FAC00241,Chuadanga,District Hospital,112,True
+FAC00242,Chuadanga,District Hospital,302,True
+FAC00243,Chuadanga,District Hospital,137,True
+FAC00244,Chuadanga,District Hospital,134,True
+FAC00245,Chuadanga,Community Clinic,20,True
+FAC00246,Comilla,General Hospital,194,True
+FAC00247,Comilla,District Hospital,241,True
+FAC00248,Comilla,District Hospital,224,True
+FAC00249,Comilla,Upazila Health Complex,94,True
+FAC00250,Comilla,General Hospital,222,True
+FAC00251,Comilla,Medical College Hospital,789,True
+FAC00252,Comilla,Community Clinic,29,True
+FAC00253,Comilla,Community Clinic,9,True
+FAC00254,Comilla,Community Clinic,12,True
+FAC00255,Comilla,General Hospital,242,True
+FAC00256,Comilla,Medical College Hospital,275,True
+FAC00257,Comilla,Medical College Hospital,726,True
+FAC00258,Comilla,General Hospital,186,True
+FAC00259,Comilla,Upazila Health Complex,70,True
+FAC00260,Comilla,Medical College Hospital,267,True
+FAC00261,Cox's Bazar,Community Clinic,24,True
+FAC00262,Cox's Bazar,Upazila Health Complex,117,True
+FAC00263,Cox's Bazar,Medical College Hospital,482,True
+FAC00264,Cox's Bazar,Community Clinic,12,True
+FAC00265,Cox's Bazar,General Hospital,142,True
+FAC00266,Cox's Bazar,District Hospital,397,True
+FAC00267,Cox's Bazar,Community Clinic,8,True
+FAC00268,Cox's Bazar,Upazila Health Complex,56,True
+FAC00269,Cox's Bazar,Community Clinic,7,True
+FAC00270,Cox's Bazar,District Hospital,349,True
+FAC00271,Cox's Bazar,District Hospital,325,True
+FAC00272,Cox's Bazar,Community Clinic,28,True
+FAC00273,Cox's Bazar,Medical College Hospital,563,True
+FAC00274,Cox's Bazar,General Hospital,153,True
+FAC00275,Cox's Bazar,District Hospital,185,True
+FAC00276,Dhaka,District Hospital,396,True
+FAC00277,Dhaka,Upazila Health Complex,40,True
+FAC00278,Dhaka,Upazila Health Complex,93,True
+FAC00279,Dhaka,General Hospital,239,True
+FAC00280,Dhaka,Upazila Health Complex,33,True
+FAC00281,Dhaka,Upazila Health Complex,82,True
+FAC00282,Dhaka,Medical College Hospital,752,True
+FAC00283,Dhaka,Community Clinic,28,True
+FAC00284,Dhaka,Community Clinic,9,True
+FAC00285,Dhaka,Medical College Hospital,664,True
+FAC00286,Dhaka,Community Clinic,28,True
+FAC00287,Dhaka,Community Clinic,11,True
+FAC00288,Dhaka,General Hospital,158,True
+FAC00289,Dhaka,Upazila Health Complex,46,False
+FAC00290,Dhaka,General Hospital,228,True
+FAC00291,Dhaka,General Hospital,80,True
+FAC00292,Dhaka,General Hospital,205,True
+FAC00293,Dinajpur,Upazila Health Complex,80,True
+FAC00294,Dinajpur,Medical College Hospital,643,True
+FAC00295,Dinajpur,Upazila Health Complex,72,True
+FAC00296,Dinajpur,General Hospital,92,True
+FAC00297,Dinajpur,District Hospital,178,True
+FAC00298,Dinajpur,Medical College Hospital,442,True
+FAC00299,Dinajpur,Upazila Health Complex,69,True
+FAC00300,Dinajpur,General Hospital,83,True
+FAC00301,Dinajpur,District Hospital,327,True
+FAC00302,Dinajpur,Medical College Hospital,284,True
+FAC00303,Dinajpur,Medical College Hospital,682,True
+FAC00304,Dinajpur,Upazila Health Complex,48,True
+FAC00305,Dinajpur,Medical College Hospital,316,False
+FAC00306,Dinajpur,General Hospital,244,True
+FAC00307,Dinajpur,District Hospital,138,True
+FAC00308,Dinajpur,General Hospital,210,True
+FAC00309,Dinajpur,Medical College Hospital,418,True
+FAC00310,Dinajpur,General Hospital,91,True
+FAC00311,Dinajpur,Community Clinic,14,True
+FAC00312,Dinajpur,Upazila Health Complex,43,True
+FAC00313,Dinajpur,Community Clinic,12,True
+FAC00314,Dinajpur,Medical College Hospital,793,True
+FAC00315,Dinajpur,District Hospital,123,True
+FAC00316,Faridpur,Upazila Health Complex,120,True
+FAC00317,Faridpur,District Hospital,139,True
+FAC00318,Faridpur,Upazila Health Complex,49,True
+FAC00319,Faridpur,General Hospital,249,True
+FAC00320,Faridpur,Medical College Hospital,602,True
+FAC00321,Faridpur,Upazila Health Complex,92,True
+FAC00322,Faridpur,District Hospital,233,True
+FAC00323,Faridpur,Medical College Hospital,660,True
+FAC00324,Faridpur,Medical College Hospital,777,True
+FAC00325,Faridpur,District Hospital,161,True
+FAC00326,Faridpur,Upazila Health Complex,91,True
+FAC00327,Faridpur,Upazila Health Complex,79,True
+FAC00328,Faridpur,Upazila Health Complex,77,True
+FAC00329,Faridpur,Upazila Health Complex,57,True
+FAC00330,Faridpur,General Hospital,170,True
+FAC00331,Faridpur,Medical College Hospital,628,False
+FAC00332,Faridpur,General Hospital,122,True
+FAC00333,Faridpur,General Hospital,242,True
+FAC00334,Faridpur,District Hospital,310,True
+FAC00335,Faridpur,Medical College Hospital,578,True
+FAC00336,Faridpur,General Hospital,162,True
+FAC00337,Feni,General Hospital,219,True
+FAC00338,Feni,Medical College Hospital,682,True
+FAC00339,Feni,General Hospital,81,True
+FAC00340,Feni,Community Clinic,8,True
+FAC00341,Feni,District Hospital,157,True
+FAC00342,Feni,Medical College Hospital,447,True
+FAC00343,Feni,Upazila Health Complex,79,True
+FAC00344,Feni,Community Clinic,7,False
+FAC00345,Feni,Community Clinic,8,True
+FAC00346,Feni,District Hospital,272,True
+FAC00347,Feni,Upazila Health Complex,112,True
+FAC00348,Feni,General Hospital,84,True
+FAC00349,Feni,Medical College Hospital,643,True
+FAC00350,Feni,Community Clinic,27,True
+FAC00351,Feni,Community Clinic,23,True
+FAC00352,Feni,Medical College Hospital,704,False
+FAC00353,Feni,Medical College Hospital,367,True
+FAC00354,Feni,Medical College Hospital,484,True
+FAC00355,Feni,Community Clinic,25,True
+FAC00356,Feni,Medical College Hospital,367,True
+FAC00357,Feni,Community Clinic,24,True
+FAC00358,Feni,District Hospital,308,True
+FAC00359,Feni,Upazila Health Complex,40,True
+FAC00360,Feni,District Hospital,120,True
+FAC00361,Feni,Community Clinic,7,True
+FAC00362,Feni,Medical College Hospital,424,True
+FAC00363,Feni,Community Clinic,26,True
+FAC00364,Feni,Medical College Hospital,548,True
+FAC00365,Gaibandha,District Hospital,247,True
+FAC00366,Gaibandha,Medical College Hospital,481,True
+FAC00367,Gaibandha,Community Clinic,29,True
+FAC00368,Gaibandha,Medical College Hospital,281,True
+FAC00369,Gaibandha,District Hospital,213,True
+FAC00370,Gaibandha,Upazila Health Complex,112,True
+FAC00371,Gaibandha,General Hospital,169,False
+FAC00372,Gaibandha,Medical College Hospital,753,True
+FAC00373,Gaibandha,District Hospital,244,True
+FAC00374,Gaibandha,District Hospital,138,True
+FAC00375,Gaibandha,Medical College Hospital,753,True
+FAC00376,Gaibandha,Upazila Health Complex,60,True
+FAC00377,Gaibandha,District Hospital,337,True
+FAC00378,Gaibandha,District Hospital,318,True
+FAC00379,Gaibandha,District Hospital,301,False
+FAC00380,Gaibandha,Community Clinic,13,True
+FAC00381,Gaibandha,Community Clinic,12,True
+FAC00382,Gaibandha,Upazila Health Complex,95,True
+FAC00383,Gaibandha,Medical College Hospital,477,True
+FAC00384,Gaibandha,General Hospital,243,True
+FAC00385,Gaibandha,General Hospital,123,True
+FAC00386,Gaibandha,Medical College Hospital,465,True
+FAC00387,Gaibandha,District Hospital,211,True
+FAC00388,Gaibandha,General Hospital,148,True
+FAC00389,Gaibandha,Community Clinic,10,True
+FAC00390,Gaibandha,Community Clinic,12,True
+FAC00391,Gaibandha,District Hospital,290,True
+FAC00392,Gaibandha,Community Clinic,12,True
+FAC00393,Gazipur,Medical College Hospital,512,True
+FAC00394,Gazipur,District Hospital,368,True
+FAC00395,Gazipur,Medical College Hospital,721,True
+FAC00396,Gazipur,District Hospital,354,True
+FAC00397,Gazipur,Medical College Hospital,643,True
+FAC00398,Gazipur,Medical College Hospital,613,True
+FAC00399,Gazipur,General Hospital,135,True
+FAC00400,Gazipur,Community Clinic,11,True
+FAC00401,Gazipur,Upazila Health Complex,75,True
+FAC00402,Gazipur,Upazila Health Complex,35,True
+FAC00403,Gazipur,General Hospital,174,True
+FAC00404,Gazipur,Community Clinic,9,True
+FAC00405,Gazipur,Upazila Health Complex,69,True
+FAC00406,Gazipur,Community Clinic,29,True
+FAC00407,Gazipur,Upazila Health Complex,30,True
+FAC00408,Gazipur,Upazila Health Complex,85,True
+FAC00409,Gopalganj,District Hospital,134,True
+FAC00410,Gopalganj,General Hospital,98,True
+FAC00411,Gopalganj,Community Clinic,30,True
+FAC00412,Gopalganj,District Hospital,184,True
+FAC00413,Gopalganj,Community Clinic,8,True
+FAC00414,Gopalganj,District Hospital,314,True
+FAC00415,Gopalganj,General Hospital,116,True
+FAC00416,Gopalganj,Community Clinic,18,True
+FAC00417,Gopalganj,Upazila Health Complex,95,False
+FAC00418,Gopalganj,Community Clinic,15,True
+FAC00419,Gopalganj,General Hospital,130,True
+FAC00420,Gopalganj,District Hospital,114,True
+FAC00421,Gopalganj,District Hospital,156,True
+FAC00422,Gopalganj,Upazila Health Complex,100,False
+FAC00423,Gopalganj,Upazila Health Complex,38,True
+FAC00424,Gopalganj,Upazila Health Complex,86,True
+FAC00425,Gopalganj,Medical College Hospital,638,True
+FAC00426,Gopalganj,District Hospital,337,True
+FAC00427,Gopalganj,Medical College Hospital,800,True
+FAC00428,Gopalganj,General Hospital,107,True
+FAC00429,Gopalganj,Community Clinic,5,True
+FAC00430,Gopalganj,Upazila Health Complex,75,True
+FAC00431,Gopalganj,Upazila Health Complex,92,True
+FAC00432,Gopalganj,Medical College Hospital,778,True
+FAC00433,Gopalganj,General Hospital,170,True
+FAC00434,Gopalganj,Upazila Health Complex,80,True
+FAC00435,Gopalganj,Upazila Health Complex,105,True
+FAC00436,Gopalganj,Community Clinic,8,True
+FAC00437,Gopalganj,Medical College Hospital,560,True
+FAC00438,Gopalganj,General Hospital,177,True
+FAC00439,Habiganj,Community Clinic,18,True
+FAC00440,Habiganj,District Hospital,180,True
+FAC00441,Habiganj,General Hospital,108,True
+FAC00442,Habiganj,Medical College Hospital,669,True
+FAC00443,Habiganj,Community Clinic,10,True
+FAC00444,Habiganj,General Hospital,236,True
+FAC00445,Habiganj,General Hospital,189,True
+FAC00446,Habiganj,Upazila Health Complex,91,True
+FAC00447,Habiganj,Medical College Hospital,428,True
+FAC00448,Habiganj,Community Clinic,28,True
+FAC00449,Habiganj,General Hospital,209,True
+FAC00450,Habiganj,District Hospital,173,True
+FAC00451,Habiganj,Community Clinic,10,True
+FAC00452,Habiganj,General Hospital,216,True
+FAC00453,Habiganj,Community Clinic,26,True
+FAC00454,Habiganj,Upazila Health Complex,52,True
+FAC00455,Habiganj,Medical College Hospital,493,False
+FAC00456,Jamalpur,Upazila Health Complex,57,True
+FAC00457,Jamalpur,District Hospital,265,True
+FAC00458,Jamalpur,General Hospital,171,True
+FAC00459,Jamalpur,Upazila Health Complex,73,True
+FAC00460,Jamalpur,Medical College Hospital,399,True
+FAC00461,Jamalpur,District Hospital,365,True
+FAC00462,Jamalpur,District Hospital,370,False
+FAC00463,Jamalpur,General Hospital,178,True
+FAC00464,Jamalpur,General Hospital,143,True
+FAC00465,Jamalpur,Medical College Hospital,747,False
+FAC00466,Jamalpur,Medical College Hospital,319,True
+FAC00467,Jamalpur,General Hospital,167,True
+FAC00468,Jamalpur,Medical College Hospital,485,True
+FAC00469,Jamalpur,Upazila Health Complex,30,True
+FAC00470,Jamalpur,General Hospital,188,True
+FAC00471,Jamalpur,Medical College Hospital,355,True
+FAC00472,Jamalpur,General Hospital,181,True
+FAC00473,Jamalpur,Medical College Hospital,262,True
+FAC00474,Jamalpur,Upazila Health Complex,55,True
+FAC00475,Jessore,General Hospital,162,True
+FAC00476,Jessore,Community Clinic,12,True
+FAC00477,Jessore,General Hospital,234,False
+FAC00478,Jessore,Upazila Health Complex,114,True
+FAC00479,Jessore,Upazila Health Complex,108,True
+FAC00480,Jessore,General Hospital,190,True
+FAC00481,Jessore,Upazila Health Complex,86,True
+FAC00482,Jessore,Community Clinic,7,True
+FAC00483,Jessore,Upazila Health Complex,110,True
+FAC00484,Jessore,Upazila Health Complex,56,True
+FAC00485,Jessore,General Hospital,159,True
+FAC00486,Jessore,General Hospital,216,True
+FAC00487,Jessore,Upazila Health Complex,109,True
+FAC00488,Jessore,Upazila Health Complex,73,True
+FAC00489,Jessore,District Hospital,165,True
+FAC00490,Jessore,District Hospital,171,True
+FAC00491,Jessore,Upazila Health Complex,44,True
+FAC00492,Jessore,District Hospital,288,True
+FAC00493,Jessore,Medical College Hospital,476,True
+FAC00494,Jessore,Upazila Health Complex,69,True
+FAC00495,Jessore,District Hospital,365,True
+FAC00496,Jessore,Community Clinic,16,False
+FAC00497,Jessore,Upazila Health Complex,61,True
+FAC00498,Jessore,Upazila Health Complex,56,True
+FAC00499,Jhalokati,District Hospital,250,True
+FAC00500,Jhalokati,General Hospital,115,True
+FAC00501,Jhalokati,Community Clinic,26,True
+FAC00502,Jhalokati,Community Clinic,24,True
+FAC00503,Jhalokati,General Hospital,196,True
+FAC00504,Jhalokati,General Hospital,136,True
+FAC00505,Jhalokati,Community Clinic,13,True
+FAC00506,Jhalokati,Upazila Health Complex,42,True
+FAC00507,Jhalokati,District Hospital,287,True
+FAC00508,Jhalokati,District Hospital,142,True
+FAC00509,Jhalokati,General Hospital,160,True
+FAC00510,Jhalokati,Upazila Health Complex,101,True
+FAC00511,Jhalokati,District Hospital,117,True
+FAC00512,Jhalokati,Medical College Hospital,522,True
+FAC00513,Jhalokati,District Hospital,301,True
+FAC00514,Jhalokati,Community Clinic,27,True
+FAC00515,Jhalokati,Community Clinic,21,True
+FAC00516,Jhalokati,Medical College Hospital,344,True
+FAC00517,Jhalokati,District Hospital,279,True
+FAC00518,Jhalokati,Community Clinic,18,True
+FAC00519,Jhenaidah,Medical College Hospital,513,True
+FAC00520,Jhenaidah,General Hospital,103,True
+FAC00521,Jhenaidah,Upazila Health Complex,105,False
+FAC00522,Jhenaidah,Medical College Hospital,290,True
+FAC00523,Jhenaidah,Community Clinic,5,True
+FAC00524,Jhenaidah,District Hospital,375,True
+FAC00525,Jhenaidah,Medical College Hospital,525,True
+FAC00526,Jhenaidah,District Hospital,260,True
+FAC00527,Jhenaidah,General Hospital,136,True
+FAC00528,Jhenaidah,Medical College Hospital,393,True
+FAC00529,Jhenaidah,District Hospital,251,True
+FAC00530,Jhenaidah,General Hospital,144,True
+FAC00531,Jhenaidah,Medical College Hospital,437,False
+FAC00532,Jhenaidah,General Hospital,186,False
+FAC00533,Jhenaidah,Community Clinic,30,True
+FAC00534,Jhenaidah,Medical College Hospital,573,True
+FAC00535,Joypurhat,Community Clinic,8,True
+FAC00536,Joypurhat,Community Clinic,9,True
+FAC00537,Joypurhat,Medical College Hospital,570,True
+FAC00538,Joypurhat,Medical College Hospital,472,True
+FAC00539,Joypurhat,Upazila Health Complex,55,True
+FAC00540,Joypurhat,District Hospital,298,True
+FAC00541,Joypurhat,Community Clinic,9,True
+FAC00542,Joypurhat,General Hospital,85,True
+FAC00543,Joypurhat,General Hospital,141,True
+FAC00544,Joypurhat,Medical College Hospital,752,True
+FAC00545,Joypurhat,General Hospital,211,True
+FAC00546,Joypurhat,General Hospital,201,True
+FAC00547,Joypurhat,General Hospital,138,True
+FAC00548,Joypurhat,General Hospital,234,True
+FAC00549,Joypurhat,Upazila Health Complex,47,True
+FAC00550,Joypurhat,District Hospital,333,True
+FAC00551,Joypurhat,General Hospital,233,True
+FAC00552,Joypurhat,General Hospital,122,True
+FAC00553,Joypurhat,Upazila Health Complex,51,True
+FAC00554,Khagrachhari,Medical College Hospital,365,True
+FAC00555,Khagrachhari,General Hospital,87,True
+FAC00556,Khagrachhari,Medical College Hospital,748,True
+FAC00557,Khagrachhari,Upazila Health Complex,49,True
+FAC00558,Khagrachhari,Upazila Health Complex,45,True
+FAC00559,Khagrachhari,Medical College Hospital,728,True
+FAC00560,Khagrachhari,General Hospital,186,True
+FAC00561,Khagrachhari,Upazila Health Complex,90,True
+FAC00562,Khagrachhari,Community Clinic,26,True
+FAC00563,Khagrachhari,Upazila Health Complex,108,True
+FAC00564,Khagrachhari,General Hospital,160,True
+FAC00565,Khagrachhari,General Hospital,211,True
+FAC00566,Khagrachhari,Upazila Health Complex,89,True
+FAC00567,Khagrachhari,Community Clinic,17,True
+FAC00568,Khagrachhari,Upazila Health Complex,61,True
+FAC00569,Khagrachhari,District Hospital,395,True
+FAC00570,Khulna,Upazila Health Complex,72,True
+FAC00571,Khulna,Community Clinic,5,False
+FAC00572,Khulna,General Hospital,153,True
+FAC00573,Khulna,General Hospital,197,True
+FAC00574,Khulna,Community Clinic,10,True
+FAC00575,Khulna,General Hospital,210,True
+FAC00576,Khulna,Medical College Hospital,739,True
+FAC00577,Khulna,Community Clinic,29,True
+FAC00578,Khulna,Medical College Hospital,461,True
+FAC00579,Khulna,Community Clinic,22,True
+FAC00580,Khulna,Community Clinic,8,True
+FAC00581,Khulna,Upazila Health Complex,90,True
+FAC00582,Khulna,District Hospital,347,True
+FAC00583,Khulna,Medical College Hospital,631,True
+FAC00584,Khulna,Upazila Health Complex,117,True
+FAC00585,Khulna,Medical College Hospital,357,True
+FAC00586,Khulna,District Hospital,245,True
+FAC00587,Kishoreganj,General Hospital,190,True
+FAC00588,Kishoreganj,General Hospital,83,True
+FAC00589,Kishoreganj,Community Clinic,27,True
+FAC00590,Kishoreganj,General Hospital,81,True
+FAC00591,Kishoreganj,Upazila Health Complex,46,True
+FAC00592,Kishoreganj,District Hospital,195,True
+FAC00593,Kishoreganj,General Hospital,83,True
+FAC00594,Kishoreganj,Medical College Hospital,693,True
+FAC00595,Kishoreganj,District Hospital,315,True
+FAC00596,Kishoreganj,Medical College Hospital,626,True
+FAC00597,Kishoreganj,Medical College Hospital,748,True
+FAC00598,Kishoreganj,Upazila Health Complex,65,True
+FAC00599,Kishoreganj,General Hospital,133,True
+FAC00600,Kishoreganj,Medical College Hospital,438,True
+FAC00601,Kishoreganj,Upazila Health Complex,42,True
+FAC00602,Kishoreganj,Upazila Health Complex,49,True
+FAC00603,Kishoreganj,Medical College Hospital,533,True
+FAC00604,Kishoreganj,Community Clinic,11,True
+FAC00605,Kishoreganj,Upazila Health Complex,51,True
+FAC00606,Kishoreganj,District Hospital,245,True
+FAC00607,Kishoreganj,Medical College Hospital,601,True
+FAC00608,Kurigram,District Hospital,333,True
+FAC00609,Kurigram,District Hospital,392,False
+FAC00610,Kurigram,Medical College Hospital,461,True
+FAC00611,Kurigram,Community Clinic,30,False
+FAC00612,Kurigram,Medical College Hospital,553,True
+FAC00613,Kurigram,Upazila Health Complex,45,True
+FAC00614,Kurigram,Upazila Health Complex,102,True
+FAC00615,Kurigram,District Hospital,290,True
+FAC00616,Kurigram,General Hospital,211,True
+FAC00617,Kurigram,Medical College Hospital,505,True
+FAC00618,Kurigram,Community Clinic,25,True
+FAC00619,Kurigram,Upazila Health Complex,75,True
+FAC00620,Kurigram,Upazila Health Complex,85,True
+FAC00621,Kurigram,Medical College Hospital,729,True
+FAC00622,Kurigram,District Hospital,375,True
+FAC00623,Kurigram,District Hospital,287,True
+FAC00624,Kurigram,Upazila Health Complex,76,True
+FAC00625,Kushtia,District Hospital,288,True
+FAC00626,Kushtia,District Hospital,259,True
+FAC00627,Kushtia,Upazila Health Complex,99,True
+FAC00628,Kushtia,Community Clinic,22,True
+FAC00629,Kushtia,District Hospital,247,False
+FAC00630,Kushtia,General Hospital,225,True
+FAC00631,Kushtia,Medical College Hospital,553,True
+FAC00632,Kushtia,Medical College Hospital,663,True
+FAC00633,Kushtia,Community Clinic,24,True
+FAC00634,Kushtia,District Hospital,264,True
+FAC00635,Kushtia,General Hospital,165,True
+FAC00636,Kushtia,District Hospital,216,True
+FAC00637,Kushtia,Medical College Hospital,258,True
+FAC00638,Kushtia,Medical College Hospital,702,True
+FAC00639,Kushtia,Medical College Hospital,580,True
+FAC00640,Kushtia,Community Clinic,10,False
+FAC00641,Kushtia,District Hospital,169,True
+FAC00642,Kushtia,Upazila Health Complex,100,True
+FAC00643,Kushtia,Medical College Hospital,468,True
+FAC00644,Kushtia,Community Clinic,9,True
+FAC00645,Kushtia,Upazila Health Complex,68,True
+FAC00646,Kushtia,Upazila Health Complex,65,True
+FAC00647,Kushtia,Medical College Hospital,681,True
+FAC00648,Kushtia,Upazila Health Complex,111,True
+FAC00649,Kushtia,Community Clinic,26,True
+FAC00650,Kushtia,District Hospital,240,True
+FAC00651,Kushtia,Community Clinic,5,True
+FAC00652,Kushtia,Community Clinic,9,True
+FAC00653,Kushtia,Medical College Hospital,756,True
+FAC00654,Kushtia,Medical College Hospital,719,True
+FAC00655,Lakshmipur,Upazila Health Complex,89,True
+FAC00656,Lakshmipur,Upazila Health Complex,99,True
+FAC00657,Lakshmipur,General Hospital,146,True
+FAC00658,Lakshmipur,Community Clinic,14,True
+FAC00659,Lakshmipur,Medical College Hospital,440,True
+FAC00660,Lakshmipur,Medical College Hospital,567,True
+FAC00661,Lakshmipur,Medical College Hospital,423,True
+FAC00662,Lakshmipur,Upazila Health Complex,45,True
+FAC00663,Lakshmipur,General Hospital,188,True
+FAC00664,Lakshmipur,District Hospital,184,True
+FAC00665,Lakshmipur,District Hospital,167,True
+FAC00666,Lakshmipur,General Hospital,161,True
+FAC00667,Lakshmipur,Medical College Hospital,479,False
+FAC00668,Lakshmipur,Upazila Health Complex,68,True
+FAC00669,Lakshmipur,Community Clinic,19,True
+FAC00670,Lakshmipur,District Hospital,114,True
+FAC00671,Lakshmipur,General Hospital,169,True
+FAC00672,Lakshmipur,Upazila Health Complex,37,True
+FAC00673,Lakshmipur,Community Clinic,14,True
+FAC00674,Lakshmipur,Community Clinic,12,True
+FAC00675,Lakshmipur,General Hospital,91,False
+FAC00676,Lakshmipur,Upazila Health Complex,77,True
+FAC00677,Lakshmipur,Upazila Health Complex,101,True
+FAC00678,Lakshmipur,Upazila Health Complex,38,True
+FAC00679,Lakshmipur,District Hospital,101,True
+FAC00680,Lakshmipur,Upazila Health Complex,105,True
+FAC00681,Lakshmipur,Community Clinic,6,True
+FAC00682,Lakshmipur,General Hospital,125,True
+FAC00683,Lakshmipur,General Hospital,167,True
+FAC00684,Lalmonirhat,Medical College Hospital,699,True
+FAC00685,Lalmonirhat,General Hospital,182,True
+FAC00686,Lalmonirhat,District Hospital,355,True
+FAC00687,Lalmonirhat,Medical College Hospital,785,True
+FAC00688,Lalmonirhat,Community Clinic,11,True
+FAC00689,Lalmonirhat,District Hospital,303,True
+FAC00690,Lalmonirhat,Medical College Hospital,736,True
+FAC00691,Lalmonirhat,District Hospital,275,True
+FAC00692,Lalmonirhat,District Hospital,187,True
+FAC00693,Lalmonirhat,General Hospital,172,True
+FAC00694,Lalmonirhat,General Hospital,122,True
+FAC00695,Lalmonirhat,Community Clinic,30,True
+FAC00696,Lalmonirhat,Medical College Hospital,362,True
+FAC00697,Lalmonirhat,Medical College Hospital,462,True
+FAC00698,Lalmonirhat,Community Clinic,5,True
+FAC00699,Lalmonirhat,General Hospital,208,True
+FAC00700,Lalmonirhat,Upazila Health Complex,79,True
+FAC00701,Lalmonirhat,District Hospital,129,True
+FAC00702,Lalmonirhat,General Hospital,240,True
+FAC00703,Lalmonirhat,District Hospital,348,True
+FAC00704,Lalmonirhat,Community Clinic,25,True
+FAC00705,Lalmonirhat,General Hospital,123,True
+FAC00706,Lalmonirhat,Upazila Health Complex,102,True
+FAC00707,Lalmonirhat,General Hospital,132,True
+FAC00708,Lalmonirhat,District Hospital,340,True
+FAC00709,Lalmonirhat,Medical College Hospital,300,True
+FAC00710,Lalmonirhat,Medical College Hospital,318,True
+FAC00711,Lalmonirhat,Upazila Health Complex,85,True
+FAC00712,Lalmonirhat,District Hospital,218,True
+FAC00713,Lalmonirhat,District Hospital,246,True
+FAC00714,Madaripur,District Hospital,352,True
+FAC00715,Madaripur,District Hospital,194,True
+FAC00716,Madaripur,District Hospital,341,True
+FAC00717,Madaripur,Community Clinic,9,True
+FAC00718,Madaripur,District Hospital,107,True
+FAC00719,Madaripur,Upazila Health Complex,114,True
+FAC00720,Madaripur,General Hospital,104,True
+FAC00721,Madaripur,General Hospital,164,True
+FAC00722,Madaripur,Community Clinic,27,True
+FAC00723,Madaripur,District Hospital,183,True
+FAC00724,Madaripur,General Hospital,125,True
+FAC00725,Madaripur,General Hospital,242,True
+FAC00726,Madaripur,Upazila Health Complex,72,True
+FAC00727,Madaripur,General Hospital,212,True
+FAC00728,Madaripur,Upazila Health Complex,54,False
+FAC00729,Madaripur,General Hospital,139,True
+FAC00730,Madaripur,District Hospital,140,True
+FAC00731,Madaripur,Medical College Hospital,260,True
+FAC00732,Madaripur,District Hospital,167,True
+FAC00733,Madaripur,District Hospital,175,True
+FAC00734,Madaripur,District Hospital,394,True
+FAC00735,Madaripur,District Hospital,120,True
+FAC00736,Madaripur,General Hospital,219,True
+FAC00737,Magura,Upazila Health Complex,103,True
+FAC00738,Magura,Upazila Health Complex,100,True
+FAC00739,Magura,Medical College Hospital,260,True
+FAC00740,Magura,District Hospital,269,True
+FAC00741,Magura,General Hospital,217,True
+FAC00742,Magura,Community Clinic,18,True
+FAC00743,Magura,General Hospital,160,True
+FAC00744,Magura,Medical College Hospital,606,True
+FAC00745,Magura,Medical College Hospital,776,False
+FAC00746,Magura,Upazila Health Complex,80,True
+FAC00747,Magura,Upazila Health Complex,70,True
+FAC00748,Magura,Upazila Health Complex,116,False
+FAC00749,Magura,Upazila Health Complex,72,True
+FAC00750,Magura,Upazila Health Complex,93,True
+FAC00751,Magura,Medical College Hospital,277,True
+FAC00752,Magura,General Hospital,179,True
+FAC00753,Manikganj,General Hospital,222,True
+FAC00754,Manikganj,District Hospital,191,True
+FAC00755,Manikganj,General Hospital,153,True
+FAC00756,Manikganj,Upazila Health Complex,83,True
+FAC00757,Manikganj,General Hospital,140,True
+FAC00758,Manikganj,General Hospital,136,True
+FAC00759,Manikganj,General Hospital,169,True
+FAC00760,Manikganj,Upazila Health Complex,50,True
+FAC00761,Manikganj,Community Clinic,24,True
+FAC00762,Manikganj,Community Clinic,16,True
+FAC00763,Manikganj,Community Clinic,24,True
+FAC00764,Manikganj,District Hospital,279,True
+FAC00765,Manikganj,Upazila Health Complex,105,True
+FAC00766,Manikganj,General Hospital,232,True
+FAC00767,Manikganj,District Hospital,168,False
+FAC00768,Manikganj,Upazila Health Complex,33,True
+FAC00769,Manikganj,General Hospital,103,True
+FAC00770,Manikganj,Upazila Health Complex,120,True
+FAC00771,Manikganj,District Hospital,380,True
+FAC00772,Manikganj,General Hospital,80,True
+FAC00773,Manikganj,Medical College Hospital,407,True
+FAC00774,Manikganj,Community Clinic,15,True
+FAC00775,Manikganj,Community Clinic,20,True
+FAC00776,Manikganj,Community Clinic,10,True
+FAC00777,Manikganj,District Hospital,201,True
+FAC00778,Manikganj,General Hospital,98,True
+FAC00779,Manikganj,General Hospital,232,True
+FAC00780,Manikganj,General Hospital,128,True
+FAC00781,Manikganj,Community Clinic,15,True
+FAC00782,Maulvibazar,General Hospital,211,True
+FAC00783,Maulvibazar,Community Clinic,17,True
+FAC00784,Maulvibazar,Upazila Health Complex,65,True
+FAC00785,Maulvibazar,District Hospital,297,True
+FAC00786,Maulvibazar,General Hospital,233,True
+FAC00787,Maulvibazar,Upazila Health Complex,101,True
+FAC00788,Maulvibazar,Community Clinic,15,True
+FAC00789,Maulvibazar,Medical College Hospital,354,True
+FAC00790,Maulvibazar,District Hospital,188,True
+FAC00791,Maulvibazar,Medical College Hospital,798,True
+FAC00792,Maulvibazar,Community Clinic,7,True
+FAC00793,Maulvibazar,Community Clinic,14,True
+FAC00794,Maulvibazar,Medical College Hospital,470,True
+FAC00795,Maulvibazar,Community Clinic,21,True
+FAC00796,Maulvibazar,Community Clinic,28,True
+FAC00797,Maulvibazar,Medical College Hospital,418,True
+FAC00798,Maulvibazar,General Hospital,104,True
+FAC00799,Maulvibazar,Community Clinic,18,True
+FAC00800,Maulvibazar,Upazila Health Complex,50,True
+FAC00801,Maulvibazar,Community Clinic,8,True
+FAC00802,Maulvibazar,Community Clinic,10,True
+FAC00803,Maulvibazar,General Hospital,243,True
+FAC00804,Maulvibazar,General Hospital,193,True
+FAC00805,Maulvibazar,Upazila Health Complex,80,True
+FAC00806,Maulvibazar,General Hospital,184,True
+FAC00807,Meherpur,Upazila Health Complex,77,True
+FAC00808,Meherpur,Community Clinic,26,True
+FAC00809,Meherpur,District Hospital,324,True
+FAC00810,Meherpur,Upazila Health Complex,108,True
+FAC00811,Meherpur,Upazila Health Complex,62,True
+FAC00812,Meherpur,General Hospital,237,True
+FAC00813,Meherpur,Community Clinic,11,True
+FAC00814,Meherpur,Community Clinic,13,True
+FAC00815,Meherpur,General Hospital,155,True
+FAC00816,Meherpur,Medical College Hospital,515,True
+FAC00817,Meherpur,District Hospital,119,True
+FAC00818,Meherpur,Medical College Hospital,605,True
+FAC00819,Meherpur,General Hospital,120,True
+FAC00820,Meherpur,Upazila Health Complex,54,True
+FAC00821,Meherpur,General Hospital,173,True
+FAC00822,Meherpur,Upazila Health Complex,117,True
+FAC00823,Meherpur,General Hospital,239,True
+FAC00824,Meherpur,Upazila Health Complex,67,True
+FAC00825,Meherpur,District Hospital,349,True
+FAC00826,Meherpur,District Hospital,128,True
+FAC00827,Munshiganj,Medical College Hospital,449,True
+FAC00828,Munshiganj,Community Clinic,14,True
+FAC00829,Munshiganj,General Hospital,109,True
+FAC00830,Munshiganj,Community Clinic,8,True
+FAC00831,Munshiganj,Community Clinic,28,True
+FAC00832,Munshiganj,District Hospital,300,True
+FAC00833,Munshiganj,District Hospital,121,True
+FAC00834,Munshiganj,Upazila Health Complex,70,True
+FAC00835,Munshiganj,General Hospital,192,True
+FAC00836,Munshiganj,Upazila Health Complex,74,False
+FAC00837,Munshiganj,Medical College Hospital,604,True
+FAC00838,Munshiganj,Community Clinic,15,True
+FAC00839,Munshiganj,Upazila Health Complex,116,True
+FAC00840,Munshiganj,Medical College Hospital,446,True
+FAC00841,Munshiganj,District Hospital,160,True
+FAC00842,Munshiganj,General Hospital,243,True
+FAC00843,Munshiganj,Community Clinic,9,True
+FAC00844,Munshiganj,District Hospital,251,True
+FAC00845,Munshiganj,General Hospital,222,True
+FAC00846,Munshiganj,General Hospital,97,True
+FAC00847,Munshiganj,General Hospital,84,True
+FAC00848,Mymensingh,General Hospital,137,False
+FAC00849,Mymensingh,Community Clinic,16,True
+FAC00850,Mymensingh,Upazila Health Complex,70,True
+FAC00851,Mymensingh,District Hospital,131,True
+FAC00852,Mymensingh,District Hospital,211,True
+FAC00853,Mymensingh,Medical College Hospital,413,True
+FAC00854,Mymensingh,Community Clinic,18,True
+FAC00855,Mymensingh,Upazila Health Complex,46,True
+FAC00856,Mymensingh,Community Clinic,19,True
+FAC00857,Mymensingh,District Hospital,236,True
+FAC00858,Mymensingh,Upazila Health Complex,32,False
+FAC00859,Mymensingh,Medical College Hospital,288,True
+FAC00860,Mymensingh,Medical College Hospital,709,True
+FAC00861,Mymensingh,General Hospital,219,True
+FAC00862,Mymensingh,Upazila Health Complex,61,True
+FAC00863,Naogaon,District Hospital,260,True
+FAC00864,Naogaon,General Hospital,242,True
+FAC00865,Naogaon,Community Clinic,20,True
+FAC00866,Naogaon,General Hospital,234,True
+FAC00867,Naogaon,Medical College Hospital,575,True
+FAC00868,Naogaon,Medical College Hospital,717,True
+FAC00869,Naogaon,General Hospital,132,True
+FAC00870,Naogaon,Upazila Health Complex,56,True
+FAC00871,Naogaon,District Hospital,189,False
+FAC00872,Naogaon,General Hospital,204,True
+FAC00873,Naogaon,General Hospital,207,False
+FAC00874,Naogaon,Medical College Hospital,742,True
+FAC00875,Naogaon,District Hospital,256,True
+FAC00876,Naogaon,General Hospital,234,True
+FAC00877,Naogaon,District Hospital,305,True
+FAC00878,Naogaon,Community Clinic,9,True
+FAC00879,Naogaon,Community Clinic,11,True
+FAC00880,Naogaon,District Hospital,392,True
+FAC00881,Naogaon,Community Clinic,15,True
+FAC00882,Narail,Medical College Hospital,324,True
+FAC00883,Narail,Upazila Health Complex,82,True
+FAC00884,Narail,Community Clinic,15,True
+FAC00885,Narail,District Hospital,125,True
+FAC00886,Narail,Upazila Health Complex,92,True
+FAC00887,Narail,Medical College Hospital,439,True
+FAC00888,Narail,General Hospital,118,True
+FAC00889,Narail,Medical College Hospital,299,True
+FAC00890,Narail,Community Clinic,13,True
+FAC00891,Narail,Community Clinic,24,True
+FAC00892,Narail,General Hospital,175,True
+FAC00893,Narail,Community Clinic,17,True
+FAC00894,Narail,General Hospital,99,True
+FAC00895,Narail,District Hospital,346,True
+FAC00896,Narail,General Hospital,83,True
+FAC00897,Narail,Community Clinic,26,True
+FAC00898,Narail,Medical College Hospital,270,True
+FAC00899,Narail,Community Clinic,28,True
+FAC00900,Narail,Community Clinic,5,True
+FAC00901,Narayanganj,Medical College Hospital,525,True
+FAC00902,Narayanganj,Medical College Hospital,422,False
+FAC00903,Narayanganj,Medical College Hospital,444,True
+FAC00904,Narayanganj,Medical College Hospital,710,True
+FAC00905,Narayanganj,Community Clinic,27,True
+FAC00906,Narayanganj,District Hospital,174,True
+FAC00907,Narayanganj,District Hospital,296,True
+FAC00908,Narayanganj,Medical College Hospital,651,True
+FAC00909,Narayanganj,District Hospital,166,True
+FAC00910,Narayanganj,Community Clinic,24,True
+FAC00911,Narayanganj,Community Clinic,24,True
+FAC00912,Narayanganj,District Hospital,227,True
+FAC00913,Narayanganj,General Hospital,205,True
+FAC00914,Narayanganj,General Hospital,211,False
+FAC00915,Narayanganj,Medical College Hospital,351,True
+FAC00916,Narayanganj,District Hospital,358,True
+FAC00917,Narayanganj,Community Clinic,10,True
+FAC00918,Narsingdi,Medical College Hospital,572,False
+FAC00919,Narsingdi,General Hospital,142,True
+FAC00920,Narsingdi,District Hospital,133,True
+FAC00921,Narsingdi,General Hospital,102,True
+FAC00922,Narsingdi,District Hospital,376,True
+FAC00923,Narsingdi,Community Clinic,27,True
+FAC00924,Narsingdi,Upazila Health Complex,59,True
+FAC00925,Narsingdi,General Hospital,203,True
+FAC00926,Narsingdi,Medical College Hospital,276,True
+FAC00927,Narsingdi,Community Clinic,30,True
+FAC00928,Narsingdi,Upazila Health Complex,108,True
+FAC00929,Narsingdi,Medical College Hospital,287,True
+FAC00930,Narsingdi,General Hospital,229,True
+FAC00931,Narsingdi,Upazila Health Complex,75,True
+FAC00932,Narsingdi,Medical College Hospital,724,True
+FAC00933,Narsingdi,Medical College Hospital,334,True
+FAC00934,Narsingdi,Upazila Health Complex,99,True
+FAC00935,Narsingdi,Upazila Health Complex,118,False
+FAC00936,Narsingdi,Medical College Hospital,359,True
+FAC00937,Narsingdi,General Hospital,127,True
+FAC00938,Narsingdi,District Hospital,203,False
+FAC00939,Narsingdi,Upazila Health Complex,34,True
+FAC00940,Narsingdi,General Hospital,193,True
+FAC00941,Narsingdi,District Hospital,313,True
+FAC00942,Narsingdi,General Hospital,225,True
+FAC00943,Narsingdi,District Hospital,134,True
+FAC00944,Narsingdi,Community Clinic,12,True
+FAC00945,Narsingdi,Upazila Health Complex,84,True
+FAC00946,Narsingdi,Upazila Health Complex,110,True
+FAC00947,Natore,Community Clinic,21,True
+FAC00948,Natore,Medical College Hospital,275,True
+FAC00949,Natore,Upazila Health Complex,91,True
+FAC00950,Natore,General Hospital,187,True
+FAC00951,Natore,General Hospital,199,True
+FAC00952,Natore,General Hospital,246,True
+FAC00953,Natore,Community Clinic,30,True
+FAC00954,Natore,Upazila Health Complex,108,True
+FAC00955,Natore,District Hospital,331,True
+FAC00956,Natore,Medical College Hospital,467,True
+FAC00957,Natore,Upazila Health Complex,63,True
+FAC00958,Natore,District Hospital,280,True
+FAC00959,Natore,District Hospital,164,True
+FAC00960,Natore,District Hospital,210,True
+FAC00961,Natore,Medical College Hospital,328,True
+FAC00962,Natore,District Hospital,260,True
+FAC00963,Natore,Medical College Hospital,340,True
+FAC00964,Nawabganj,Medical College Hospital,476,False
+FAC00965,Nawabganj,General Hospital,165,True
+FAC00966,Nawabganj,General Hospital,218,True
+FAC00967,Nawabganj,District Hospital,238,True
+FAC00968,Nawabganj,Upazila Health Complex,74,True
+FAC00969,Nawabganj,Medical College Hospital,740,True
+FAC00970,Nawabganj,General Hospital,249,True
+FAC00971,Nawabganj,Community Clinic,27,True
+FAC00972,Nawabganj,District Hospital,165,True
+FAC00973,Nawabganj,Community Clinic,5,True
+FAC00974,Nawabganj,Medical College Hospital,562,True
+FAC00975,Nawabganj,Medical College Hospital,525,True
+FAC00976,Nawabganj,Medical College Hospital,753,True
+FAC00977,Nawabganj,Medical College Hospital,454,True
+FAC00978,Nawabganj,District Hospital,374,True
+FAC00979,Nawabganj,Community Clinic,14,True
+FAC00980,Nawabganj,Upazila Health Complex,117,True
+FAC00981,Nawabganj,District Hospital,372,True
+FAC00982,Nawabganj,District Hospital,305,True
+FAC00983,Nawabganj,Upazila Health Complex,96,True
+FAC00984,Nawabganj,District Hospital,341,True
+FAC00985,Nawabganj,District Hospital,152,True
+FAC00986,Nawabganj,Upazila Health Complex,80,True
+FAC00987,Nawabganj,Upazila Health Complex,60,True
+FAC00988,Nawabganj,Upazila Health Complex,82,True
+FAC00989,Nawabganj,Upazila Health Complex,110,True
+FAC00990,Nawabganj,General Hospital,131,True
+FAC00991,Netrakona,General Hospital,160,True
+FAC00992,Netrakona,General Hospital,225,True
+FAC00993,Netrakona,Community Clinic,7,True
+FAC00994,Netrakona,Upazila Health Complex,82,True
+FAC00995,Netrakona,Community Clinic,14,True
+FAC00996,Netrakona,General Hospital,91,True
+FAC00997,Netrakona,Medical College Hospital,466,True
+FAC00998,Netrakona,Community Clinic,12,True
+FAC00999,Netrakona,General Hospital,107,True
+FAC01000,Netrakona,Upazila Health Complex,109,False
+FAC01001,Netrakona,General Hospital,233,True
+FAC01002,Netrakona,Upazila Health Complex,108,True
+FAC01003,Netrakona,District Hospital,141,True
+FAC01004,Netrakona,Upazila Health Complex,42,True
+FAC01005,Netrakona,General Hospital,155,True
+FAC01006,Netrakona,District Hospital,175,True
+FAC01007,Netrakona,District Hospital,189,True
+FAC01008,Netrakona,District Hospital,145,True
+FAC01009,Nilphamari,General Hospital,104,True
+FAC01010,Nilphamari,Community Clinic,18,True
+FAC01011,Nilphamari,Community Clinic,20,True
+FAC01012,Nilphamari,District Hospital,222,True
+FAC01013,Nilphamari,Community Clinic,13,True
+FAC01014,Nilphamari,District Hospital,310,True
+FAC01015,Nilphamari,Medical College Hospital,258,True
+FAC01016,Nilphamari,Community Clinic,5,True
+FAC01017,Nilphamari,District Hospital,155,True
+FAC01018,Nilphamari,Medical College Hospital,313,True
+FAC01019,Nilphamari,Medical College Hospital,281,True
+FAC01020,Nilphamari,District Hospital,279,True
+FAC01021,Nilphamari,Upazila Health Complex,90,False
+FAC01022,Nilphamari,Community Clinic,13,True
+FAC01023,Nilphamari,District Hospital,370,True
+FAC01024,Nilphamari,Medical College Hospital,423,True
+FAC01025,Nilphamari,General Hospital,193,True
+FAC01026,Nilphamari,District Hospital,150,True
+FAC01027,Nilphamari,Upazila Health Complex,65,True
+FAC01028,Nilphamari,District Hospital,384,False
+FAC01029,Nilphamari,Upazila Health Complex,51,True
+FAC01030,Nilphamari,Community Clinic,12,True
+FAC01031,Nilphamari,Community Clinic,19,True
+FAC01032,Nilphamari,Upazila Health Complex,53,True
+FAC01033,Nilphamari,Medical College Hospital,764,True
+FAC01034,Nilphamari,Community Clinic,17,True
+FAC01035,Nilphamari,Medical College Hospital,692,True
+FAC01036,Nilphamari,General Hospital,242,True
+FAC01037,Nilphamari,Community Clinic,9,True
+FAC01038,Nilphamari,Community Clinic,8,True
+FAC01039,Noakhali,General Hospital,172,True
+FAC01040,Noakhali,Medical College Hospital,797,False
+FAC01041,Noakhali,Community Clinic,18,True
+FAC01042,Noakhali,District Hospital,359,False
+FAC01043,Noakhali,Community Clinic,6,True
+FAC01044,Noakhali,Medical College Hospital,353,True
+FAC01045,Noakhali,Community Clinic,20,True
+FAC01046,Noakhali,Community Clinic,19,True
+FAC01047,Noakhali,Community Clinic,25,True
+FAC01048,Noakhali,District Hospital,146,True
+FAC01049,Noakhali,Community Clinic,29,True
+FAC01050,Noakhali,Upazila Health Complex,112,True
+FAC01051,Noakhali,Community Clinic,8,True
+FAC01052,Noakhali,General Hospital,100,True
+FAC01053,Noakhali,District Hospital,115,False
+FAC01054,Noakhali,District Hospital,192,True
+FAC01055,Noakhali,District Hospital,335,True
+FAC01056,Noakhali,District Hospital,153,True
+FAC01057,Noakhali,Community Clinic,26,True
+FAC01058,Noakhali,District Hospital,101,True
+FAC01059,Pabna,Community Clinic,29,True
+FAC01060,Pabna,Upazila Health Complex,91,False
+FAC01061,Pabna,Medical College Hospital,731,True
+FAC01062,Pabna,Upazila Health Complex,44,True
+FAC01063,Pabna,Medical College Hospital,614,True
+FAC01064,Pabna,Community Clinic,12,True
+FAC01065,Pabna,Medical College Hospital,351,True
+FAC01066,Pabna,Medical College Hospital,323,True
+FAC01067,Pabna,General Hospital,225,True
+FAC01068,Pabna,Medical College Hospital,423,True
+FAC01069,Pabna,Medical College Hospital,746,True
+FAC01070,Pabna,Upazila Health Complex,30,True
+FAC01071,Pabna,Upazila Health Complex,43,True
+FAC01072,Pabna,General Hospital,137,True
+FAC01073,Pabna,Medical College Hospital,482,True
+FAC01074,Pabna,District Hospital,298,True
+FAC01075,Pabna,District Hospital,397,False
+FAC01076,Pabna,District Hospital,109,True
+FAC01077,Panchagarh,District Hospital,280,True
+FAC01078,Panchagarh,Medical College Hospital,611,True
+FAC01079,Panchagarh,Medical College Hospital,503,True
+FAC01080,Panchagarh,Upazila Health Complex,56,True
+FAC01081,Panchagarh,Medical College Hospital,479,True
+FAC01082,Panchagarh,District Hospital,294,True
+FAC01083,Panchagarh,Medical College Hospital,515,True
+FAC01084,Panchagarh,General Hospital,165,True
+FAC01085,Panchagarh,Upazila Health Complex,97,True
+FAC01086,Panchagarh,Upazila Health Complex,54,True
+FAC01087,Panchagarh,Upazila Health Complex,117,True
+FAC01088,Panchagarh,Community Clinic,13,True
+FAC01089,Panchagarh,Upazila Health Complex,40,True
+FAC01090,Panchagarh,Upazila Health Complex,48,True
+FAC01091,Panchagarh,District Hospital,196,True
+FAC01092,Panchagarh,Community Clinic,18,True
+FAC01093,Panchagarh,Community Clinic,19,True
+FAC01094,Panchagarh,District Hospital,363,True
+FAC01095,Panchagarh,General Hospital,96,True
+FAC01096,Panchagarh,Medical College Hospital,338,True
+FAC01097,Panchagarh,Upazila Health Complex,32,True
+FAC01098,Panchagarh,District Hospital,176,True
+FAC01099,Panchagarh,General Hospital,87,True
+FAC01100,Panchagarh,Upazila Health Complex,77,True
+FAC01101,Patuakhali,Medical College Hospital,702,True
+FAC01102,Patuakhali,General Hospital,156,True
+FAC01103,Patuakhali,Medical College Hospital,377,True
+FAC01104,Patuakhali,Community Clinic,22,True
+FAC01105,Patuakhali,District Hospital,327,True
+FAC01106,Patuakhali,Medical College Hospital,775,True
+FAC01107,Patuakhali,Medical College Hospital,663,True
+FAC01108,Patuakhali,Upazila Health Complex,65,True
+FAC01109,Patuakhali,General Hospital,121,True
+FAC01110,Patuakhali,General Hospital,102,True
+FAC01111,Patuakhali,Community Clinic,19,True
+FAC01112,Patuakhali,Community Clinic,25,True
+FAC01113,Patuakhali,General Hospital,194,True
+FAC01114,Patuakhali,Upazila Health Complex,78,True
+FAC01115,Patuakhali,Upazila Health Complex,88,True
+FAC01116,Patuakhali,Medical College Hospital,763,True
+FAC01117,Patuakhali,Medical College Hospital,655,True
+FAC01118,Patuakhali,General Hospital,144,True
+FAC01119,Patuakhali,Upazila Health Complex,106,True
+FAC01120,Patuakhali,Medical College Hospital,581,True
+FAC01121,Patuakhali,Upazila Health Complex,107,True
+FAC01122,Patuakhali,General Hospital,212,True
+FAC01123,Patuakhali,District Hospital,333,True
+FAC01124,Patuakhali,Upazila Health Complex,101,True
+FAC01125,Patuakhali,District Hospital,131,True
+FAC01126,Patuakhali,General Hospital,119,True
+FAC01127,Patuakhali,Upazila Health Complex,41,True
+FAC01128,Patuakhali,General Hospital,243,True
+FAC01129,Patuakhali,Upazila Health Complex,67,True
+FAC01130,Pirojpur,Upazila Health Complex,86,True
+FAC01131,Pirojpur,Upazila Health Complex,110,True
+FAC01132,Pirojpur,Upazila Health Complex,57,True
+FAC01133,Pirojpur,Medical College Hospital,617,True
+FAC01134,Pirojpur,Medical College Hospital,565,True
+FAC01135,Pirojpur,General Hospital,162,True
+FAC01136,Pirojpur,Community Clinic,11,True
+FAC01137,Pirojpur,Medical College Hospital,505,True
+FAC01138,Pirojpur,General Hospital,126,True
+FAC01139,Pirojpur,General Hospital,203,True
+FAC01140,Pirojpur,District Hospital,284,True
+FAC01141,Pirojpur,Upazila Health Complex,34,True
+FAC01142,Pirojpur,Medical College Hospital,594,True
+FAC01143,Pirojpur,General Hospital,228,True
+FAC01144,Pirojpur,Upazila Health Complex,61,True
+FAC01145,Pirojpur,District Hospital,236,True
+FAC01146,Pirojpur,Community Clinic,9,False
+FAC01147,Pirojpur,Community Clinic,6,True
+FAC01148,Pirojpur,District Hospital,380,True
+FAC01149,Pirojpur,Community Clinic,21,True
+FAC01150,Pirojpur,Community Clinic,6,True
+FAC01151,Pirojpur,Medical College Hospital,347,True
+FAC01152,Rajbari,Medical College Hospital,389,True
+FAC01153,Rajbari,Community Clinic,22,True
+FAC01154,Rajbari,Community Clinic,12,False
+FAC01155,Rajbari,Upazila Health Complex,100,True
+FAC01156,Rajbari,Upazila Health Complex,103,True
+FAC01157,Rajbari,General Hospital,229,True
+FAC01158,Rajbari,District Hospital,399,False
+FAC01159,Rajbari,Community Clinic,19,True
+FAC01160,Rajbari,Community Clinic,28,True
+FAC01161,Rajbari,Upazila Health Complex,75,True
+FAC01162,Rajbari,Medical College Hospital,465,True
+FAC01163,Rajbari,Upazila Health Complex,52,True
+FAC01164,Rajbari,General Hospital,86,True
+FAC01165,Rajbari,General Hospital,177,True
+FAC01166,Rajbari,General Hospital,157,True
+FAC01167,Rajbari,Community Clinic,12,True
+FAC01168,Rajbari,General Hospital,187,True
+FAC01169,Rajbari,Upazila Health Complex,86,True
+FAC01170,Rajbari,Upazila Health Complex,38,True
+FAC01171,Rajbari,General Hospital,138,True
+FAC01172,Rajbari,Upazila Health Complex,46,True
+FAC01173,Rajbari,Community Clinic,27,True
+FAC01174,Rajbari,Upazila Health Complex,112,True
+FAC01175,Rajbari,District Hospital,247,True
+FAC01176,Rajshahi,Community Clinic,19,True
+FAC01177,Rajshahi,District Hospital,283,True
+FAC01178,Rajshahi,Medical College Hospital,306,True
+FAC01179,Rajshahi,Upazila Health Complex,65,True
+FAC01180,Rajshahi,General Hospital,144,True
+FAC01181,Rajshahi,General Hospital,248,True
+FAC01182,Rajshahi,Upazila Health Complex,31,True
+FAC01183,Rajshahi,Community Clinic,9,True
+FAC01184,Rajshahi,Upazila Health Complex,45,True
+FAC01185,Rajshahi,General Hospital,190,True
+FAC01186,Rajshahi,District Hospital,308,True
+FAC01187,Rajshahi,Upazila Health Complex,107,True
+FAC01188,Rajshahi,General Hospital,204,True
+FAC01189,Rajshahi,Community Clinic,8,True
+FAC01190,Rajshahi,District Hospital,221,True
+FAC01191,Rajshahi,General Hospital,149,True
+FAC01192,Rajshahi,Upazila Health Complex,64,True
+FAC01193,Rajshahi,Upazila Health Complex,58,True
+FAC01194,Rangamati,Community Clinic,25,True
+FAC01195,Rangamati,Medical College Hospital,699,True
+FAC01196,Rangamati,Medical College Hospital,781,True
+FAC01197,Rangamati,Medical College Hospital,347,True
+FAC01198,Rangamati,Medical College Hospital,481,True
+FAC01199,Rangamati,General Hospital,207,True
+FAC01200,Rangamati,General Hospital,167,True
+FAC01201,Rangamati,Community Clinic,15,True
+FAC01202,Rangamati,District Hospital,359,True
+FAC01203,Rangamati,General Hospital,91,True
+FAC01204,Rangamati,General Hospital,165,True
+FAC01205,Rangamati,Community Clinic,22,True
+FAC01206,Rangamati,District Hospital,241,True
+FAC01207,Rangamati,General Hospital,115,True
+FAC01208,Rangamati,District Hospital,285,True
+FAC01209,Rangamati,Medical College Hospital,304,True
+FAC01210,Rangamati,Medical College Hospital,531,True
+FAC01211,Rangamati,Upazila Health Complex,40,True
+FAC01212,Rangamati,District Hospital,245,True
+FAC01213,Rangamati,Community Clinic,13,True
+FAC01214,Rangamati,District Hospital,363,True
+FAC01215,Rangamati,General Hospital,81,True
+FAC01216,Rangamati,Community Clinic,21,True
+FAC01217,Rangamati,District Hospital,212,True
+FAC01218,Rangamati,Community Clinic,23,True
+FAC01219,Rangamati,Upazila Health Complex,73,True
+FAC01220,Rangpur,District Hospital,344,True
+FAC01221,Rangpur,Community Clinic,5,True
+FAC01222,Rangpur,District Hospital,268,True
+FAC01223,Rangpur,Medical College Hospital,716,True
+FAC01224,Rangpur,District Hospital,194,True
+FAC01225,Rangpur,Upazila Health Complex,77,True
+FAC01226,Rangpur,Community Clinic,21,True
+FAC01227,Rangpur,Medical College Hospital,459,True
+FAC01228,Rangpur,Community Clinic,9,True
+FAC01229,Rangpur,Medical College Hospital,610,True
+FAC01230,Rangpur,General Hospital,192,True
+FAC01231,Rangpur,Community Clinic,18,True
+FAC01232,Rangpur,General Hospital,188,True
+FAC01233,Rangpur,General Hospital,247,True
+FAC01234,Rangpur,District Hospital,245,True
+FAC01235,Rangpur,District Hospital,336,True
+FAC01236,Rangpur,Community Clinic,29,True
+FAC01237,Rangpur,Community Clinic,28,True
+FAC01238,Rangpur,General Hospital,87,True
+FAC01239,Rangpur,Community Clinic,16,True
+FAC01240,Rangpur,General Hospital,198,True
+FAC01241,Rangpur,Medical College Hospital,352,True
+FAC01242,Rangpur,General Hospital,160,True
+FAC01243,Rangpur,Medical College Hospital,252,True
+FAC01244,Rangpur,General Hospital,247,True
+FAC01245,Rangpur,District Hospital,116,True
+FAC01246,Rangpur,General Hospital,104,True
+FAC01247,Rangpur,Upazila Health Complex,82,True
+FAC01248,Rangpur,District Hospital,239,True
+FAC01249,Satkhira,Upazila Health Complex,103,True
+FAC01250,Satkhira,Community Clinic,20,True
+FAC01251,Satkhira,District Hospital,307,True
+FAC01252,Satkhira,Community Clinic,16,True
+FAC01253,Satkhira,Medical College Hospital,791,True
+FAC01254,Satkhira,Upazila Health Complex,67,True
+FAC01255,Satkhira,General Hospital,152,False
+FAC01256,Satkhira,District Hospital,266,True
+FAC01257,Satkhira,Upazila Health Complex,30,True
+FAC01258,Satkhira,Community Clinic,28,True
+FAC01259,Satkhira,Medical College Hospital,680,True
+FAC01260,Satkhira,General Hospital,92,True
+FAC01261,Satkhira,General Hospital,221,True
+FAC01262,Satkhira,General Hospital,85,True
+FAC01263,Satkhira,Upazila Health Complex,53,True
+FAC01264,Satkhira,Upazila Health Complex,95,True
+FAC01265,Satkhira,Medical College Hospital,733,True
+FAC01266,Satkhira,Upazila Health Complex,94,True
+FAC01267,Shariatpur,Community Clinic,17,True
+FAC01268,Shariatpur,District Hospital,241,True
+FAC01269,Shariatpur,District Hospital,345,True
+FAC01270,Shariatpur,Community Clinic,26,True
+FAC01271,Shariatpur,Medical College Hospital,408,True
+FAC01272,Shariatpur,Community Clinic,28,True
+FAC01273,Shariatpur,Community Clinic,28,True
+FAC01274,Shariatpur,General Hospital,121,True
+FAC01275,Shariatpur,Community Clinic,30,True
+FAC01276,Shariatpur,Community Clinic,10,True
+FAC01277,Shariatpur,Upazila Health Complex,70,True
+FAC01278,Shariatpur,General Hospital,237,True
+FAC01279,Shariatpur,General Hospital,145,True
+FAC01280,Shariatpur,District Hospital,127,True
+FAC01281,Shariatpur,Upazila Health Complex,120,True
+FAC01282,Shariatpur,District Hospital,328,True
+FAC01283,Shariatpur,District Hospital,380,False
+FAC01284,Sherpur,Community Clinic,12,True
+FAC01285,Sherpur,Community Clinic,29,True
+FAC01286,Sherpur,Upazila Health Complex,58,True
+FAC01287,Sherpur,Upazila Health Complex,77,True
+FAC01288,Sherpur,Upazila Health Complex,87,True
+FAC01289,Sherpur,Medical College Hospital,626,True
+FAC01290,Sherpur,Community Clinic,18,True
+FAC01291,Sherpur,General Hospital,154,True
+FAC01292,Sherpur,Upazila Health Complex,104,False
+FAC01293,Sherpur,General Hospital,224,True
+FAC01294,Sherpur,Community Clinic,10,True
+FAC01295,Sherpur,Community Clinic,7,True
+FAC01296,Sherpur,Upazila Health Complex,82,True
+FAC01297,Sherpur,General Hospital,159,True
+FAC01298,Sherpur,District Hospital,282,True
+FAC01299,Sherpur,General Hospital,218,True
+FAC01300,Sherpur,District Hospital,380,True
+FAC01301,Sherpur,District Hospital,104,True
+FAC01302,Sherpur,Community Clinic,24,True
+FAC01303,Sherpur,Upazila Health Complex,91,False
+FAC01304,Sherpur,Community Clinic,20,True
+FAC01305,Sherpur,General Hospital,244,True
+FAC01306,Sherpur,Medical College Hospital,518,True
+FAC01307,Sherpur,Community Clinic,17,True
+FAC01308,Sherpur,District Hospital,162,True
+FAC01309,Sherpur,Upazila Health Complex,109,True
+FAC01310,Sherpur,District Hospital,241,True
+FAC01311,Sherpur,Upazila Health Complex,30,True
+FAC01312,Sirajganj,Medical College Hospital,355,True
+FAC01313,Sirajganj,Community Clinic,6,True
+FAC01314,Sirajganj,Upazila Health Complex,117,True
+FAC01315,Sirajganj,Upazila Health Complex,50,True
+FAC01316,Sirajganj,Upazila Health Complex,109,True
+FAC01317,Sirajganj,Community Clinic,19,True
+FAC01318,Sirajganj,District Hospital,287,True
+FAC01319,Sirajganj,Upazila Health Complex,84,True
+FAC01320,Sirajganj,District Hospital,111,True
+FAC01321,Sirajganj,Upazila Health Complex,52,True
+FAC01322,Sirajganj,Medical College Hospital,415,True
+FAC01323,Sirajganj,General Hospital,137,True
+FAC01324,Sirajganj,Medical College Hospital,601,True
+FAC01325,Sirajganj,Community Clinic,11,True
+FAC01326,Sirajganj,District Hospital,249,True
+FAC01327,Sirajganj,District Hospital,241,True
+FAC01328,Sirajganj,Community Clinic,29,True
+FAC01329,Sirajganj,Upazila Health Complex,61,True
+FAC01330,Sirajganj,Medical College Hospital,563,True
+FAC01331,Sirajganj,Upazila Health Complex,45,True
+FAC01332,Sirajganj,Community Clinic,14,True
+FAC01333,Sirajganj,Upazila Health Complex,37,True
+FAC01334,Sirajganj,Medical College Hospital,375,True
+FAC01335,Sirajganj,District Hospital,143,True
+FAC01336,Sunamganj,Upazila Health Complex,107,True
+FAC01337,Sunamganj,Medical College Hospital,476,True
+FAC01338,Sunamganj,General Hospital,101,True
+FAC01339,Sunamganj,District Hospital,258,True
+FAC01340,Sunamganj,Medical College Hospital,693,True
+FAC01341,Sunamganj,General Hospital,223,True
+FAC01342,Sunamganj,General Hospital,99,True
+FAC01343,Sunamganj,General Hospital,111,True
+FAC01344,Sunamganj,Community Clinic,21,True
+FAC01345,Sunamganj,Medical College Hospital,582,True
+FAC01346,Sunamganj,Upazila Health Complex,47,True
+FAC01347,Sunamganj,Medical College Hospital,414,True
+FAC01348,Sunamganj,Medical College Hospital,370,True
+FAC01349,Sunamganj,Upazila Health Complex,95,True
+FAC01350,Sunamganj,Upazila Health Complex,43,True
+FAC01351,Sunamganj,Upazila Health Complex,90,True
+FAC01352,Sunamganj,General Hospital,222,False
+FAC01353,Sylhet,Community Clinic,27,True
+FAC01354,Sylhet,Upazila Health Complex,56,True
+FAC01355,Sylhet,Medical College Hospital,290,False
+FAC01356,Sylhet,Medical College Hospital,628,True
+FAC01357,Sylhet,Medical College Hospital,318,True
+FAC01358,Sylhet,Medical College Hospital,427,True
+FAC01359,Sylhet,District Hospital,208,True
+FAC01360,Sylhet,General Hospital,178,True
+FAC01361,Sylhet,Community Clinic,5,True
+FAC01362,Sylhet,Medical College Hospital,765,True
+FAC01363,Sylhet,Medical College Hospital,280,True
+FAC01364,Sylhet,General Hospital,170,True
+FAC01365,Sylhet,Upazila Health Complex,117,True
+FAC01366,Sylhet,Community Clinic,10,True
+FAC01367,Sylhet,Community Clinic,15,True
+FAC01368,Sylhet,Upazila Health Complex,109,True
+FAC01369,Sylhet,Upazila Health Complex,61,True
+FAC01370,Sylhet,Community Clinic,8,True
+FAC01371,Sylhet,Medical College Hospital,359,True
+FAC01372,Sylhet,Medical College Hospital,458,True
+FAC01373,Sylhet,Medical College Hospital,292,True
+FAC01374,Sylhet,Medical College Hospital,733,True
+FAC01375,Sylhet,General Hospital,196,True
+FAC01376,Sylhet,Upazila Health Complex,30,True
+FAC01377,Sylhet,Upazila Health Complex,118,True
+FAC01378,Sylhet,General Hospital,83,True
+FAC01379,Sylhet,General Hospital,245,True
+FAC01380,Sylhet,Upazila Health Complex,59,False
+FAC01381,Tangail,General Hospital,221,True
+FAC01382,Tangail,Community Clinic,24,True
+FAC01383,Tangail,Upazila Health Complex,33,True
+FAC01384,Tangail,Upazila Health Complex,45,True
+FAC01385,Tangail,Upazila Health Complex,112,True
+FAC01386,Tangail,Upazila Health Complex,73,True
+FAC01387,Tangail,Community Clinic,19,True
+FAC01388,Tangail,Community Clinic,28,True
+FAC01389,Tangail,Upazila Health Complex,111,True
+FAC01390,Tangail,General Hospital,196,False
+FAC01391,Tangail,Upazila Health Complex,115,True
+FAC01392,Tangail,Upazila Health Complex,40,True
+FAC01393,Tangail,Upazila Health Complex,116,True
+FAC01394,Tangail,Community Clinic,8,True
+FAC01395,Tangail,Upazila Health Complex,109,True
+FAC01396,Tangail,Community Clinic,20,True
+FAC01397,Tangail,District Hospital,317,True
+FAC01398,Tangail,General Hospital,81,True
+FAC01399,Tangail,Medical College Hospital,326,True
+FAC01400,Tangail,Medical College Hospital,297,True
+FAC01401,Tangail,Community Clinic,20,True
+FAC01402,Thakurgaon,General Hospital,103,True
+FAC01403,Thakurgaon,Medical College Hospital,674,True
+FAC01404,Thakurgaon,Medical College Hospital,546,True
+FAC01405,Thakurgaon,District Hospital,252,True
+FAC01406,Thakurgaon,District Hospital,353,True
+FAC01407,Thakurgaon,General Hospital,197,True
+FAC01408,Thakurgaon,Upazila Health Complex,107,True
+FAC01409,Thakurgaon,Community Clinic,6,True
+FAC01410,Thakurgaon,General Hospital,228,True
+FAC01411,Thakurgaon,Medical College Hospital,625,False
+FAC01412,Thakurgaon,General Hospital,164,True
+FAC01413,Thakurgaon,Community Clinic,20,True
+FAC01414,Thakurgaon,Medical College Hospital,708,True
+FAC01415,Thakurgaon,Community Clinic,11,True
+FAC01416,Thakurgaon,General Hospital,240,True
+FAC01417,Thakurgaon,District Hospital,320,True
+FAC01418,Thakurgaon,Community Clinic,30,False
+FAC01419,Thakurgaon,Community Clinic,28,True
+FAC01420,Thakurgaon,Upazila Health Complex,67,True
